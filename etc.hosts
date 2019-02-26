@@ -7,8 +7,6 @@
 42:0:8809:c21a:c777:b352:f0d8:47d3 bolide.r
 10.243.27.29 brauerei.r
 42:0:8809:da7f:7b20:6a54:c412:808f brauerei.r
-10.243.26.29 excobridge.r
-42:0:e644:97b5:17f2:9b07:3143:d8cd excobridge.r
 10.243.136.236 cake.r
 42:0:e644:ab0:32cd:b619:1962:5 cake.r
 10.243.2.3 catullus.r
@@ -17,36 +15,28 @@
 42:0:e644:b386:6e2a:c94f:34d6:b0ca crapi.r
 10.243.133.115 daedalus.r cgit.daedalus.r
 42:0:ce16::daed daedalus.r cgit.daedalus.r
-10.243.0.84 darth.r
-42:0:e644:d60f:19ee:35f9:fd85:85ad darth.r
 10.243.29.173 dpdkm.r
 42:0:3c46:7296:36f3:4099:1a6b:d47e dpdkm.r
-10.243.177.9 drop.r
-42:0:e644:942a:d90e:e9cc:f6be:a1d2 drop.r
 10.243.29.170 eddie.r
 42:0:3c46:126:3b9d:8298:f1b5:86d eddie.r
 10.243.27.30 enklave.r cgit.enklave.r
 42:0:8809:2ef1:f4d5:6338:daa4:ba68 enklave.r cgit.enklave.r
 10.243.29.174 eve.r
 42:0:3c46:70c7:8526:2adf:7451:8bbb eve.r
-10.243.120.19 falk.r
-42:0:e644:5c8f:b1ac:85b5:f0a7:a252 falk.r
 10.243.189.130 filebitch.r
 42:0:e644:344c:cb3f:4a05:711b:f53e filebitch.r
 10.243.113.98 fileleech.r
 42:0:e644:8862:affa:791e:7baa:d505 fileleech.r
 10.243.153.102 filepimp.r
 42:0:e644:a124:fa4b:3226:1089:12 filepimp.r
+10.243.12.12 firecracker.r
+42::12 firecracker.r
 10.243.211.172 flap.r
 42:0:e644:43dc:2291:7db8:acdc:d33e flap.r
 10.243.0.213 backup.makefu.r blog.gum.r blog.makefu.r cache.gum.r cgit.gum.r dcpp.gum.r dcpp.nextgum.r graph.r gum.r logs.makefu.r netdata.makefu.r nextgum.r o.gum.r search.makefu.r stats.makefu.r torrent.gum.r tracker.makefu.r wiki.gum.r wiki.makefu.r
 42:0:e644:238d:3e46:c884:6ec5:16c backup.makefu.r blog.gum.r blog.makefu.r cache.gum.r cgit.gum.r dcpp.gum.r dcpp.nextgum.r graph.r gum.r logs.makefu.r netdata.makefu.r nextgum.r o.gum.r search.makefu.r stats.makefu.r torrent.gum.r tracker.makefu.r wiki.gum.r wiki.makefu.r
-10.243.124.21 heidi.r
-42:0:e644:aaca:5a3:31a7:f4f1:929f heidi.r
 10.243.2.1 homeros.r
 42:0:3c46:53e:e63d:e62a:56ea:c705 homeros.r
-10.243.226.213 horisa.r
-42:0:e644:9099:4f8:b9aa:3856:4e85 horisa.r
 10.243.77.3 hotdog.r build.r build.hotdog.r cgit.hotdog.r irc.r
 42:0:ca48:b3a6:3560:2208:e86a:c7d6 hotdog.r build.r build.hotdog.r cgit.hotdog.r irc.r
 10.243.133.114 icarus.r cgit.icarus.r
@@ -59,10 +49,6 @@
 42:0:3c46:e6cf:86ae:85a9:e13f:4cd justraute.r
 10.243.23.3 kruck.r
 42:0:3c46:5454:ed47:ce2a:29f0:959a kruck.r
-10.243.64.7 lariat.r
-42:0:e644:d25b:7ac0:6046:fda2:8dbe lariat.r
-10.243.80.249 latte.r
-42:0:e644:7cc2:201c:8cbb:ff58:fbfa latte.r
 10.243.133.77 littleT.r
 42:0:ce16::771e littleT.r
 10.243.29.176 matchbox.r
@@ -85,10 +71,6 @@
 42:0:ca48:bfa7:deac:9452:799:37a onebutton.r
 10.243.23.1 pepe.r
 42:0:3c46:b7c1:7c9e:7c14:94b2:684a pepe.r
-10.243.0.153 pigstarter.r
-42:0:e644:fa8d:7abd:f9ca:51c7:79dc pigstarter.r
-10.243.0.210 pnp.r cgit.pnp.r
-42:0:e644:305f:a612:d363:14ef:4cf5 pnp.r cgit.pnp.r
 10.243.0.103 prism.r cache.prism.r cgit.prism.r paste.r p.r
 42:0:ce16::1 prism.r cache.prism.r cgit.prism.r paste.r p.r
 10.243.77.2 puyak.r build.puyak.r cgit.puyak.r go.r
@@ -113,20 +95,12 @@
 42:0:e644:d21:6292:46e0:57e:23e5 senderechner.r
 10.243.0.4 shodan.r cgit.shodan.r
 42:0:ce16::50da shodan.r cgit.shodan.r
-10.243.205.131 shoney.r
-42:0:e644:28bd:23fc:b44f:2115:e21e shoney.r
 10.243.133.116 skynet.r cgit.skynet.r
 42:0:ce16::5ce7 skynet.r cgit.skynet.r
 10.243.142.104 sokrateslaptop.r
 42:0:3c46:d31e:64a7:4a62:a9b0:118 sokrateslaptop.r
-10.243.69.184 soundflower.r
-42:0:e644:afcb:b17d:82d5:7b35:e3c2 soundflower.r
 10.243.227.163 studio.r
 42:0:e644:c049:da0d:aaba:4b15:6961 studio.r
-10.243.57.85 wooki.r
-42:0:e644:3982:3ff7:4a58:f8b:39f0 wooki.r
-10.243.144.142 tcac-0-1.r
-42:0:e644:b48c:43f4:a32c:1b05:53ca tcac-0-1.r
 10.243.183.236 tpsw.r
 42:0:3c46:7eec:653c:73c1:91dc:f89e tpsw.r
 10.243.0.212 tsp.r
@@ -135,8 +109,6 @@
 42:0:3c46:47e8:f610:15d1:27a3:674b turingmachine.r
 10.243.81.176 uriel.r cgit.uriel.r
 42:0:ce16::1e1 uriel.r cgit.uriel.r
-10.243.1.91 vbob.r
-42:0:e644:289b:9800:bc9b:94fd:d4e2 vbob.r
 10.243.214.15 wbob.r hydra.wbob.r
 42:0:e644:4499:d034:895e:34c8:6f9a wbob.r hydra.wbob.r
 10.243.77.1 wolf.r build.wolf.r cgit.wolf.r lounge.mpd.wolf.r
@@ -145,8 +117,6 @@
 42:0:3c46:cebc:c85b:3259:97fa:757a workhorse.r
 10.243.23.4 workout.r
 42:0:3c46:3736:b10c:94bd:8ae3:8a2a workout.r
-10.243.29.169 wry.r graph.wry.r paste.wry.r
-42:0:e644:f595:bd01:51d:edea:12a1 wry.r graph.wry.r paste.wry.r
 10.243.13.37 wu.r cgit.wu.r
 42:0:a46e:b17d:cf4e:39ae:462a:f95 wu.r cgit.wu.r
 10.243.0.91 x.r
