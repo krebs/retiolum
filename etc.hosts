@@ -33,6 +33,8 @@
 42:0:e644:8c94:c2d8:72a1:3438:b376 firecracker.r
 10.243.211.172 flap.r
 42:0:e644:43dc:2291:7db8:acdc:d33e flap.r
+10.243.0.66 green.r
+42:0:ce16::12ee green.r
 10.243.0.213 gum.r backup.makefu.r blog.gum.r blog.makefu.r cache.gum.r cgit.gum.r dcpp.gum.r dcpp.nextgum.r graph.r logs.makefu.r netdata.makefu.r nextgum.r o.gum.r search.makefu.r stats.makefu.r torrent.gum.r tracker.makefu.r wiki.gum.r wiki.makefu.r
 42:0:e644:238d:3e46:c884:6ec5:16c gum.r backup.makefu.r blog.gum.r blog.makefu.r cache.gum.r cgit.gum.r dcpp.gum.r dcpp.nextgum.r graph.r logs.makefu.r netdata.makefu.r nextgum.r o.gum.r search.makefu.r stats.makefu.r torrent.gum.r tracker.makefu.r wiki.gum.r wiki.makefu.r
 10.243.2.1 homeros.r
