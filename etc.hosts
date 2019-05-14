@@ -49,8 +49,8 @@
 42:0:3c46:59bb:98fe:4422:5503:5a14 inspector.r
 10.243.183.231 justraute.r
 42:0:3c46:e6cf:86ae:85a9:e13f:4cd justraute.r
-10.243.23.3 kruck.r
-42:0:3c46:5454:ed47:ce2a:29f0:959a kruck.r
+10.243.23.3 kruck.r video.kruck.r
+42:0:3c46:5454:ed47:ce2a:29f0:959a kruck.r video.kruck.r
 10.243.133.77 littleT.r
 42:0:ce16::771e littleT.r
 10.243.29.176 matchbox.r
@@ -71,6 +71,8 @@
 42:0:e644:920e:23f6:353a:c09:5a66 omo.r dcpp.omo.r torrent.omo.r
 10.243.0.101 onebutton.r
 42:0:ca48:bfa7:deac:9452:799:37a onebutton.r
+10.243.42.23 orange.r or4ng3.r 0r4n93.r
+10.243.42.42 p1nk.r
 10.243.23.1 pepe.r
 42:0:3c46:b7c1:7c9e:7c14:94b2:684a pepe.r
 10.243.0.103 prism.r cache.prism.r cgit.prism.r paste.r p.r
