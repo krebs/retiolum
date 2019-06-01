@@ -40,6 +40,8 @@
 42:0:e644:238d:3e46:c884:6ec5:16c gum.r backup.makefu.r blog.gum.r blog.makefu.r cache.gum.r cgit.gum.r dcpp.gum.r dcpp.nextgum.r graph.r logs.makefu.r netdata.makefu.r nextgum.r o.gum.r search.makefu.r stats.makefu.r torrent.gum.r tracker.makefu.r wiki.gum.r wiki.makefu.r
 10.243.2.1 homeros.r
 42:0:3c46:53e:e63d:e62a:56ea:c705 homeros.r
+10.243.226.213 horisa.r
+42:0:e644:9099:4f8:b9aa:3856:4e85 horisa.r
 10.243.77.3 hotdog.r build.r build.hotdog.r cgit.hotdog.r irc.r
 42:0:ca48:b3a6:3560:2208:e86a:c7d6 hotdog.r build.r build.hotdog.r cgit.hotdog.r irc.r
 10.243.133.114 icarus.r cgit.icarus.r
