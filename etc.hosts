@@ -117,8 +117,8 @@
 42:0:3c46:47e8:f610:15d1:27a3:674b turingmachine.r
 10.243.81.176 uriel.r cgit.uriel.r
 42:0:ce16::1e1 uriel.r cgit.uriel.r
-10.243.214.15 wbob.r hydra.wbob.r
-42:0:e644:4499:d034:895e:34c8:6f9a wbob.r hydra.wbob.r
+10.243.214.15 wbob.r hydra.wbob.r log.wbob.r
+42:0:e644:4499:d034:895e:34c8:6f9a wbob.r hydra.wbob.r log.wbob.r
 10.243.77.1 wolf.r build.wolf.r cgit.wolf.r lounge.mpd.wolf.r
 42:0:ca48:b76a:f76b:61b9:62db:75b wolf.r build.wolf.r cgit.wolf.r lounge.mpd.wolf.r
 10.243.23.5 workhorse.r
