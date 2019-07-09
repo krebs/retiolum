@@ -15,6 +15,8 @@
 42:0:e644:b386:6e2a:c94f:34d6:b0ca crapi.r
 10.243.133.115 daedalus.r cgit.daedalus.r
 42:0:ce16::daed daedalus.r cgit.daedalus.r
+10.243.29.180 donna.r
+42:0:3c46:7f2f:ed62:c6fd:9f1b:9900 donna.r
 10.243.29.173 dpdkm.r
 42:0:3c46:7296:36f3:4099:1a6b:d47e dpdkm.r
 10.243.29.170 eddie.r
@@ -56,6 +58,8 @@
 42:0:3c46:5454:ed47:ce2a:29f0:959a kruck.r video.kruck.r
 10.243.133.77 littleT.r
 42:0:ce16::771e littleT.r
+10.243.29.179 martha.r
+42:0:3c46:5466:7dbe:f27a:673f:ea64 martha.r
 10.243.29.176 matchbox.r
 42:0:3c46:6745:adf4:a844:26c4:bf91 matchbox.r
 10.243.0.19 morpheus.r
@@ -90,6 +94,8 @@
 42:0:ce16::12ed red.r
 10.243.29.171 rock.r
 42:0:3c46:e1a5:350a:770c:ec9:f353 rock.r
+10.243.29.178 rose.r
+42:0:3c46:a5a1:618d:663a:f0f1:ec88 rose.r
 10.243.2.2 scardanelli.r
 42:0:3c46:4007:5bce:f1bc:606b:2b18 scardanelli.r
 10.243.23.2 schasch.r
