@@ -32,36 +32,107 @@ openssl rsa -in retiolum-cfg/retiolum.rsa_key.priv -pubout -out retiolum-cfg/ret
 
 ## add key to stockholm
 
+The stockholm repository contains (among other things) the configuration of the
+retiolum super nodes.  This configuration needs to be updated in order to add
+new hosts to the network.
+
+Checkout the repository and change into it:
+
 ```
 git clone https://cgit.krebsco.de/stockholm
+cd stockholm
 ```
 
-choose an ipv4 address in the range of 10.243.0.0/16
-check if the ipv4 address is already used by anyone in stockholm:
+Choose an IPv4 address in the range of 10.243.0.0/16, and check whether it is
+already occupied:
 
 ```
-git -C stockholm grep 10.243.my.ip
+git grep 10.243.my.ip
 ```
 
-modify the default.nix in krebs/3modules/external
+Add your user and host information to krebs/3modules/external/default.nix while
+preserving lexicographical order of the entries.  The most important bits to
+configure are the `owner` and the `nets.retiolum` attributes.  Have a look at
+e.g. the `matchbox` host to see a minimal example:
 
 ```
-vim krebs/3modules/external/default.nix
+$EDITOR krebs/3modules/external/default.nix
 ```
 
-add your host nix information to this file, please mind the alphabetical sorting
-
-now, create a patch out of your changes:
+Prepare a pull-request:
 
 ```
-git diff > retiolum.patch
-````
+git add krebs/3modules/external/default.nix
+git commit -m 'external: add myhostname'
+git format-patch origin/master..
+```
 
-## ask for approval
+This will print the file name of the formatted patch, which will be called
+something like `0001-external-add-myhostname.patch` (depending on your commmit
+message).  The contents of that should look something like this:
 
-join the #krebs channel on freenode.
-If you don't know anything about irc,  you can just use this webirc: https://webchat.freenode.net/#krebs
-If you are not known, introduce yourself, explain what you are doing and what you want to contribute. upload your patch to some pastebin (preferably https://paste.krebsco.de) or send it to spam@krebsco.de
+```patch
+From 75785902b71f03474c446694c5e1e25cd8c3ee23 Mon Sep 1700:00:00 2001
+From: myname <myname@mydomain>
+Date: Wed, 11 Sep 2019 11:34:44 +0200
+Subject: [PATCH] external: add myhostname
+
+---
+ krebs/3modules/external/default.nix | 17 +++++++++++++++++
+ 1 file changed, 17 insertions(+)
+
+diff --git a/krebs/3modules/external/default.nix b/krebs/3modules/external/default.nix
+index aac67f2e..b6cdaebc 100644
+--- a/krebs/3modules/external/default.nix
++++ b/krebs/3modules/external/default.nix
+@@ -393,6 +393,20 @@ in {
+         };
+       };
+     };
++    myhostname = {
++      owner = config.krebs.users.myuser;
++      nets = {
++        retiolum = {
++          ip4.addr = "10.243.my.ip";
++          aliases = [ "myhostname.r" ];
++          tinc.pubkey = ''
++            -----BEGIN RSA PUBLIC KEY-----
++            ...
++            -----END RSA PUBLIC KEY-----
++          '';
++        };
++      };
++    };
+     qubasa = {
+       owner = config.krebs.users.qubasa;
+       nets = {
+@@ -693,6 +707,9 @@ in {
+       mail = "joerg@thalheim.io";
+       pubkey = ssh-for "Mic92";
+     };
++    myuser = {
++      mail = "myuser@mydomain";
++    };
+     qubasa = {
+       mail = "luis.nixos@gmail.com";
+     };
+-- 
+2.19.2
+```
+
+## ask for the patch to get merged
+
+Join the #krebs channel on freenode.
+If you don't know anything about IRC, you can just use this webirc: https://webchat.freenode.net/#krebs
+If you are not known, introduce yourself, explain what you are doing and what you want to contribute.
+Then send the formatted patch either sent via email to spam@krebsco.de, or
+upload it to some pastebin (preferably https://paste.krebsco.de) and share the
+link to the pasted patch in #krebs.
+Now some patience will be required, but you will soon receive confirmation or
+change requests for your patch, and it will get deployed to the super nodes.
+At this point your host will be able to join the network.
+For the impatient, pinging `lassulus` or `tv` might speed up the process,
+but usually we will act ASAP anyway.
 
 ## configure your nixos for retiolum
 
