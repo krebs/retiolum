@@ -14,34 +14,48 @@ For an example config look at `example.nix`
 
 create a new folder somewhere on your machine
 
-`mkdir retiolum-cfg`
+```
+mkdir retiolum-cfg
+```
 
 generate a private key
 
-`openssl genrsa -out retiolum-cfg/retiolum.rsa_key.priv 4096`
+```
+openssl genrsa -out retiolum-cfg/retiolum.rsa_key.priv 4096
+```
 
 generate the public key from the private key
 
-`openssl rsa -in retiolum-cfg/retiolum.rsa_key.priv -pubout -out retiolum-cfg/retiolum.rsa_key.pub`
+```
+openssl rsa -in retiolum-cfg/retiolum.rsa_key.priv -pubout -out retiolum-cfg/retiolum.rsa_key.pub
+```
 
 ## add key to stockholm
 
-`git clone https://cgit.krebsco.de/stockholm`
+```
+git clone https://cgit.krebsco.de/stockholm
+```
 
 choose an ipv4 address in the range of 10.243.0.0/16
 check if the ipv4 address is already used by anyone in stockholm:
 
-`git -C stockholm grep 10.243.my.ip`
+```
+git -C stockholm grep 10.243.my.ip
+```
 
 modify the default.nix in krebs/3modules/external
 
-`vim krebs/3modules/external/default.nix`
+```
+vim krebs/3modules/external/default.nix
+```
 
 add your host nix information to this file, please mind the alphabetical sorting
 
 now, create a patch out of your changes:
 
-`git diff > retiolum.patch`
+```
+git diff > retiolum.patch
+````
 
 ## ask for approval
 
@@ -60,6 +74,7 @@ import the example.nix (you can choose a better name, like retiolum.nix) in your
 configure your ipv4 and ipv6 addresses
 
 inside configuration.nix:
+
 ```
 imports = [
   /path/to/example.nix
@@ -72,5 +87,7 @@ networking.retiolum.ipv6 = "42:0:3c35::my:ip";
 
 ping some host on the network, for example blue.r
 
-`ping 10.243.0.77`
-`ping 42:0:ce16::b1ce`
+```
+ping 10.243.0.77
+ping 42:0:ce16::b1ce
+```
