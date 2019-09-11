@@ -12,22 +12,16 @@ For an example config look at `example.nix`
 
 ## generate your public/private keypair
 
-create a new folder somewhere on your machine
+Create a new directory somewhere on your machine:
 
 ```
 mkdir retiolum-cfg
 ```
 
-generate a private key
+Generate keypairs in that directory:
 
 ```
-openssl genrsa -out retiolum-cfg/retiolum.rsa_key.priv 4096
-```
-
-generate the public key from the private key
-
-```
-openssl rsa -in retiolum-cfg/retiolum.rsa_key.priv -pubout -out retiolum-cfg/retiolum.rsa_key.pub
+nix-shell -p tinc_pre --run 'tinc --config retiolum-cfg generate-keys 4096 </dev/null'
 ```
 
 ## add key to stockholm
@@ -99,6 +93,7 @@ index aac67f2e..b6cdaebc 100644
 +            -----BEGIN RSA PUBLIC KEY-----
 +            ...
 +            -----END RSA PUBLIC KEY-----
++            Ed25519PublicKey = ...
 +          '';
 +        };
 +      };
