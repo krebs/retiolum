@@ -1,6 +1,8 @@
 10.243.21.1 alnus.r
 42:0:a46e:99a9:9166:ae88:208:9645 alnus.r
 10.243.0.123 archprism.r
+10.243.134.66 axon.r
+42::1379 axon.r
 10.243.0.77 blue.r
 42:0:ce16::b1ce blue.r
 10.243.27.31 bolide.r
@@ -42,6 +44,8 @@
 42:0:ce16::12ee green.r
 10.243.0.213 gum.r backup.makefu.r blog.gum.r blog.makefu.r cache.gum.r cgit.gum.r dcpp.gum.r dcpp.nextgum.r graph.r logs.makefu.r netdata.makefu.r nextgum.r o.gum.r search.makefu.r stats.makefu.r torrent.gum.r tracker.makefu.r wiki.gum.r wiki.makefu.r sick.makefu.r
 42:0:e644:238d:3e46:c884:6ec5:16c gum.r backup.makefu.r blog.gum.r blog.makefu.r cache.gum.r cgit.gum.r dcpp.gum.r dcpp.nextgum.r graph.r logs.makefu.r netdata.makefu.r nextgum.r o.gum.r search.makefu.r stats.makefu.r torrent.gum.r tracker.makefu.r wiki.gum.r wiki.makefu.r sick.makefu.r
+10.243.132.96 hiawatha.r
+42::2342 hiawatha.r
 10.243.20.123 hilum.r
 42:0:ce16::5b hilum.r
 10.243.2.1 homeros.r
@@ -84,6 +88,8 @@
 42:0:e644:920e:23f6:353a:c09:5a66 omo.r dcpp.omo.r torrent.omo.r
 10.243.0.101 onebutton.r
 42:0:ca48:bfa7:deac:9452:799:37a onebutton.r
+10.243.132.55 onondaga.r cgit.onondaga.r
+42::1357 onondaga.r cgit.onondaga.r
 10.243.42.23 orange.r or4ng3.r 0r4n93.r
 10.243.42.42 p1nk.r
 10.243.23.1 pepe.r
@@ -96,6 +102,8 @@
 42:0:3c46:123e:bbea:3529:db39:6764 qubasa.r
 10.243.22.22 querel.r
 42:0:a46e:983d:1d32:dc73:9f63:363c querel.r
+10.243.27.32 reagenzglas.r
+42:0:8809:48df:e952:9e30:78ff:ebc7 reagenzglas.r
 10.243.0.13 red.r
 42:0:ce16::12ed red.r
 10.243.29.171 rock.r
