@@ -64,16 +64,12 @@
 42:0:3c46:5a3b:2981:7f1f:a10a:2cae jongepad.r
 10.243.183.231 justraute.r
 42:0:3c46:e6cf:86ae:85a9:e13f:4cd justraute.r
-10.243.23.3 kruck.r video.kruck.r
-42:0:3c46:5454:ed47:ce2a:29f0:959a kruck.r video.kruck.r
 10.243.133.77 littleT.r
 42:0:ce16::771e littleT.r
 10.243.29.179 martha.r
 42:0:3c46:5466:7dbe:f27a:673f:ea64 martha.r
 10.243.29.176 matchbox.r
 42:0:3c46:6745:adf4:a844:26c4:bf91 matchbox.r
-10.243.0.19 morpheus.r
-42:0:ce16::12f morpheus.r
 10.243.0.2 mors.r cgit.mors.r
 42:0:ce16::dea7 mors.r cgit.mors.r
 10.243.20.1 mu.r
@@ -125,6 +121,8 @@
 42:0:ce16::5ce7 skynet.r cgit.skynet.r
 10.243.142.104 sokrateslaptop.r
 42:0:3c46:d31e:64a7:4a62:a9b0:118 sokrateslaptop.r
+10.243.23.3 sterni.r
+42:0:3c46:9f6d:2a87:ed17:fdb5:e504 sterni.r
 10.243.227.163 studio.r
 42:0:e644:c049:da0d:aaba:4b15:6961 studio.r
 10.243.42.142 sunsh1n3.r
