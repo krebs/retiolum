@@ -74,6 +74,8 @@
 42:0:3c46:5466:7dbe:f27a:673f:ea64 martha.r
 10.243.29.176 matchbox.r
 42:0:3c46:6745:adf4:a844:26c4:bf91 matchbox.r
+10.243.0.19 morpheus.r
+42:0:ce16::12f morpheus.r
 10.243.0.2 mors.r cgit.mors.r
 42:0:ce16::dea7 mors.r cgit.mors.r
 10.243.20.1 mu.r
