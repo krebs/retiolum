@@ -160,3 +160,7 @@ ping some host on the network, for example blue.r
 ping 10.243.0.77
 ping 42:0:ce16::b1ce
 ```
+
+## Discover internal services
+
+See http://wiki.r for more information.
