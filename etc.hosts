@@ -30,10 +30,6 @@
 10.243.13.12 4.catalonia.r
 42:0:3c46:872f:60bd:5179:38b3:cba9 catalonia.r
 42:0:3c46:872f:60bd:5179:38b3:cba9 6.catalonia.r
-10.243.2.3 catullus.r
-10.243.2.3 4.catullus.r
-42:0:3c46:3ec0:7aad:d1d5:9842:da4c catullus.r
-42:0:3c46:3ec0:7aad:d1d5:9842:da4c 6.catullus.r
 10.243.29.182 clara.r
 10.243.29.182 4.clara.r
 42:0:3c46:e4e9:7814:459b:3f23:f455 clara.r
@@ -126,10 +122,10 @@
 10.243.20.123 4.hilum.r
 42:0:ce16::5b hilum.r
 42:0:ce16::5b 6.hilum.r
-10.243.2.1 homeros.r
-10.243.2.1 4.homeros.r
-42:0:3c46:53e:e63d:e62a:56ea:c705 homeros.r
-42:0:3c46:53e:e63d:e62a:56ea:c705 6.homeros.r
+10.243.2.1 homeros.r homeros.kmein.r
+10.243.2.1 4.homeros.r 4.homeros.kmein.r
+42:0:3c46:53e:e63d:e62a:56ea:c705 homeros.r homeros.kmein.r
+42:0:3c46:53e:e63d:e62a:56ea:c705 6.homeros.r 6.homeros.kmein.r
 10.243.226.213 horisa.r
 10.243.226.213 4.horisa.r
 42:0:e644:9099:4f8:b9aa:3856:4e85 horisa.r
@@ -234,10 +230,14 @@
 10.243.29.178 4.rose.r
 42:0:3c46:a5a1:618d:663a:f0f1:ec88 rose.r
 42:0:3c46:a5a1:618d:663a:f0f1:ec88 6.rose.r
-10.243.2.2 scardanelli.r
-10.243.2.2 4.scardanelli.r
-42:0:3c46:4007:5bce:f1bc:606b:2b18 scardanelli.r
-42:0:3c46:4007:5bce:f1bc:606b:2b18 6.scardanelli.r
+10.243.122.122 rtjure.r
+10.243.122.122 4.rtjure.r
+42:0:3c46:e3ce:cacc:bd95:dc9f:bc85 rtjure.r
+42:0:3c46:e3ce:cacc:bd95:dc9f:bc85 6.rtjure.r
+10.243.2.2 scardanelli.r scardanelli.kmein.r
+10.243.2.2 4.scardanelli.r 4.scardanelli.kmein.r
+42:0:3c46:4007:5bce:f1bc:606b:2b18 scardanelli.r scardanelli.kmein.r
+42:0:3c46:4007:5bce:f1bc:606b:2b18 6.scardanelli.r 6.scardanelli.kmein.r
 10.243.23.2 schasch.r
 10.243.23.2 4.schasch.r
 42:0:3c46:85c6:fbe9:bcac:ad31:b4b3 schasch.r
@@ -274,6 +274,10 @@
 10.243.117.12 4.toastbrot.r
 42:0:3c46:d517:31c3:3ef8:31e7:c0b8 toastbrot.r
 42:0:3c46:d517:31c3:3ef8:31e7:c0b8 6.toastbrot.r
+10.243.2.3 toum.r toum.kmein.r
+10.243.2.3 4.toum.r 4.toum.kmein.r
+42:0:3c46:56af:d12b:affd:8390:df22 toum.r toum.kmein.r
+42:0:3c46:56af:d12b:affd:8390:df22 6.toum.r 6.toum.kmein.r
 10.243.183.236 tpsw.r
 10.243.183.236 4.tpsw.r
 42:0:3c46:7eec:653c:73c1:91dc:f89e tpsw.r
@@ -302,10 +306,10 @@
 10.243.214.15 4.wbob.r 4.hydra.wbob.r 4.log.wbob.r
 42:0:e644:4499:d034:895e:34c8:6f9a wbob.r hydra.wbob.r log.wbob.r
 42:0:e644:4499:d034:895e:34c8:6f9a 6.wbob.r 6.hydra.wbob.r 6.log.wbob.r
-10.243.2.4 wilde.r
-10.243.2.4 4.wilde.r
-42:0:3c46:907c:1fb8:b74f:c59b:1ee3 wilde.r
-42:0:3c46:907c:1fb8:b74f:c59b:1ee3 6.wilde.r
+10.243.2.4 wilde.r wilde.kmein.r
+10.243.2.4 4.wilde.r 4.wilde.kmein.r
+42:0:3c46:907c:1fb8:b74f:c59b:1ee3 wilde.r wilde.kmein.r
+42:0:3c46:907c:1fb8:b74f:c59b:1ee3 6.wilde.r 6.wilde.kmein.r
 10.243.77.1 wolf.r build.wolf.r cgit.wolf.r lounge.mpd.wolf.r
 10.243.77.1 4.wolf.r 4.build.wolf.r 4.cgit.wolf.r 4.lounge.mpd.wolf.r
 42:0:ca48:b76a:f76b:61b9:62db:75b wolf.r build.wolf.r cgit.wolf.r lounge.mpd.wolf.r
