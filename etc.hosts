@@ -158,6 +158,10 @@
 10.243.133.77 4.littleT.r
 42:0:ce16::771e littleT.r
 42:0:ce16::771e 6.littleT.r
+10.243.2.84 makanek.r makanek.kmein.r
+10.243.2.84 4.makanek.r 4.makanek.kmein.r
+42:0:3c46:f7a9:1f0a:1b2b:822a:6050 makanek.r makanek.kmein.r
+42:0:3c46:f7a9:1f0a:1b2b:822a:6050 6.makanek.r 6.makanek.kmein.r
 10.243.29.179 martha.r
 10.243.29.179 4.martha.r
 42:0:3c46:5466:7dbe:f27a:673f:ea64 martha.r
@@ -242,10 +246,10 @@
 10.243.122.122 4.rtjure.r
 42:0:3c46:e3ce:cacc:bd95:dc9f:bc85 rtjure.r
 42:0:3c46:e3ce:cacc:bd95:dc9f:bc85 6.rtjure.r
-10.243.2.2 scardanelli.r scardanelli.kmein.r
-10.243.2.2 4.scardanelli.r 4.scardanelli.kmein.r
-42:0:3c46:4007:5bce:f1bc:606b:2b18 scardanelli.r scardanelli.kmein.r
-42:0:3c46:4007:5bce:f1bc:606b:2b18 6.scardanelli.r 6.scardanelli.kmein.r
+10.243.2.2 zaatar.r zaatar.kmein.r
+10.243.2.2 4.zaatar.r 4.zaatar.kmein.r
+42:0:3c46:4007:5bce:f1bc:606b:2b18 zaatar.r zaatar.kmein.r
+42:0:3c46:4007:5bce:f1bc:606b:2b18 6.zaatar.r 6.zaatar.kmein.r
 10.243.23.2 schasch.r
 10.243.23.2 4.schasch.r
 42:0:3c46:85c6:fbe9:bcac:ad31:b4b3 schasch.r
