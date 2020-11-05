@@ -162,6 +162,10 @@
 10.243.2.84 4.makanek.r 4.makanek.kmein.r
 42:0:3c46:f7a9:1f0a:1b2b:822a:6050 makanek.r makanek.kmein.r
 42:0:3c46:f7a9:1f0a:1b2b:822a:6050 6.makanek.r 6.makanek.kmein.r
+10.243.2.85 manakish.r manakish.kmein.r
+10.243.2.85 4.manakish.r 4.manakish.kmein.r
+42:0:3c46:ac99:ae36:cb8:c551:ba27 manakish.r manakish.kmein.r
+42:0:3c46:ac99:ae36:cb8:c551:ba27 6.manakish.r 6.manakish.kmein.r
 10.243.29.179 martha.r
 10.243.29.179 4.martha.r
 42:0:3c46:5466:7dbe:f27a:673f:ea64 martha.r
@@ -246,10 +250,6 @@
 10.243.122.122 4.rtjure.r
 42:0:3c46:e3ce:cacc:bd95:dc9f:bc85 rtjure.r
 42:0:3c46:e3ce:cacc:bd95:dc9f:bc85 6.rtjure.r
-10.243.2.2 zaatar.r zaatar.kmein.r
-10.243.2.2 4.zaatar.r 4.zaatar.kmein.r
-42:0:3c46:4007:5bce:f1bc:606b:2b18 zaatar.r zaatar.kmein.r
-42:0:3c46:4007:5bce:f1bc:606b:2b18 6.zaatar.r 6.zaatar.kmein.r
 10.243.23.2 schasch.r
 10.243.23.2 4.schasch.r
 42:0:3c46:85c6:fbe9:bcac:ad31:b4b3 schasch.r
@@ -354,6 +354,10 @@
 10.243.0.14 4.yellow.r
 42:0:ce16::3110 yellow.r
 42:0:ce16::3110 6.yellow.r
+10.243.2.2 zaatar.r zaatar.kmein.r
+10.243.2.2 4.zaatar.r 4.zaatar.kmein.r
+42:0:3c46:156e:10b6:3bd6:6e82:b2cd zaatar.r zaatar.kmein.r
+42:0:3c46:156e:10b6:3bd6:6e82:b2cd 6.zaatar.r 6.zaatar.kmein.r
 10.243.13.40 zu.r
 10.243.13.40 4.zu.r
 42:0:a46e:9c86:82ce:fa82:83d3:fda zu.r
