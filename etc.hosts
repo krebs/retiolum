@@ -10,6 +10,10 @@
 10.243.13.39 4.au.r
 42:0:a46e:5af:632c:d2fe:a71d:cde0 au.r
 42:0:a46e:5af:632c:d2fe:a71d:cde0 6.au.r
+10.243.29.169 bernie.r
+10.243.29.169 4.bernie.r
+42:0:3c46:1452:ca55:fdaf:b12b:3027 bernie.r
+42:0:3c46:1452:ca55:fdaf:b12b:3027 6.bernie.r
 10.243.0.77 blue.r
 10.243.0.77 4.blue.r
 42:0:ce16::b1ce blue.r
@@ -242,10 +246,10 @@
 10.243.0.13 4.red.r
 42:0:ce16::12ed red.r
 42:0:ce16::12ed 6.red.r
-10.243.29.171 rock.r
-10.243.29.171 4.rock.r
-42:0:3c46:e1a5:350a:770c:ec9:f353 rock.r
-42:0:3c46:e1a5:350a:770c:ec9:f353 6.rock.r
+10.243.29.171 rock.r loki.r
+10.243.29.171 4.rock.r 4.loki.r
+42:0:3c46:e1a5:350a:770c:ec9:f353 rock.r loki.r
+42:0:3c46:e1a5:350a:770c:ec9:f353 6.rock.r 6.loki.r
 10.243.29.178 rose.r
 10.243.29.178 4.rose.r
 42:0:3c46:a5a1:618d:663a:f0f1:ec88 rose.r
