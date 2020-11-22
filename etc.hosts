@@ -290,6 +290,10 @@
 10.243.227.163 4.studio.r
 42:0:e644:c049:da0d:aaba:4b15:6961 studio.r
 42:0:e644:c049:da0d:aaba:4b15:6961 6.studio.r
+10.243.11.1 styx.r
+10.243.11.1 4.styx.r
+42:0:ce16::111 styx.r
+42:0:ce16::111 6.styx.r
 10.243.117.12 toastbrot.r
 10.243.117.12 4.toastbrot.r
 42:0:3c46:d517:31c3:3ef8:31e7:c0b8 toastbrot.r
