@@ -74,10 +74,10 @@
 10.243.27.30 4.enklave.r 4.cgit.enklave.r
 42:0:8809:2ef1:f4d5:6338:daa4:ba68 enklave.r cgit.enklave.r
 42:0:8809:2ef1:f4d5:6338:daa4:ba68 6.enklave.r 6.cgit.enklave.r
-10.243.29.185 eva.r prometheus.r
-10.243.29.185 4.eva.r 4.prometheus.r
-42:0:3c46:8a42:2b1:5ef8:7562:676a eva.r prometheus.r
-42:0:3c46:8a42:2b1:5ef8:7562:676a 6.eva.r 6.prometheus.r
+10.243.29.185 eva.r prometheus.r alertmanager.r
+10.243.29.185 4.eva.r 4.prometheus.r 4.alertmanager.r
+42:0:3c46:8a42:2b1:5ef8:7562:676a eva.r prometheus.r alertmanager.r
+42:0:3c46:8a42:2b1:5ef8:7562:676a 6.eva.r 6.prometheus.r 6.alertmanager.r
 10.243.29.174 eve.r
 10.243.29.174 4.eve.r
 42:0:3c46:70c7:8526:2adf:7451:8bbb eve.r
