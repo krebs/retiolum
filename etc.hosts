@@ -294,6 +294,10 @@
 10.243.11.1 4.styx.r
 42:0:ce16::111 styx.r
 42:0:ce16::111 6.styx.r
+10.243.11.2 testi.r
+10.243.11.2 4.testi.r
+42::112 testi.r
+42::112 6.testi.r
 10.243.117.12 toastbrot.r
 10.243.117.12 4.toastbrot.r
 42:0:3c46:d517:31c3:3ef8:31e7:c0b8 toastbrot.r
