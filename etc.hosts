@@ -230,10 +230,10 @@
 10.243.0.103 4.prism.r 4.cache.prism.r 4.cgit.prism.r 4.paste.r 4.p.r
 42:0:ce16::1 prism.r cache.prism.r cgit.prism.r paste.r p.r
 42:0:ce16::1 6.prism.r 6.cache.prism.r 6.cgit.prism.r 6.paste.r 6.p.r
-10.243.77.2 puyak.r build.puyak.r cgit.puyak.r go.r rss.r
-10.243.77.2 4.puyak.r 4.build.puyak.r 4.cgit.puyak.r 4.go.r 4.rss.r
-42:0:ca48:f98f:63d7:31ce:922b:245d puyak.r build.puyak.r cgit.puyak.r go.r rss.r
-42:0:ca48:f98f:63d7:31ce:922b:245d 6.puyak.r 6.build.puyak.r 6.cgit.puyak.r 6.go.r 6.rss.r
+10.243.77.2 puyak.r brockman.r build.puyak.r cgit.puyak.r go.r rss.r
+10.243.77.2 4.puyak.r 4.brockman.r 4.build.puyak.r 4.cgit.puyak.r 4.go.r 4.rss.r
+42:0:ca48:f98f:63d7:31ce:922b:245d puyak.r brockman.r build.puyak.r cgit.puyak.r go.r rss.r
+42:0:ca48:f98f:63d7:31ce:922b:245d 6.puyak.r 6.brockman.r 6.build.puyak.r 6.cgit.puyak.r 6.go.r 6.rss.r
 10.243.29.175 qubasa.r
 10.243.29.175 4.qubasa.r
 42:0:3c46:123e:bbea:3529:db39:6764 qubasa.r
