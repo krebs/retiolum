@@ -50,10 +50,10 @@
 10.243.42.63 4.crustacea.r
 42:4a6f::4263 crustacea.r
 42:4a6f::4263 6.crustacea.r
-10.243.133.115 daedalus.r cgit.daedalus.r
-10.243.133.115 4.daedalus.r 4.cgit.daedalus.r
-42:0:ce16::daed daedalus.r cgit.daedalus.r
-42:0:ce16::daed 6.daedalus.r 6.cgit.daedalus.r
+10.243.133.115 daedalus.r
+10.243.133.115 4.daedalus.r
+42:0:ce16::daed daedalus.r
+42:0:ce16::daed 6.daedalus.r
 10.243.29.183 dimitrios.r
 10.243.29.183 4.dimitrios.r
 42:0:3c46:a1cf:9d0e:d966:a438:905d dimitrios.r
@@ -158,10 +158,10 @@
 10.243.13.41 4.hu.r
 42:0:a46e:982c:ffd3:d21b:4846:9c85 hu.r
 42:0:a46e:982c:ffd3:d21b:4846:9c85 6.hu.r
-10.243.133.114 icarus.r cgit.icarus.r
-10.243.133.114 4.icarus.r 4.cgit.icarus.r
-42:0:ce16::1205 icarus.r cgit.icarus.r
-42:0:ce16::1205 6.icarus.r 6.cgit.icarus.r
+10.243.133.114 icarus.r
+10.243.133.114 4.icarus.r
+42:0:ce16::1205 icarus.r
+42:0:ce16::1205 6.icarus.r
 10.243.29.172 inspector.r
 10.243.29.172 4.inspector.r
 42:0:3c46:59bb:98fe:4422:5503:5a14 inspector.r
@@ -202,10 +202,10 @@
 10.243.0.19 4.morpheus.r
 42:0:ce16::12f morpheus.r
 42:0:ce16::12f 6.morpheus.r
-10.243.0.2 mors.r cgit.mors.r
-10.243.0.2 4.mors.r 4.cgit.mors.r
-42:0:ce16::dea7 mors.r cgit.mors.r
-42:0:ce16::dea7 6.mors.r 6.cgit.mors.r
+10.243.0.2 mors.r
+10.243.0.2 4.mors.r
+42:0:ce16::dea7 mors.r
+42:0:ce16::dea7 6.mors.r
 10.243.20.1 mu.r
 10.243.20.1 4.mu.r
 42:0:a46e:3cd3:1950:3ea6:785e:e124 mu.r
@@ -298,14 +298,14 @@
 10.243.0.163 4.senderechner.r
 42:0:e644:d21:6292:46e0:57e:23e5 senderechner.r
 42:0:e644:d21:6292:46e0:57e:23e5 6.senderechner.r
-10.243.0.4 shodan.r cgit.shodan.r
-10.243.0.4 4.shodan.r 4.cgit.shodan.r
-42:0:ce16::50da shodan.r cgit.shodan.r
-42:0:ce16::50da 6.shodan.r 6.cgit.shodan.r
-10.243.133.116 skynet.r cgit.skynet.r
-10.243.133.116 4.skynet.r 4.cgit.skynet.r
-42:0:ce16::5ce7 skynet.r cgit.skynet.r
-42:0:ce16::5ce7 6.skynet.r 6.cgit.skynet.r
+10.243.0.4 shodan.r
+10.243.0.4 4.shodan.r
+42:0:ce16::50da shodan.r
+42:0:ce16::50da 6.shodan.r
+10.243.133.116 skynet.r
+10.243.133.116 4.skynet.r
+42:0:ce16::5ce7 skynet.r
+42:0:ce16::5ce7 6.skynet.r
 10.243.142.104 sokrateslaptop.r
 10.243.142.104 4.sokrateslaptop.r
 42:0:3c46:d31e:64a7:4a62:a9b0:118 sokrateslaptop.r
@@ -350,10 +350,10 @@
 10.243.42.13 4.ilmu.r
 42:0:3c46:bc8c:78fb:66b5:512c:7fbe ilmu.r
 42:0:3c46:bc8c:78fb:66b5:512c:7fbe 6.ilmu.r
-10.243.81.176 uriel.r cgit.uriel.r
-10.243.81.176 4.uriel.r 4.cgit.uriel.r
-42:0:ce16::1e1 uriel.r cgit.uriel.r
-42:0:ce16::1e1 6.uriel.r 6.cgit.uriel.r
+10.243.81.176 uriel.r
+10.243.81.176 4.uriel.r
+42:0:ce16::1e1 uriel.r
+42:0:ce16::1e1 6.uriel.r
 10.243.214.15 wbob.r hydra.wbob.r log.wbob.r
 10.243.214.15 4.wbob.r 4.hydra.wbob.r 4.log.wbob.r
 42:0:e644:4499:d034:895e:34c8:6f9a wbob.r hydra.wbob.r log.wbob.r
