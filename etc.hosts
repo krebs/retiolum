@@ -74,6 +74,10 @@
 10.243.29.173 4.dpdkm.r
 42:0:3c46:7296:36f3:4099:1a6b:d47e dpdkm.r
 42:0:3c46:7296:36f3:4099:1a6b:d47e 6.dpdkm.r
+10.243.0.3 echelon.r
+10.243.0.3 4.echelon.r
+42:0:ce16::4 echelon.r
+42:0:ce16::4 6.echelon.r
 10.243.29.170 eddie.r
 10.243.29.170 4.eddie.r
 42:0:3c46:126:3b9d:8298:f1b5:86d eddie.r
