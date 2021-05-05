@@ -6,6 +6,10 @@
 10.243.29.181 4.amy.r
 42:0:3c46:1551:1906:bc7c:801f:3c4 amy.r
 42:0:3c46:1551:1906:bc7c:801f:3c4 6.amy.r
+10.243.29.191 anindya.r
+10.243.29.191 4.anindya.r
+42:0:3c46:d1da:b:81c6:da03:a720 anindya.r
+42:0:3c46:d1da:b:81c6:da03:a720 6.anindya.r
 10.243.13.39 au.r
 10.243.13.39 4.au.r
 42:0:a46e:5af:632c:d2fe:a71d:cde0 au.r
@@ -14,6 +18,10 @@
 10.243.29.169 4.bernie.r
 42:0:3c46:1452:ca55:fdaf:b12b:3027 bernie.r
 42:0:3c46:1452:ca55:fdaf:b12b:3027 6.bernie.r
+10.243.29.195 bill.r
+10.243.29.195 4.bill.r
+42:0:3c46:87ed:6232:1016:7553:939c bill.r
+42:0:3c46:87ed:6232:1016:7553:939c 6.bill.r
 10.243.0.77 blue.r
 10.243.0.77 4.blue.r
 42:0:ce16::b1ce blue.r
@@ -54,6 +62,10 @@
 10.243.133.115 4.daedalus.r
 42:0:ce16::daed daedalus.r
 42:0:ce16::daed 6.daedalus.r
+10.243.29.192 dimitra.r
+10.243.29.192 4.dimitra.r
+42:0:3c46:ab7f:21e3:cb1d:d9e0:782d dimitra.r
+42:0:3c46:ab7f:21e3:cb1d:d9e0:782d 6.dimitra.r
 10.243.29.183 dimitrios.r
 10.243.29.183 4.dimitrios.r
 42:0:3c46:a1cf:9d0e:d966:a438:905d dimitrios.r
@@ -70,10 +82,6 @@
 10.243.29.180 4.donna.r
 42:0:3c46:7f2f:ed62:c6fd:9f1b:9900 donna.r
 42:0:3c46:7f2f:ed62:c6fd:9f1b:9900 6.donna.r
-10.243.29.173 dpdkm.r
-10.243.29.173 4.dpdkm.r
-42:0:3c46:7296:36f3:4099:1a6b:d47e dpdkm.r
-42:0:3c46:7296:36f3:4099:1a6b:d47e 6.dpdkm.r
 10.243.0.3 echelon.r
 10.243.0.3 4.echelon.r
 42:0:ce16::4 echelon.r
@@ -170,10 +178,6 @@
 10.243.133.114 4.icarus.r
 42:0:ce16::1205 icarus.r
 42:0:ce16::1205 6.icarus.r
-10.243.29.172 inspector.r
-10.243.29.172 4.inspector.r
-42:0:3c46:59bb:98fe:4422:5503:5a14 inspector.r
-42:0:3c46:59bb:98fe:4422:5503:5a14 6.inspector.r
 10.243.5.6 jongepad.r
 10.243.5.6 4.jongepad.r
 42:0:3c46:5a3b:2981:7f1f:a10a:2cae jongepad.r
@@ -218,6 +222,10 @@
 10.243.20.1 4.mu.r
 42:0:a46e:3cd3:1950:3ea6:785e:e124 mu.r
 42:0:a46e:3cd3:1950:3ea6:785e:e124 6.mu.r
+10.243.29.173 nardole.r
+10.243.29.173 4.nardole.r
+42:0:3c46:362d:a9aa:4996:c78e:839a nardole.r
+42:0:3c46:362d:a9aa:4996:c78e:839a 6.nardole.r
 10.243.0.5 news.r brockman.r go.r rss.r
 10.243.0.5 4.news.r 4.brockman.r 4.go.r 4.rss.r
 42:0:ca48:c2c2:19fb:a0e9:95b9:794f news.r brockman.r go.r rss.r
@@ -242,6 +250,10 @@
 10.243.122.124 4.nxrm.r
 42:0:3c46:c04f:5f98:f4b1:7dca:11b4 nxrm.r
 42:0:3c46:c04f:5f98:f4b1:7dca:11b4 6.nxrm.r
+10.243.29.190 okelmann.r
+10.243.29.190 4.okelmann.r
+42:0:3c46:2626:717f:6671:a6f8:d89d okelmann.r
+42:0:3c46:2626:717f:6671:a6f8:d89d 6.okelmann.r
 10.243.0.89 omo.r dcpp.omo.r torrent.omo.r
 10.243.0.89 4.omo.r 4.dcpp.omo.r 4.torrent.omo.r
 42:0:e644:920e:23f6:353a:c09:5a66 omo.r dcpp.omo.r torrent.omo.r
@@ -254,6 +266,10 @@
 10.243.23.1 4.pepe.r
 42:0:3c46:b7c1:7c9e:7c14:94b2:684a pepe.r
 42:0:3c46:b7c1:7c9e:7c14:94b2:684a 6.pepe.r
+10.243.29.193 philipsaendig.r
+10.243.29.193 4.philipsaendig.r
+42:0:3c46:1260:1093:1e2e:2ca0:9c36 philipsaendig.r
+42:0:3c46:1260:1093:1e2e:2ca0:9c36 6.philipsaendig.r
 10.243.0.103 prism.r cache.prism.r cgit.prism.r paste.r p.r search.r
 10.243.0.103 4.prism.r 4.cache.prism.r 4.cgit.prism.r 4.paste.r 4.p.r 4.search.r
 42:0:ce16::1 prism.r cache.prism.r cgit.prism.r paste.r p.r search.r
@@ -294,6 +310,10 @@
 10.243.122.122 4.rtjure.r
 42:0:3c46:e3ce:cacc:bd95:dc9f:bc85 rtjure.r
 42:0:3c46:e3ce:cacc:bd95:dc9f:bc85 6.rtjure.r
+10.243.29.194 sauron.r
+10.243.29.194 4.sauron.r
+42:0:3c46:7f53:34b:ca31:16c2:da58 sauron.r
+42:0:3c46:7f53:34b:ca31:16c2:da58 6.sauron.r
 10.243.23.2 schasch.r
 10.243.23.2 4.schasch.r
 42:0:3c46:85c6:fbe9:bcac:ad31:b4b3 schasch.r
