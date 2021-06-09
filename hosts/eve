@@ -2,7 +2,6 @@ Address = 95.216.112.61 655
 Address = 2a01:4f9:2b:1605::1 655
 Subnet = 10.243.29.174
 Subnet = 42:0:3c46:70c7:8526:2adf:7451:8bbb
-Subnet = fd42:4492:6a6d:500:8526:2adf:7451:8bbb
 Subnet = 42:0000:002b:1605:3::/80
 
 -----BEGIN RSA PUBLIC KEY-----
@@ -18,4 +17,6 @@ YX6/Ff+y9vDLCuDxb6mvPGT1xpnNmt1jxAUJhiRNuAvbtvjtPwYfWjQXOf7xa2xI
 61Oahtwy/szBj9mWIAymMfnvFGpeiIcww3ZGzYNyKBCjp1TkkgFRV3Y6eoq1sJ13
 Pxol8FwH5+Q72bLtvg5Zva8D0Vx2U1jYSHEkRDDzaS5Z6Fus+zeZVMsCAwEAAQ==
 -----END RSA PUBLIC KEY-----
+
+Ed25519PublicKey = 7J1JgVyiy540akMdd/kONta0fMHSl5+FQJ1QhN84TzP
 

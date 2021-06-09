@@ -1,5 +1,5 @@
-Address = 52.59.172.193 655
-Address = 2a05:d014:301:a601:ef0e:5434:d814:b8ed 655
+Address = 157.90.232.92 655
+Address = 2a01:4f8:1c1c:9a9::1 655
 Subnet = 10.243.29.185
 Subnet = 42:0:3c46:8a42:2b1:5ef8:7562:676a
 
@@ -17,4 +17,5 @@ t76NISlYTPxwX5mfFsBm8t0GjnnWY2jLwaefk7N/CwoDaKhkhmw1oeAZMuRcDRvE
 6uuTTsn7s0PYBJDNdccOf1Qt8fqPPgzqUKqeUciHojYDDPTC5KQh5m2PBv4I4iIR
 LnKOqNUX7UCqbdaE/tfFRG0CAwEAAQ==
 -----END PUBLIC KEY-----
+Ed25519PublicKey = 7rbs+10zzfwOPj5RoS1i/01QXuw7uIHGOHIgsjB2fHK
 

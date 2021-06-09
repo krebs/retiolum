@@ -1,6 +1,5 @@
 Subnet = 10.243.29.176
 Subnet = 42:0:3c46:6745:adf4:a844:26c4:bf91
-Subnet = fd42:4492:6a6d:500::/64
 
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEAqwB9pzV889vpMp/am+T0sfm5qO/wAWS/tv0auYK3Zyx3ChxrQX2m
