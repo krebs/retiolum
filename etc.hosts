@@ -154,10 +154,6 @@
 10.243.20.123 4.hilum.r
 42:0:ce16::5b hilum.r
 42:0:ce16::5b 6.hilum.r
-10.243.2.1 homeros.r homeros.kmein.r
-10.243.2.1 4.homeros.r 4.homeros.kmein.r
-42:0:3c46:53e:e63d:e62a:56ea:c705 homeros.r homeros.kmein.r
-42:0:3c46:53e:e63d:e62a:56ea:c705 6.homeros.r 6.homeros.kmein.r
 10.243.226.213 horisa.r
 10.243.226.213 4.horisa.r
 42:0:e644:9099:4f8:b9aa:3856:4e85 horisa.r
@@ -186,6 +182,10 @@
 10.243.183.231 4.justraute.r
 42:0:3c46:e6cf:86ae:85a9:e13f:4cd justraute.r
 42:0:3c46:e6cf:86ae:85a9:e13f:4cd 6.justraute.r
+10.243.2.4 kabsa.r kabsa.kmein.r
+10.243.2.4 4.kabsa.r 4.kabsa.kmein.r
+42:0:3c46:861f:a118:8e9a:82c9:3d kabsa.r kabsa.kmein.r
+42:0:3c46:861f:a118:8e9a:82c9:3d 6.kabsa.r 6.kabsa.kmein.r
 10.243.161.1 karakalpakstan.r
 10.243.161.1 4.karakalpakstan.r
 42:0:3c46:609d:b616:b4ce:18a5:5424 karakalpakstan.r
@@ -198,10 +198,10 @@
 10.243.133.77 4.littleT.r
 42:0:ce16::771e littleT.r
 42:0:ce16::771e 6.littleT.r
-10.243.2.84 makanek.r makanek.kmein.r
-10.243.2.84 4.makanek.r 4.makanek.kmein.r
-42:0:3c46:f7a9:1f0a:1b2b:822a:6050 makanek.r makanek.kmein.r
-42:0:3c46:f7a9:1f0a:1b2b:822a:6050 6.makanek.r 6.makanek.kmein.r
+10.243.2.84 makanek.r makanek.kmein.r grafana.kmein.r
+10.243.2.84 4.makanek.r 4.makanek.kmein.r 4.grafana.kmein.r
+42:0:3c46:f7a9:1f0a:1b2b:822a:6050 makanek.r makanek.kmein.r grafana.kmein.r
+42:0:3c46:f7a9:1f0a:1b2b:822a:6050 6.makanek.r 6.makanek.kmein.r 6.grafana.kmein.r
 10.243.2.85 manakish.r manakish.kmein.r
 10.243.2.85 4.manakish.r 4.manakish.kmein.r
 42:0:3c46:ac99:ae36:cb8:c551:ba27 manakish.r manakish.kmein.r
@@ -370,10 +370,6 @@
 10.243.117.12 4.toastbrot.r
 42:0:3c46:d517:31c3:3ef8:31e7:c0b8 toastbrot.r
 42:0:3c46:d517:31c3:3ef8:31e7:c0b8 6.toastbrot.r
-10.243.2.3 toum.r toum.kmein.r
-10.243.2.3 4.toum.r 4.toum.kmein.r
-42:0:3c46:56af:d12b:affd:8390:df22 toum.r toum.kmein.r
-42:0:3c46:56af:d12b:affd:8390:df22 6.toum.r 6.toum.kmein.r
 10.243.183.236 tpsw.r
 10.243.183.236 4.tpsw.r
 42:0:3c46:7eec:653c:73c1:91dc:f89e tpsw.r
@@ -402,10 +398,6 @@
 10.243.214.15 4.wbob.r 4.hydra.wbob.r 4.log.wbob.r
 42:0:e644:4499:d034:895e:34c8:6f9a wbob.r hydra.wbob.r log.wbob.r
 42:0:e644:4499:d034:895e:34c8:6f9a 6.wbob.r 6.hydra.wbob.r 6.log.wbob.r
-10.243.2.4 wilde.r wilde.kmein.r
-10.243.2.4 4.wilde.r 4.wilde.kmein.r
-42:0:3c46:907c:1fb8:b74f:c59b:1ee3 wilde.r wilde.kmein.r
-42:0:3c46:907c:1fb8:b74f:c59b:1ee3 6.wilde.r 6.wilde.kmein.r
 10.243.77.1 wolf.r build.wolf.r cgit.wolf.r lounge.mpd.wolf.r
 10.243.77.1 4.wolf.r 4.build.wolf.r 4.cgit.wolf.r 4.lounge.mpd.wolf.r
 42:0:ca48:b76a:f76b:61b9:62db:75b wolf.r build.wolf.r cgit.wolf.r lounge.mpd.wolf.r
@@ -442,10 +434,10 @@
 10.243.0.14 4.yellow.r
 42:0:ce16::3110 yellow.r
 42:0:ce16::3110 6.yellow.r
-10.243.2.34 zaatar.r zaatar.kmein.r
-10.243.2.34 4.zaatar.r 4.zaatar.kmein.r
-42:0:3c46:156e:10b6:3bd6:6e82:b2cd zaatar.r zaatar.kmein.r
-42:0:3c46:156e:10b6:3bd6:6e82:b2cd 6.zaatar.r 6.zaatar.kmein.r
+10.243.2.34 zaatar.r zaatar.kmein.r radio.kmein.r
+10.243.2.34 4.zaatar.r 4.zaatar.kmein.r 4.radio.kmein.r
+42:0:3c46:156e:10b6:3bd6:6e82:b2cd zaatar.r zaatar.kmein.r radio.kmein.r
+42:0:3c46:156e:10b6:3bd6:6e82:b2cd 6.zaatar.r 6.zaatar.kmein.r 6.radio.kmein.r
 10.243.13.40 zu.r
 10.243.13.40 4.zu.r
 42:0:a46e:9c86:82ce:fa82:83d3:fda zu.r
