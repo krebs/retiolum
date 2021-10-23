@@ -2,6 +2,10 @@
 10.243.29.172 4.aendernix.r
 42:0:3c46:f14:26a0:7b5e:349f:7f0b aendernix.r
 42:0:3c46:f14:26a0:7b5e:349f:7f0b 6.aendernix.r
+10.243.29.201 aendernix.r
+10.243.29.201 4.aendernix.r
+42:0:3c46:2aad:ed1e:33cf:aece:d216 aendernix.r
+42:0:3c46:2aad:ed1e:33cf:aece:d216 6.aendernix.r
 10.243.21.1 alnus.r
 10.243.21.1 4.alnus.r
 42:0:a46e:99a9:9166:ae88:208:9645 alnus.r
@@ -122,6 +126,10 @@
 10.243.211.172 4.flap.r
 42:0:e644:43dc:2291:7db8:acdc:d33e flap.r
 42:0:e644:43dc:2291:7db8:acdc:d33e 6.flap.r
+10.243.29.199 graham.r
+10.243.29.199 4.graham.r
+42:0:3c46:ab64:fa7c:171a:c94a:ac19 graham.r
+42:0:3c46:ab64:fa7c:171a:c94a:ac19 6.graham.r
 10.243.29.187 grandalf.r
 10.243.29.187 4.grandalf.r
 42:0:3c46:f1e0:58b7:26a4:6328:d5c2 grandalf.r
@@ -198,10 +206,10 @@
 10.243.133.77 4.littleT.r
 42:0:ce16::771e littleT.r
 42:0:ce16::771e 6.littleT.r
-10.243.2.84 makanek.r makanek.kmein.r grafana.kmein.r
-10.243.2.84 4.makanek.r 4.makanek.kmein.r 4.grafana.kmein.r
-42:0:3c46:f7a9:1f0a:1b2b:822a:6050 makanek.r makanek.kmein.r grafana.kmein.r
-42:0:3c46:f7a9:1f0a:1b2b:822a:6050 6.makanek.r 6.makanek.kmein.r 6.grafana.kmein.r
+10.243.2.84 makanek.r makanek.kmein.r grafana.kmein.r names.kmein.r
+10.243.2.84 4.makanek.r 4.makanek.kmein.r 4.grafana.kmein.r 4.names.kmein.r
+42:0:3c46:f7a9:1f0a:1b2b:822a:6050 makanek.r makanek.kmein.r grafana.kmein.r names.kmein.r
+42:0:3c46:f7a9:1f0a:1b2b:822a:6050 6.makanek.r 6.makanek.kmein.r 6.grafana.kmein.r 6.names.kmein.r
 10.243.2.85 manakish.r manakish.kmein.r
 10.243.2.85 4.manakish.r 4.manakish.kmein.r
 42:0:3c46:ac99:ae36:cb8:c551:ba27 manakish.r manakish.kmein.r
@@ -214,10 +222,10 @@
 10.243.29.176 4.matchbox.r
 42:0:3c46:6745:adf4:a844:26c4:bf91 matchbox.r
 42:0:3c46:6745:adf4:a844:26c4:bf91 6.matchbox.r
-10.243.0.19 morpheus.r
-10.243.0.19 4.morpheus.r
-42:0:ce16::12f morpheus.r
-42:0:ce16::12f 6.morpheus.r
+10.243.29.200 maurice.r
+10.243.29.200 4.maurice.r
+42:0:3c46:eea1:4d78:e62d:899a:4d7b maurice.r
+42:0:3c46:eea1:4d78:e62d:899a:4d7b 6.maurice.r
 10.243.0.2 mors.r
 10.243.0.2 4.mors.r
 42:0:ce16::dea7 mors.r
@@ -306,10 +314,6 @@
 10.243.27.32 4.reagenzglas.r
 42:0:8809:48df:e952:9e30:78ff:ebc7 reagenzglas.r
 42:0:8809:48df:e952:9e30:78ff:ebc7 6.reagenzglas.r
-10.243.0.13 red.r
-10.243.0.13 4.red.r
-42:0:ce16::12ed red.r
-42:0:ce16::12ed 6.red.r
 10.243.29.188 redha.r
 10.243.29.188 4.redha.r
 42:0:3c46:2731:f350:856a:4cad:63c3 redha.r
@@ -326,6 +330,10 @@
 10.243.122.122 4.rtjure.r
 42:0:3c46:e3ce:cacc:bd95:dc9f:bc85 rtjure.r
 42:0:3c46:e3ce:cacc:bd95:dc9f:bc85 6.rtjure.r
+10.243.29.198 ryan.r
+10.243.29.198 4.ryan.r
+42:0:3c46:53a7:e0e3:a2b6:471d:44a ryan.r
+42:0:3c46:53a7:e0e3:a2b6:471d:44a 6.ryan.r
 10.243.29.194 sauron.r
 10.243.29.194 4.sauron.r
 42:0:3c46:7f53:34b:ca31:16c2:da58 sauron.r
@@ -390,10 +398,6 @@
 10.243.42.13 4.ilmu.r
 42:0:3c46:bc8c:78fb:66b5:512c:7fbe ilmu.r
 42:0:3c46:bc8c:78fb:66b5:512c:7fbe 6.ilmu.r
-10.243.81.176 uriel.r
-10.243.81.176 4.uriel.r
-42:0:ce16::1e1 uriel.r
-42:0:ce16::1e1 6.uriel.r
 10.243.214.15 wbob.r hydra.wbob.r log.wbob.r
 10.243.214.15 4.wbob.r 4.hydra.wbob.r 4.log.wbob.r
 42:0:e644:4499:d034:895e:34c8:6f9a wbob.r hydra.wbob.r log.wbob.r
