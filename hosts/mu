@@ -10,3 +10,4 @@ QEJmyC9Uocz5zuoSLUghgVRn9yl4+MEw6++akFDwKt/eMkcSq0GPB+3Rz/WLDiBs
 FK6BsssQWdwiEWpv6xIl1Fi+s7F0riq2cwIDAQAB
 -----END RSA PUBLIC KEY-----
 
+Weight = 300
