@@ -302,10 +302,10 @@
 10.243.29.193 4.philipsaendig.r
 42:0:3c46:1260:1093:1e2e:2ca0:9c36 philipsaendig.r
 42:0:3c46:1260:1093:1e2e:2ca0:9c36 6.philipsaendig.r
-10.243.0.103 prism.r cache.prism.r cgit.prism.r flix.r paste.r c.r p.r search.r
-10.243.0.103 4.prism.r 4.cache.prism.r 4.cgit.prism.r 4.flix.r 4.paste.r 4.c.r 4.p.r 4.search.r
-42:0:ce16::1 prism.r cache.prism.r cgit.prism.r flix.r paste.r c.r p.r search.r
-42:0:ce16::1 6.prism.r 6.cache.prism.r 6.cgit.prism.r 6.flix.r 6.paste.r 6.c.r 6.p.r 6.search.r
+10.243.0.103 prism.r cache.prism.r cgit.prism.r flix.r jelly.r paste.r c.r p.r search.r
+10.243.0.103 4.prism.r 4.cache.prism.r 4.cgit.prism.r 4.flix.r 4.jelly.r 4.paste.r 4.c.r 4.p.r 4.search.r
+42:0:ce16::1 prism.r cache.prism.r cgit.prism.r flix.r jelly.r paste.r c.r p.r search.r
+42:0:ce16::1 6.prism.r 6.cache.prism.r 6.cgit.prism.r 6.flix.r 6.jelly.r 6.paste.r 6.c.r 6.p.r 6.search.r
 10.243.77.2 puyak.r build.puyak.r cgit.puyak.r
 10.243.77.2 4.puyak.r 4.build.puyak.r 4.cgit.puyak.r
 42:0:ca48:f98f:63d7:31ce:922b:245d puyak.r build.puyak.r cgit.puyak.r
