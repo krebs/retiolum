@@ -14,6 +14,10 @@
 10.243.29.181 4.amy.r
 42:0:3c46:1551:1906:bc7c:801f:3c4 amy.r
 42:0:3c46:1551:1906:bc7c:801f:3c4 6.amy.r
+10.243.77.67 arcadeomat.r
+10.243.77.67 4.arcadeomat.r
+42:0:ca48:d189:eb99:d89:6d3a:354d arcadeomat.r
+42:0:ca48:d189:eb99:d89:6d3a:354d 6.arcadeomat.r
 10.243.13.39 au.r
 10.243.13.39 4.au.r
 42:0:a46e:5af:632c:d2fe:a71d:cde0 au.r
@@ -50,10 +54,10 @@
 10.243.29.182 4.clara.r
 42:0:3c46:e4e9:7814:459b:3f23:f455 clara.r
 42:0:3c46:e4e9:7814:459b:3f23:f455 6.clara.r
-10.243.0.17 coaxmetal.r
-10.243.0.17 4.coaxmetal.r
-42:0:ce16::17 coaxmetal.r
-42:0:ce16::17 6.coaxmetal.r
+10.243.0.17 coaxmetal.r ssl.r testing.r
+10.243.0.17 4.coaxmetal.r 4.ssl.r 4.testing.r
+42:0:ce16::17 coaxmetal.r ssl.r testing.r
+42:0:ce16::17 6.coaxmetal.r 6.ssl.r 6.testing.r
 10.243.136.237 crapi.r
 10.243.136.237 4.crapi.r
 42:0:e644:b386:6e2a:c94f:34d6:b0ca crapi.r
@@ -78,10 +82,10 @@
 10.243.29.189 4.dimitriosxps.r
 42:0:3c46:3c7f:bc35:f39a:8d7c:1ab4 dimitriosxps.r
 42:0:3c46:3c7f:bc35:f39a:8d7c:1ab4 6.dimitriosxps.r
-10.243.133.99 dishfire.r
-10.243.133.99 4.dishfire.r
-42:0:ce16::d15f:1233 dishfire.r
-42:0:ce16::d15f:1233 6.dishfire.r
+10.243.133.99 dishfire.r grafana.lass.r prometheus.lass.r alert.lass.r
+10.243.133.99 4.dishfire.r 4.grafana.lass.r 4.prometheus.lass.r 4.alert.lass.r
+42:0:ce16::d15f:1233 dishfire.r grafana.lass.r prometheus.lass.r alert.lass.r
+42:0:ce16::d15f:1233 6.dishfire.r 6.grafana.lass.r 6.prometheus.lass.r 6.alert.lass.r
 10.243.29.186 doctor.r
 10.243.29.186 4.doctor.r
 42:0:3c46:96e2:72f4:be89:d6eb:ab14 doctor.r
@@ -106,8 +110,6 @@
 10.243.29.185 4.eva.r 4.loki.r 4.prometheus.r 4.alertmanager.r
 42:0:3c46:8a42:2b1:5ef8:7562:676a eva.r loki.r prometheus.r alertmanager.r
 42:0:3c46:8a42:2b1:5ef8:7562:676a 6.eva.r 6.loki.r 6.prometheus.r 6.alertmanager.r
-10.243.29.174 eve.r
-10.243.29.174 4.eve.r
 42:0:3c46:70c7:8526:2adf:7451:8bbb eve.r
 42:0:3c46:70c7:8526:2adf:7451:8bbb 6.eve.r
 10.243.189.130 filebitch.r
