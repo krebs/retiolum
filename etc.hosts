@@ -54,10 +54,10 @@
 10.243.29.182 4.clara.r
 42:0:3c46:e4e9:7814:459b:3f23:f455 clara.r
 42:0:3c46:e4e9:7814:459b:3f23:f455 6.clara.r
-10.243.0.17 coaxmetal.r ssl.r testing.r
-10.243.0.17 4.coaxmetal.r 4.ssl.r 4.testing.r
-42:0:ce16::17 coaxmetal.r ssl.r testing.r
-42:0:ce16::17 6.coaxmetal.r 6.ssl.r 6.testing.r
+10.243.0.17 coaxmetal.r ca.r testing.r
+10.243.0.17 4.coaxmetal.r 4.ca.r 4.testing.r
+42:0:ce16::17 coaxmetal.r ca.r testing.r
+42:0:ce16::17 6.coaxmetal.r 6.ca.r 6.testing.r
 10.243.136.237 crapi.r
 10.243.136.237 4.crapi.r
 42:0:e644:b386:6e2a:c94f:34d6:b0ca crapi.r
