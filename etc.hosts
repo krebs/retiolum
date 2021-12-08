@@ -14,10 +14,6 @@
 10.243.29.181 4.amy.r
 42:0:3c46:1551:1906:bc7c:801f:3c4 amy.r
 42:0:3c46:1551:1906:bc7c:801f:3c4 6.amy.r
-10.243.77.67 arcadeomat.r
-10.243.77.67 4.arcadeomat.r
-42:0:ca48:d189:eb99:d89:6d3a:354d arcadeomat.r
-42:0:ca48:d189:eb99:d89:6d3a:354d 6.arcadeomat.r
 10.243.13.39 au.r
 10.243.13.39 4.au.r
 42:0:a46e:5af:632c:d2fe:a71d:cde0 au.r
@@ -110,6 +106,8 @@
 10.243.29.185 4.eva.r 4.loki.r 4.prometheus.r 4.alertmanager.r
 42:0:3c46:8a42:2b1:5ef8:7562:676a eva.r loki.r prometheus.r alertmanager.r
 42:0:3c46:8a42:2b1:5ef8:7562:676a 6.eva.r 6.loki.r 6.prometheus.r 6.alertmanager.r
+10.243.29.174 eve.r
+10.243.29.174 4.eve.r
 42:0:3c46:70c7:8526:2adf:7451:8bbb eve.r
 42:0:3c46:70c7:8526:2adf:7451:8bbb 6.eve.r
 10.243.189.130 filebitch.r
