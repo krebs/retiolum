@@ -1,6 +1,5 @@
 Address = 131.159.102.4 655
 Address = 2a09:80c0:102::4 655
-Subnet = 10.243.29.185
 Subnet = 42:0:3c46:8a42:2b1:5ef8:7562:676a
 
 -----BEGIN PUBLIC KEY-----

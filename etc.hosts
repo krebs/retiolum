@@ -98,16 +98,10 @@
 10.243.0.3 4.echelon.r
 42:0:ce16::4 echelon.r
 42:0:ce16::4 6.echelon.r
-10.243.29.170 eddie.r
-10.243.29.170 4.eddie.r
-42:0:3c46:126:3b9d:8298:f1b5:86d eddie.r
-42:0:3c46:126:3b9d:8298:f1b5:86d 6.eddie.r
 10.243.27.30 enklave.r cgit.enklave.r
 10.243.27.30 4.enklave.r 4.cgit.enklave.r
 42:0:8809:2ef1:f4d5:6338:daa4:ba68 enklave.r cgit.enklave.r
 42:0:8809:2ef1:f4d5:6338:daa4:ba68 6.enklave.r 6.cgit.enklave.r
-10.243.29.185 eva.r loki.r prometheus.r alertmanager.r
-10.243.29.185 4.eva.r 4.loki.r 4.prometheus.r 4.alertmanager.r
 42:0:3c46:8a42:2b1:5ef8:7562:676a eva.r loki.r prometheus.r alertmanager.r
 42:0:3c46:8a42:2b1:5ef8:7562:676a 6.eva.r 6.loki.r 6.prometheus.r 6.alertmanager.r
 42:0:3c46:70c7:8526:2adf:7451:8bbb eve.r
@@ -396,8 +390,6 @@
 10.243.0.212 4.tsp.r
 42:0:e644:2215:73ba:f838:855e:945b tsp.r
 42:0:e644:2215:73ba:f838:855e:945b 6.tsp.r
-10.243.29.168 turingmachine.r
-10.243.29.168 4.turingmachine.r
 42:0:3c46:47e8:f610:15d1:27a3:674b turingmachine.r
 42:0:3c46:47e8:f610:15d1:27a3:674b 6.turingmachine.r
 10.243.3.14 unnamed.r
