@@ -318,6 +318,10 @@
 10.243.27.32 4.reagenzglas.r
 42:0:8809:48df:e952:9e30:78ff:ebc7 reagenzglas.r
 42:0:8809:48df:e952:9e30:78ff:ebc7 6.reagenzglas.r
+10.243.0.13 red.r
+10.243.0.13 4.red.r
+42:0:ce16::12ed red.r
+42:0:ce16::12ed 6.red.r
 10.243.29.188 redha.r
 10.243.29.188 4.redha.r
 42:0:3c46:2731:f350:856a:4cad:63c3 redha.r
