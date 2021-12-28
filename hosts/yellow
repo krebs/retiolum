@@ -1,4 +1,3 @@
-Address = 10.233.2.14 0
 Subnet = 10.243.0.14
 Subnet = 42:0:ce16::3110
 
@@ -19,3 +18,4 @@ Akz4E3+xLVIMqKmHaGWi0usCAwEAAQ==
 
 Ed25519PublicKey = qZBhDSW6ir1/w6lOngg2feCZj9W9AfifEMlKXcOb5QE
 
+Weight = 300

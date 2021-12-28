@@ -1,0 +1,218 @@
+{
+  "ada": {
+    "allowedIPs": [
+      "42:1:3c46:eac1:fdee:430d:40bd:57de"
+    ],
+    "publicKey": "+t0j9j7TZqvSFPzgunnON/ArXVGpMS/L3DldpanLoUk="
+  },
+  "alnus": {
+    "allowedIPs": [
+      "42:1:a46e:99a9:9166:ae88:208:9645"
+    ],
+    "publicKey": "w7+6kMf1P3Ka0kXXY4CCbr80TrWPYpe/zd13yuvz9SE="
+  },
+  "blue": {
+    "allowedIPs": [
+      "42:1:ce16::b1ce"
+    ],
+    "publicKey": "emftvx8v8GdoKe68MFVL53QZ187Ei0zhMmvosU1sr3U="
+  },
+  "coaxmetal": {
+    "allowedIPs": [
+      "42:1:ce16::17"
+    ],
+    "publicKey": "lkjR14oOVKl03/0sUzOmddf28ps+v5qRxrbRY03Pg38="
+  },
+  "daedalus": {
+    "allowedIPs": [
+      "42:1:ce16::daed"
+    ],
+    "publicKey": "ZVTTWbJfe8Oq6E6QW1qgXU91FnkuKDGJO3MF3I3gDFI="
+  },
+  "domsen-pixel": {
+    "allowedIPs": [
+      "10.244.1.17",
+      "42:1:ce16::d0"
+    ],
+    "publicKey": "cGuBSB1DftIsanbxrSG/i4FiC+TmQrs+Z0uE6SPscHY="
+  },
+  "echelon": {
+    "allowedIPs": [
+      "42:1:ce16::3"
+    ],
+    "publicKey": "SLdk0lph2rSFU+3dyrWDU1CT/oU+HPcOVYeGVIgDpEc="
+  },
+  "green": {
+    "allowedIPs": [
+      "42:1:ce16::12ee"
+    ],
+    "publicKey": "lOORkStNJ6iP5ffqjHa/kWOxilJIMW4E6BEtNvNhLGk="
+  },
+  "gum": {
+    "allowedIPs": [
+      "10.244.245.1",
+      "42:1:e644::1"
+    ],
+    "endpoint": "144.76.26.247:51821",
+    "persistentKeepalive": 61,
+    "publicKey": "A7UPKSUaCZaJ9hXv6X4jvcZ+5X+PlS1EmCwxlLBAKH0="
+  },
+  "hilum": {
+    "allowedIPs": [
+      "42:1:ce16::5b"
+    ],
+    "publicKey": "0DRcCDR0O+UqV07DsGfS4On+6YaZ3LPfvni9u1NZNhw="
+  },
+  "icarus": {
+    "allowedIPs": [
+      "42:1:ce16::1205"
+    ],
+    "publicKey": "mVe3YdlWOlVF5+YD5vgNha3s03dv6elmNVsARtPLXQQ="
+  },
+  "lasspi": {
+    "allowedIPs": [
+      "42:1:ce16::189"
+    ],
+    "publicKey": "IIBAiG7jZEliQJJsNUQswLsB5FQFkAfq5IwyHAp71Vw="
+  },
+  "littleT": {
+    "allowedIPs": [
+      "42:1:ce16::771e"
+    ],
+    "publicKey": "VfSTPO1XGqLqujAGCov1yA0WxyRXJndZCW5XYkScNXg="
+  },
+  "miaoski": {
+    "allowedIPs": [
+      "42:1:3c46:a85c:9517:3474:8e1c:4be7"
+    ],
+    "publicKey": "8haz9JX5nAMORzNy89VdHC1Z9XA94ogaZsY3d2Rfkl4="
+  },
+  "mors": {
+    "allowedIPs": [
+      "42:1:ce16::dea7"
+    ],
+    "publicKey": "FkcxMathQzJYwuJBli/nibh0C0kHe9/T2xU0za3J3SQ="
+  },
+  "mu": {
+    "allowedIPs": [
+      "42:1:a46e:3cd3:1950:3ea6:785e:e124"
+    ],
+    "publicKey": "4bboT+cZM1BYvNho9oKbO0MFnPFTvmASR+1IdV4/fwQ="
+  },
+  "ni": {
+    "allowedIPs": [
+      "42:1:a46e:c68b:4db0:3a27:7cfb:9ef4"
+    ],
+    "publicKey": "KiIiwkuin+E4FXqFajJjnoGKkHW3H3FzIx5EQrF1+lw="
+  },
+  "nomic": {
+    "allowedIPs": [
+      "42:1:a46e:7b8c:531e:67a5:9846:756e"
+    ],
+    "publicKey": "UgvgarDtuSvbciNx5SU2NDbctb9/OTQ9Kr8H/O3931A="
+  },
+  "phone": {
+    "allowedIPs": [
+      "10.244.1.13",
+      "42:1:ce16::a"
+    ],
+    "publicKey": "FY4PB8E/RC2JvtLgq/IDyMmZ9Ln6pz6eGyoytmUFMgk="
+  },
+  "prism": {
+    "allowedIPs": [
+      "10.244.1.103",
+      "42:1:ce16::1"
+    ],
+    "endpoint": "95.216.1.150:51820",
+    "persistentKeepalive": 61,
+    "publicKey": "oKJotppdEJqQBjrqrommEUPw+VFryvEvNJr/WikXohk="
+  },
+  "querel": {
+    "allowedIPs": [
+      "42:1:a46e:983d:1d32:dc73:9f63:363c"
+    ],
+    "publicKey": "sxaqrsqcDgdM3+QH6mxzqDs3SLWgm7J8AytpIbRZ2n0="
+  },
+  "rilke": {
+    "allowedIPs": [
+      "42:1:3c46:b673:31c9:233d:9cb3:7576"
+    ],
+    "publicKey": "09yVPHL/ucvqc6V5n7vFQ2Oi1LBMdwQZDL+7jBwy+iQ="
+  },
+  "rockit": {
+    "allowedIPs": [
+      "10.244.245.3",
+      "42:1:e644:319b:262c:9d61:9712:6f5f"
+    ],
+    "publicKey": "LPMs1h9+8ABqeZsS6xmHC7votPqpUT609XuktAhaik8="
+  },
+  "shackdev": {
+    "allowedIPs": [
+      "10.244.245.2",
+      "42:1:e644:e626:6023:4892:d72a:8e19"
+    ],
+    "publicKey": "YmvTL4c13WS6f88ZAz2m/2deL2pnPXI0Ay3edCPE1Qc="
+  },
+  "shodan": {
+    "allowedIPs": [
+      "10.244.1.4",
+      "42:1:ce16::50da"
+    ],
+    "publicKey": "0rI/I8FYQ3Pba7fQ9oyvtP4a54GWsPa+3zAiGIuyV30="
+  },
+  "skynet": {
+    "allowedIPs": [
+      "42:1:ce16::5ce7"
+    ],
+    "publicKey": "pt9a6nP+YPqxnSskcM9NqRmAmFzbO5bE7wzViFFonnU="
+  },
+  "styx": {
+    "allowedIPs": [
+      "42:1:ce16::111"
+    ],
+    "publicKey": "0BZfd8f0pZMRfyoHrdYZY0cR5zfFvJcS8gQLn6xGuFs="
+  },
+  "tablet": {
+    "allowedIPs": [
+      "10.244.1.14",
+      "42:1:ce16::b"
+    ],
+    "publicKey": "eIafsxYEFCqmWNFon6ZsYXeDrK4X1UJ9KD0zmNZjgEI="
+  },
+  "wu": {
+    "allowedIPs": [
+      "42:1:a46e:b17d:cf4e:39ae:462a:f95"
+    ],
+    "publicKey": "68bL6l3/sjbirva80tm0Dw6/PJu1S95nJC58gWCh42E="
+  },
+  "x": {
+    "allowedIPs": [
+      "42:1:e644:162:2d71:1642:b726:b044"
+    ],
+    "publicKey": "fe5smvKVy5GAn7EV4w4tav6mqIAKhGWQotm7dRuRt1g="
+  },
+  "xerxes": {
+    "allowedIPs": [
+      "42:1:ce16::3"
+    ],
+    "publicKey": "UTm8B8YUVvBGqwwxAUMVFsVQFQGQ6jbcXAavZ8LxYT8="
+  },
+  "xu": {
+    "allowedIPs": [
+      "42:1:a46e:c3c:9c2f:1386:90fc:a489"
+    ],
+    "publicKey": "XU76RFN0jG/YjffAPg3e3VuHF/iKMvVoRhHmixvLL1s="
+  },
+  "yellow": {
+    "allowedIPs": [
+      "42:1:ce16::3110"
+    ],
+    "publicKey": "YeWbR3mW+nOVBE7bcNSzF5fjj9ppd8OGHBJqERAUVxU="
+  },
+  "zu": {
+    "allowedIPs": [
+      "42:1:a46e:9c86:82ce:fa82:83d3:fda"
+    ],
+    "publicKey": "WrILdnsketejrJuYM/sLEh89GdSVbddv8BG/D3sW7kw="
+  }
+}
