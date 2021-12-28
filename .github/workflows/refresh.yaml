@@ -1,0 +1,20 @@
+name: Refresh hosts
+on:
+  schedule:
+    # The shortest interval you can run scheduled workflows is once every 5 minutes.
+    # ref https://docs.github.com/en/actions/learn-github-actions/events-that-trigger-workflows
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - run: |
+        curl https://lassul.us/retiolum-hosts.tar.bz2 | tar xvjf -
+        curl https://lassul.us/retiolum.hosts > etc.hosts
+    - uses: EndBug/add-and-commit@v7
+      with:
+        default_author: github_actions
+        message: refresh hosts
+        branch: master
