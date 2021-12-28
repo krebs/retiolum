@@ -13,6 +13,9 @@ pkgs.mkShell {
     (pkgs.writers.writeDashBin "generate-hosts" ''
       set -xefu
 
+      ${pkgs.git}/bin/git config --global user.name krebs
+      ${pkgs.git}/bin/git config --global user.email spam@krebsco.de
+
       stockholm_directory=$(${pkgs.coreutils}/bin/mktemp -d)
       trap clean EXIT
       clean() {
