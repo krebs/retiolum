@@ -147,9 +147,10 @@ imports = [
 ];
 networking.retiolum.ipv4 = "10.243.my.ip";
 networking.retiolum.ipv6 = "42:0:3c35::my:ip";
-services.tinc.networks.retiolum.extraConfig = ''
-  PrivateKeyFile = /path/to/tinc.rsa_key.priv
-'';
+services.tinc.networks.retiolum = {
+  rsaPrivateKeyFile = "/path/to/tinc.rsa_key.priv";
+  ed25519PrivateKeyFile = "/path/to/tinc.ed25519.priv";
+};
 ```
 
 ## test if everything is working
