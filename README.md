@@ -93,8 +93,8 @@ index aac67f2e..b6cdaebc 100644
 +            -----BEGIN RSA PUBLIC KEY-----
 +            ...
 +            -----END RSA PUBLIC KEY-----
-+            Ed25519PublicKey = ...
 +          '';
++          tinc.pubkey_ed25519 = "...
 +        };
 +      };
 +    };
@@ -121,7 +121,7 @@ Join the #krebs channel on freenode.
 If you don't know anything about IRC, you can just use this webirc: https://webchat.freenode.net/#krebs
 If you are not known, introduce yourself, explain what you are doing and what you want to contribute.
 Then send the formatted patch either sent via email to spam@krebsco.de, or
-upload it to some pastebin (preferably https://paste.krebsco.de) and share the
+upload it to some pastebin (preferably https://p.krebsco.de) (use it with curl --binary-data) and share the
 link to the pasted patch in #krebs.
 Now some patience will be required, but you will soon receive confirmation or
 change requests for your patch, and it will get deployed to the super nodes.
@@ -154,11 +154,11 @@ services.tinc.networks.retiolum.extraConfig = ''
 
 ## test if everything is working
 
-ping some host on the network, for example blue.r
+ping some host on the network, for example prism.r
 
 ```
-ping 10.243.0.77
-ping 42:0:ce16::b1ce
+ping 10.243.0.103
+ping 42:0:ce16::1
 ```
 
 ## Discover internal services
