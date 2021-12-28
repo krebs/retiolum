@@ -1,32 +1,38 @@
-{ pkgs ? import <nixpkgs> {} }:
+{ pkgs ? import <nixpkgs> {}, lib ? import <nixpkgs/lib> }:
 let
-  stockholmMirrors = [
-    "https://cgit.krebsco.de/stockholm" # tv@ni.r
-    "https://cgit.lassul.us/stockholm" # lassulus@prism.r
-    "https://git.thalheim.io/Mic92/stockholm" # mic92
-    "https://cgit.euer.krebsco.de/stockholm" # makefu@gum.r
-  ];
+  stockholmMirrors = {
+    tv = "https://cgit.krebsco.de/stockholm"; # tv@ni.r
+    lassulus = "https://cgit.lassul.us/stockholm"; # lassulus@prism.r
+    mic92 = "https://git.thalheim.io/Mic92/stockholm"; # mic92
+    makefu = "https://cgit.euer.krebsco.de/stockholm"; # makefu@gum.r
+  };
 in
 pkgs.mkShell {
   buildInputs = [
     (pkgs.writers.writeDashBin "generate-hosts" ''
-      set -efu
+      set -xefu
 
-      stockholm_mirrors() {
-        for mirror in ${toString stockholmMirrors}; do
-          directory=$(${pkgs.coreutils}/bin/mktemp -d)
-          ${pkgs.git}/bin/git clone --depth 1 "$mirror" "$directory" 2>/dev/null
-          (
-            cd "$directory"
-            ${pkgs.coreutils}/bin/printf "%d %s %s\n" "$(${pkgs.git}/bin/git log --pretty=format:%ct)" "$mirror" "$directory"
-          )
-        done
+      stockholm_directory=$(${pkgs.coreutils}/bin/mktemp -d)
+      trap clean EXIT
+      clean() {
+        cd ${toString ./.}
+        rm -rf "$stockholm_directory"
       }
+      cd "$stockholm_directory"
 
-      # most recent mirror
-      stockholm=$(stockholm_mirrors | ${pkgs.coreutils}/bin/sort -r -n | ${pkgs.coreutils}/bin/head -n 1 | ${pkgs.coreutils}/bin/cut -d' ' -f 3)
+      random_upstream=$(
+        ${pkgs.coreutils}/bin/printf '%s\n' ${toString (builtins.attrValues stockholmMirrors)} \
+        | ${pkgs.coreutils}/bin/shuf -n 1
+      )
 
-      cd "$stockholm"
+      ${pkgs.git}/bin/git clone "$random_upstream" "$stockholm_directory"
+
+      ${lib.concatStringsSep "\n" (lib.mapAttrsToList (user: url: ''
+        ${pkgs.git}/bin/git remote add ${user} ${url}
+        ${pkgs.git}/bin/git fetch ${user} master
+      '') stockholmMirrors)}
+
+      ${pkgs.git}/bin/git merge -m lol ${toString (lib.mapAttrsToList (user: _: "${user}/master") stockholmMirrors)}
 
       ${pkgs.git}/bin/git submodule update --init --recursive
 
@@ -48,40 +54,36 @@ pkgs.mkShell {
         let
           self = config.krebs.build.host.nets.wiregrill;
           isRouter = !isNull self.via;
-          wiregrillHosts = filterAttrs (_: h: (builtins.isAttrs h) && (hasAttr "wiregrill" h.nets)) config.krebs.hosts;
+          wiregrillHosts = filterAttrs (_: h: builtins.isAttrs h && hasAttr "wiregrill" h.nets) config.krebs.hosts;
         in
-        pkgs.writeText "hosts" (builtins.toJSON
-          (mapAttrs (_: host: let
-              wiregrill = host.nets.wiregrill;
-            in {
-            allowedIPs = if isRouter then
-                           (optional (!isNull wiregrill.ip4) wiregrill.ip4.addr) ++
-                           (optional (!isNull wiregrill.ip6) wiregrill.ip6.addr)
-                         else
-                           wiregrill.wireguard.subnets;
+        pkgs.writeText "hosts" (builtins.toJSON (mapAttrs (_: host:
+          let
+            wiregrill = host.nets.wiregrill;
+          in {
+            allowedIPs =
+              if isRouter then
+                optional (!isNull wiregrill.ip4) wiregrill.ip4.addr ++
+                optional (!isNull wiregrill.ip6) wiregrill.ip6.addr
+              else
+                wiregrill.wireguard.subnets;
             publicKey = replaceStrings ["\n"] [""] wiregrill.wireguard.pubkey;
           } // optionalAttrs (!isNull wiregrill.via) {
-            endpoint =  "''${wiregrill.via.ip4.addr}:''${toString wiregrill.wireguard.port}";
+            endpoint = "''${wiregrill.via.ip4.addr}:''${toString wiregrill.wireguard.port}";
             persistentKeepalive = 61;
-          }) wiregrillHosts))
+          }) wiregrillHosts
+        ))
       ''} wiregrill.nix
 
-      ${pkgs.nix}/bin/nix build \
-        -I secrets=./krebs/0tests/data/secrets \
-        -I nixos-config=./dummy.nix \
-        -I stockholm=./. \
-        -f '<nixpkgs/nixos>' \
-        config.krebs.tinc.retiolum.hostsArchive pkgs.krebs-hosts
+      export NIX_PATH=stockholm=.:nixos-config=dummy.nix:secrets=krebs/0tests/data/secrets:$NIX_PATH
 
-      ${pkgs.gnutar}/bin/tar -C ${toString ./.} -xf result
-      ${pkgs.coreutils}/bin/cp result-1 ${toString ./.}/etc.hosts
+      hosts_archive=$(${pkgs.nix}/bin/nix-build --no-out-link '<nixpkgs/nixos>' -A config.krebs.tinc.retiolum.hostsArchive)
+      ${pkgs.gnutar}/bin/tar -C ${toString ./.} -xf "$hosts_archive"
 
-      ${pkgs.nix}/bin/nix-build ./wiregrill.nix \
-        -I secrets=./krebs/0tests/data/secrets \
-        -I nixos-config=./dummy.nix \
-        -I stockholm=./.
+      etc_hosts=$(${pkgs.nix}/bin/nix-build --no-out-link '<nixpkgs/nixos>' -A pkgs.krebs-hosts)
+      ${pkgs.coreutils}/bin/cp "$etc_hosts" ${toString ./.}/etc.hosts
 
-      ${pkgs.jq}/bin/jq < result > ${toString ./.}/wiregrill.json
+      wiregrill_json=$(${pkgs.nix}/bin/nix-build --no-out-link wiregrill.nix)
+      ${pkgs.jq}/bin/jq < "$wiregrill_json" > ${toString ./.}/wiregrill.json
     '')
   ];
 }
