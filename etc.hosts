@@ -70,6 +70,10 @@
 10.243.29.201 4.aendernix.r
 42:0:3c46:2aad:ed1e:33cf:aece:d216 aendernix.r
 42:0:3c46:2aad:ed1e:33cf:aece:d216 6.aendernix.r
+10.243.100.100 ahorn.r
+10.243.100.100 4.ahorn.r
+42:0:3c46:519d:1696:f464:9756:8727 ahorn.r
+42:0:3c46:519d:1696:f464:9756:8727 6.ahorn.r
 10.243.21.1 alnus.r
 10.243.21.1 4.alnus.r
 42:0:a46e:99a9:9166:ae88:208:9645 alnus.r
@@ -362,10 +366,6 @@
 10.243.29.193 4.philipsaendig.r
 42:0:3c46:1260:1093:1e2e:2ca0:9c36 philipsaendig.r
 42:0:3c46:1260:1093:1e2e:2ca0:9c36 6.philipsaendig.r
-10.243.100.100 pinpox-ahorn.r
-10.243.100.100 4.pinpox-ahorn.r
-42:0:3c46:1819:729a:3f14:2d39:1f81 pinpox-ahorn.r
-42:0:3c46:1819:729a:3f14:2d39:1f81 6.pinpox-ahorn.r
 10.243.0.103 prism.r cache.prism.r cgit.prism.r flix.r jelly.r paste.r c.r p.r search.r
 10.243.0.103 4.prism.r 4.cache.prism.r 4.cgit.prism.r 4.flix.r 4.jelly.r 4.paste.r 4.c.r 4.p.r 4.search.r
 42:0:ce16::1 prism.r cache.prism.r cgit.prism.r flix.r jelly.r paste.r c.r p.r search.r
