@@ -172,8 +172,8 @@
 42:0:8809:2ef1:f4d5:6338:daa4:ba68 6.enklave.r 6.cgit.enklave.r
 42:0:3c46:8a42:2b1:5ef8:7562:676a eva.r loki.r prometheus.r alertmanager.r
 42:0:3c46:8a42:2b1:5ef8:7562:676a 6.eva.r 6.loki.r 6.prometheus.r 6.alertmanager.r
-42:0:3c46:70c7:8526:2adf:7451:8bbb eve.r
-42:0:3c46:70c7:8526:2adf:7451:8bbb 6.eve.r
+42:0:3c46:70c7:8526:2adf:7451:8bbb eve.r tts.r
+42:0:3c46:70c7:8526:2adf:7451:8bbb 6.eve.r 6.tts.r
 10.243.189.130 filebitch.r
 10.243.189.130 4.filebitch.r
 42:0:ca48:344c:cb3f:4a05:711b:f53e filebitch.r
