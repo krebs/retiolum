@@ -15,4 +15,7 @@ XGzTT4TJpBGnq0jfhFwhVjfCjLuGj29MCkvg0nqObQ07qYrjdQI4W1GnGOuyXkvQ
 teyxjUXYbp0doTGxKvQaTWp+JapeEaJPN2MDOhrRFjPrzgo3aW9+97UCAwEAAQ==
 -----END RSA PUBLIC KEY-----
 
+Ed25519PublicKey = gzMYJY6/6sgG4ZgYWzeDs6svTvsDIeJEAGxPbrJUFVN
+
+
 Weight = 300
