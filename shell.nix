@@ -13,9 +13,6 @@ pkgs.mkShell {
     (pkgs.writers.writeDashBin "generate-hosts" ''
       set -xefu
 
-      ${pkgs.git}/bin/git config --global user.name krebs
-      ${pkgs.git}/bin/git config --global user.email spam@krebsco.de
-
       stockholm_directory=$(${pkgs.coreutils}/bin/mktemp -d)
       trap clean EXIT
       clean() {
@@ -32,11 +29,13 @@ pkgs.mkShell {
       ${pkgs.git}/bin/git clone "$random_upstream" "$stockholm_directory"
 
       ${lib.concatStringsSep "\n" (lib.mapAttrsToList (user: url: ''
-        ${pkgs.git}/bin/git remote add ${user} ${url}
-        ${pkgs.git}/bin/git fetch ${user} master
+        ${pkgs.curl}/bin/curl ${url} >/dev/null && {
+          ${pkgs.git}/bin/git remote add ${user} ${url}
+          ${pkgs.git}/bin/git fetch ${user} master
+        }
       '') stockholmMirrors)}
 
-      ${pkgs.git}/bin/git merge -m lol ${toString (lib.mapAttrsToList (user: _: "${user}/master") stockholmMirrors)}
+      ${pkgs.git}/bin/git remote | ${pkgs.gnused}/bin/sed 's:$:/master' | ${pkgs.findutils}/bin/xargs ${pkgs.git}/bin/git merge --no-commit
 
       ${pkgs.git}/bin/git submodule update --init --recursive
 
