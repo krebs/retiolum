@@ -510,10 +510,10 @@
 10.243.0.14 4.yellow.r
 42:0:ce16::3110 yellow.r
 42:0:ce16::3110 6.yellow.r
-10.243.2.34 zaatar.r zaatar.kmein.r grocy.kmein.r bvg.kmein.r moodle.kmein.r
-10.243.2.34 4.zaatar.r 4.zaatar.kmein.r 4.grocy.kmein.r 4.bvg.kmein.r 4.moodle.kmein.r
-42:0:3c46:156e:10b6:3bd6:6e82:b2cd zaatar.r zaatar.kmein.r grocy.kmein.r bvg.kmein.r moodle.kmein.r
-42:0:3c46:156e:10b6:3bd6:6e82:b2cd 6.zaatar.r 6.zaatar.kmein.r 6.grocy.kmein.r 6.bvg.kmein.r 6.moodle.kmein.r
+10.243.2.34 zaatar.r zaatar.kmein.r grocy.kmein.r moodle.kmein.r
+10.243.2.34 4.zaatar.r 4.zaatar.kmein.r 4.grocy.kmein.r 4.moodle.kmein.r
+42:0:3c46:156e:10b6:3bd6:6e82:b2cd zaatar.r zaatar.kmein.r grocy.kmein.r moodle.kmein.r
+42:0:3c46:156e:10b6:3bd6:6e82:b2cd 6.zaatar.r 6.zaatar.kmein.r 6.grocy.kmein.r 6.moodle.kmein.r
 10.243.13.40 zu.r
 10.243.13.40 4.zu.r
 42:0:a46e:9c86:82ce:fa82:83d3:fda zu.r
