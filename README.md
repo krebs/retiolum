@@ -118,7 +118,7 @@ index aac67f2e..b6cdaebc 100644
 ## ask for the patch to get merged
 
 Join the #krebs channel on freenode.
-If you don't know anything about IRC, you can just use this webirc: https://webchat.freenode.net/#krebs
+If you don't know anything about IRC, you can just use this webirc: https://webirc.hackint.org/#ircs://irc.hackint.org/#krebs
 If you are not known, introduce yourself, explain what you are doing and what you want to contribute.
 Then send the formatted patch either sent via email to spam@krebsco.de, or
 upload it to some pastebin (preferably https://p.krebsco.de) (use it with curl --binary-data) and share the
