@@ -35,7 +35,7 @@ pkgs.mkShell {
         }
       '') stockholmMirrors)}
 
-      ${pkgs.git}/bin/git remote | ${pkgs.gnused}/bin/sed 's:$:/master' | ${pkgs.findutils}/bin/xargs ${pkgs.git}/bin/git merge --no-commit
+      ${pkgs.git}/bin/git remote | ${pkgs.gnused}/bin/sed 's:$:/master:' | ${pkgs.findutils}/bin/xargs ${pkgs.git}/bin/git merge
 
       ${pkgs.git}/bin/git submodule update --init --recursive
 
