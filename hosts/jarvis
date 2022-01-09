@@ -1,3 +1,4 @@
+Address = jarvis.thalheim.io 655
 Subnet = 42:0:3c46:7338:dda8:2015:8d14:2a0b
 
 -----BEGIN RSA PUBLIC KEY-----
@@ -11,4 +12,3 @@ tsraNc+0a8OBpVsYh4MQLp55NYwqxAoetQIDAQAB
 
 Ed25519PublicKey = RRkMnGSg+nMkz4L2iqmdFf2fIf4wIfcTM0TlTWLLNCE
 
-Weight = 300
