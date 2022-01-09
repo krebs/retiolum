@@ -1,3 +1,4 @@
+Address = bernie.thalheim.io 655
 Subnet = 42:0:3c46:1452:ca55:fdaf:b12b:3027
 
 -----BEGIN RSA PUBLIC KEY-----
@@ -16,4 +17,3 @@ SODZL2fQFBnSD1wTWcq9Q/luPh4FitzJUZzHexvNxR/KBZycZJtdVw8CAwEAAQ==
 
 Ed25519PublicKey = pjCpkZToBUBbjUNVMWfYJePZ6g7m7Ccr9WedfKEFsXD
 
-Weight = 300
