@@ -286,10 +286,10 @@
 10.243.133.77 4.littleT.r
 42:0:ce16::771e littleT.r
 42:0:ce16::771e 6.littleT.r
-10.243.2.84 makanek.r makanek.kmein.r grafana.kmein.r names.kmein.r graph.r
-10.243.2.84 4.makanek.r 4.makanek.kmein.r 4.grafana.kmein.r 4.names.kmein.r 4.graph.r
-42:0:3c46:f7a9:1f0a:1b2b:822a:6050 makanek.r makanek.kmein.r grafana.kmein.r names.kmein.r graph.r
-42:0:3c46:f7a9:1f0a:1b2b:822a:6050 6.makanek.r 6.makanek.kmein.r 6.grafana.kmein.r 6.names.kmein.r 6.graph.r
+10.243.2.84 makanek.r makanek.kmein.r grafana.kmein.r names.kmein.r graph.r rrm.r
+10.243.2.84 4.makanek.r 4.makanek.kmein.r 4.grafana.kmein.r 4.names.kmein.r 4.graph.r 4.rrm.r
+42:0:3c46:f7a9:1f0a:1b2b:822a:6050 makanek.r makanek.kmein.r grafana.kmein.r names.kmein.r graph.r rrm.r
+42:0:3c46:f7a9:1f0a:1b2b:822a:6050 6.makanek.r 6.makanek.kmein.r 6.grafana.kmein.r 6.names.kmein.r 6.graph.r 6.rrm.r
 10.243.2.85 manakish.r manakish.kmein.r
 10.243.2.85 4.manakish.r 4.manakish.kmein.r
 42:0:3c46:ac99:ae36:cb8:c551:ba27 manakish.r manakish.kmein.r
