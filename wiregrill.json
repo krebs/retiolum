@@ -134,9 +134,7 @@
     "publicKey": "sxaqrsqcDgdM3+QH6mxzqDs3SLWgm7J8AytpIbRZ2n0="
   },
   "rilke": {
-    "allowedIPs": [
-      "42:1:3c46:b673:31c9:233d:9cb3:7576"
-    ],
+    "allowedIPs": [],
     "publicKey": "09yVPHL/ucvqc6V5n7vFQ2Oi1LBMdwQZDL+7jBwy+iQ="
   },
   "rockit": {
