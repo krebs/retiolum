@@ -1,4 +1,5 @@
 Subnet = 10.243.2.34
+Subnet = 42:0:3c46:156e:10b6:3bd6:6e82:b2cd
 
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEAyEeesa4mDNAT2QT/PxfmildhqawinWTcUiF3V2wsfy3eXJCFySKM

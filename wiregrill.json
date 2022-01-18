@@ -42,6 +42,12 @@
     ],
     "publicKey": "SLdk0lph2rSFU+3dyrWDU1CT/oU+HPcOVYeGVIgDpEc="
   },
+  "g7power": {
+    "allowedIPs": [
+      "42:1:3c46:362d:4288:1990:c391:127b"
+    ],
+    "publicKey": "09yVPHL/ucvqc6V5n7vFQ2Oi1LBMdwQZDL+7jBwy+iQ="
+  },
   "green": {
     "allowedIPs": [
       "42:1:ce16::12ee"
@@ -132,10 +138,6 @@
       "42:1:a46e:983d:1d32:dc73:9f63:363c"
     ],
     "publicKey": "sxaqrsqcDgdM3+QH6mxzqDs3SLWgm7J8AytpIbRZ2n0="
-  },
-  "rilke": {
-    "allowedIPs": [],
-    "publicKey": "09yVPHL/ucvqc6V5n7vFQ2Oi1LBMdwQZDL+7jBwy+iQ="
   },
   "rockit": {
     "allowedIPs": [
