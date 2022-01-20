@@ -2,6 +2,10 @@
 129.215.165.57 4.amy.i
 2001:630:3c1:164:b62e:99ff:fe3e:d369 amy.i
 2001:630:3c1:164:b62e:99ff:fe3e:d369 6.amy.i
+131.159.102.11 astrid.i
+131.159.102.11 4.astrid.i
+2a09:80c0:102::11 astrid.i
+2a09:80c0:102::11 6.astrid.i
 131.159.102.1 bill.i
 131.159.102.1 4.bill.i
 2a09:80c0:102::1 bill.i
@@ -40,6 +44,10 @@
 129.215.165.53 4.martha.i
 2001:630:3c1:164:6d4:c4ff:fe04:4aba martha.i
 2001:630:3c1:164:6d4:c4ff:fe04:4aba 6.martha.i
+131.159.102.10 mickey.i
+131.159.102.10 4.mickey.i
+2a09:80c0:102::10 mickey.i
+2a09:80c0:102::10 6.mickey.i
 131.159.102.2 nardole.i
 131.159.102.2 4.nardole.i
 2a09:80c0:102::2 nardole.i
@@ -90,6 +98,8 @@
 10.243.77.67 4.arcadeomat.r
 42:0:ca48:d189:eb99:d89:6d3a:354d arcadeomat.r
 42:0:ca48:d189:eb99:d89:6d3a:354d 6.arcadeomat.r
+42:0:3c46:98ac:9c80:4f25:50e3:1d8f astrid.r
+42:0:3c46:98ac:9c80:4f25:50e3:1d8f 6.astrid.r
 10.243.13.39 au.r
 10.243.13.39 4.au.r
 42:0:a46e:5af:632c:d2fe:a71d:cde0 au.r
