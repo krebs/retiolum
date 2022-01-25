@@ -44,6 +44,7 @@
   },
   "g7power": {
     "allowedIPs": [
+      "10.244.2.97",
       "42:1:3c46:362d:4288:1990:c391:127b"
     ],
     "publicKey": "09yVPHL/ucvqc6V5n7vFQ2Oi1LBMdwQZDL+7jBwy+iQ="
