@@ -110,8 +110,6 @@
 42:0:a46e:5af:632c:d2fe:a71d:cde0 6.au.r
 42:0:3c46:1452:ca55:fdaf:b12b:3027 bernie.r
 42:0:3c46:1452:ca55:fdaf:b12b:3027 6.bernie.r
-10.243.29.195 bill.r
-10.243.29.195 4.bill.r
 42:0:3c46:87ed:6232:1016:7553:939c bill.r
 42:0:3c46:87ed:6232:1016:7553:939c 6.bill.r
 10.243.0.77 blue.r
@@ -216,8 +214,6 @@
 10.243.211.172 4.flap.r
 42:0:e644:43dc:2291:7db8:acdc:d33e flap.r
 42:0:e644:43dc:2291:7db8:acdc:d33e 6.flap.r
-10.243.29.199 graham.r
-10.243.29.199 4.graham.r
 42:0:3c46:ab64:fa7c:171a:c94a:ac19 graham.r
 42:0:3c46:ab64:fa7c:171a:c94a:ac19 6.graham.r
 10.243.29.187 grandalf.r
@@ -330,8 +326,6 @@
 10.243.20.1 4.mu.r
 42:0:a46e:3cd3:1950:3ea6:785e:e124 mu.r
 42:0:a46e:3cd3:1950:3ea6:785e:e124 6.mu.r
-10.243.29.173 nardole.r
-10.243.29.173 4.nardole.r
 42:0:3c46:362d:a9aa:4996:c78e:839a nardole.r
 42:0:3c46:362d:a9aa:4996:c78e:839a 6.nardole.r
 10.243.0.5 news.r brockman.r go.r rss.r
@@ -430,8 +424,6 @@
 10.243.122.122 4.rtjure.r
 42:0:3c46:e3ce:cacc:bd95:dc9f:bc85 rtjure.r
 42:0:3c46:e3ce:cacc:bd95:dc9f:bc85 6.rtjure.r
-10.243.29.198 ryan.r
-10.243.29.198 4.ryan.r
 42:0:3c46:53a7:e0e3:a2b6:471d:44a ryan.r
 42:0:3c46:53a7:e0e3:a2b6:471d:44a 6.ryan.r
 10.243.29.194 sauron.r
@@ -528,8 +520,6 @@
 10.243.13.38 4.xu.r 4.cgit.xu.r 4.krebs.xu.r
 42:0:a46e:c3c:9c2f:1386:90fc:a489 xu.r cgit.xu.r krebs.xu.r
 42:0:a46e:c3c:9c2f:1386:90fc:a489 6.xu.r 6.cgit.xu.r 6.krebs.xu.r
-10.243.29.197 yasmin.r
-10.243.29.197 4.yasmin.r
 42:0:3c46:9b18:d5e7:d945:ccf8:829e yasmin.r
 42:0:3c46:9b18:d5e7:d945:ccf8:829e 6.yasmin.r
 10.243.0.14 yellow.r

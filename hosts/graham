@@ -1,6 +1,5 @@
 Address = 131.159.102.9 655
 Address = 2a09:80c0:102::9 655
-Subnet = 10.243.29.199
 Subnet = 42:0:3c46:ab64:fa7c:171a:c94a:ac19
 
 -----BEGIN RSA PUBLIC KEY-----
