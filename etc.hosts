@@ -384,10 +384,6 @@
 10.243.23.1 4.pepe.r
 42:0:3c46:b7c1:7c9e:7c14:94b2:684a pepe.r
 42:0:3c46:b7c1:7c9e:7c14:94b2:684a 6.pepe.r
-10.243.29.193 philipsaendig.r
-10.243.29.193 4.philipsaendig.r
-42:0:3c46:1260:1093:1e2e:2ca0:9c36 philipsaendig.r
-42:0:3c46:1260:1093:1e2e:2ca0:9c36 6.philipsaendig.r
 10.243.0.103 prism.r cache.prism.r cgit.prism.r flix.r jelly.r paste.r c.r p.r search.r
 10.243.0.103 4.prism.r 4.cache.prism.r 4.cgit.prism.r 4.flix.r 4.jelly.r 4.paste.r 4.c.r 4.p.r 4.search.r
 42:0:ce16::1 prism.r cache.prism.r cgit.prism.r flix.r jelly.r paste.r c.r p.r search.r
@@ -412,8 +408,6 @@
 10.243.29.188 4.redha.r
 42:0:3c46:2731:f350:856a:4cad:63c3 redha.r
 42:0:3c46:2731:f350:856a:4cad:63c3 6.redha.r
-10.243.29.171 rock.r
-10.243.29.171 4.rock.r
 42:0:3c46:e1a5:350a:770c:ec9:f353 rock.r
 42:0:3c46:e1a5:350a:770c:ec9:f353 6.rock.r
 10.243.29.178 rose.r
