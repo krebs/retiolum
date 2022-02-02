@@ -47,10 +47,7 @@ in {
     };
     systemd.services."tinc.${netname}" = {
       preStart = ''
-        cp -R ${retiolum}/hosts /etc/tinc/${netname}/ || true
-        # tinc-pre fails to connect unless it can write ed25519 keys here
-        chmod -R u+w tinc.${netname} /etc/tinc/${netname}/hosts
-        chown -R tinc.${netname} /etc/tinc/${netname}/hosts
+        cp -R ${retiolum}/hosts /etc/tinc/retiolum/ || true
       '';
     };
 
