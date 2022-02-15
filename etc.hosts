@@ -44,6 +44,10 @@
 144.76.26.247 4.gum.i
 2a01:4f8:191:12f6::2 gum.i
 2a01:4f8:191:12f6::2 6.gum.i
+178.254.30.202 latte.i
+178.254.30.202 4.latte.i
+2a00:6800:3:18c::2 latte.i
+2a00:6800:3:18c::2 6.latte.i
 129.215.165.53 martha.i
 129.215.165.53 4.martha.i
 2001:630:3c1:164:6d4:c4ff:fe04:4aba martha.i
@@ -298,6 +302,10 @@
 10.243.1.89 4.lasspi.r
 42:0:ce16::189 lasspi.r
 42:0:ce16::189 6.lasspi.r
+10.243.0.214 latte.r
+10.243.0.214 4.latte.r
+42:0:e644:7cc2:201c:8cbb:ff58:fbfa latte.r
+42:0:e644:7cc2:201c:8cbb:ff58:fbfa 6.latte.r
 10.243.133.77 littleT.r
 10.243.133.77 4.littleT.r
 42:0:ce16::771e littleT.r

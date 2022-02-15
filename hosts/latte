@@ -1,4 +1,6 @@
-Subnet = 10.243.80.249
+Address = 178.254.30.202 655
+Address = 2a00:6800:3:18c::2 655
+Subnet = 10.243.0.214
 Subnet = 42:0:e644:7cc2:201c:8cbb:ff58:fbfa
 
 -----BEGIN RSA PUBLIC KEY-----
@@ -9,4 +11,7 @@ r2Rj6jJb89ZPaTr+hl0+0WQQVpl9NI7MTCUimvFBaD6IPmBh5wTySu6mYBs0mqmf
 GSXJRTytLYZEah8lp8F4ONggN6ixlhlcQAotToFP4s8c+KqYfIZrtP+pRj7W72Y6
 vhnobLDJwBbAsW1RQ6FHcw10TrP2H+haewIDAQAB
 -----END RSA PUBLIC KEY-----
+
+Ed25519PublicKey = Ed25519PublicKey = ILtT9Y5pGBtc5/wR56RYzzYeZMvmmutaC6IED6I1oTI
+
 
