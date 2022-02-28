@@ -302,10 +302,10 @@
 10.243.1.89 4.lasspi.r
 42:0:ce16::189 lasspi.r
 42:0:ce16::189 6.lasspi.r
-10.243.0.214 latte.r
-10.243.0.214 4.latte.r
-42:0:e644:7cc2:201c:8cbb:ff58:fbfa latte.r
-42:0:e644:7cc2:201c:8cbb:ff58:fbfa 6.latte.r
+10.243.0.214 latte.r torrent.latte.r
+10.243.0.214 4.latte.r 4.torrent.latte.r
+42:0:e644:7cc2:201c:8cbb:ff58:fbfa latte.r torrent.latte.r
+42:0:e644:7cc2:201c:8cbb:ff58:fbfa 6.latte.r 6.torrent.latte.r
 10.243.133.77 littleT.r
 10.243.133.77 4.littleT.r
 42:0:ce16::771e littleT.r
