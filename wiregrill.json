@@ -60,7 +60,7 @@
       "10.244.245.1",
       "42:1:e644::1"
     ],
-    "endpoint": "144.76.26.247:51821",
+    "endpoint": "142.132.189.140:51821",
     "persistentKeepalive": 61,
     "publicKey": "A7UPKSUaCZaJ9hXv6X4jvcZ+5X+PlS1EmCwxlLBAKH0="
   },
