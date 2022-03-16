@@ -470,6 +470,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.11.1 4.styx.r
 42:0:ce16::111 styx.r
 42:0:ce16::111 6.styx.r
+10.243.2.74 tahina.r tahina.kmein.r
+10.243.2.74 4.tahina.r 4.tahina.kmein.r
+42:0:3c46:2923:1c90:872:edd6:306 tahina.r tahina.kmein.r
+42:0:3c46:2923:1c90:872:edd6:306 6.tahina.r 6.tahina.kmein.r
 10.243.117.12 toastbrot.r
 10.243.117.12 4.toastbrot.r
 42:0:3c46:d517:31c3:3ef8:31e7:c0b8 toastbrot.r
