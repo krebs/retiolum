@@ -410,6 +410,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.22.22 4.querel.r
 42:0:a46e:983d:1d32:dc73:9f63:363c querel.r
 42:0:a46e:983d:1d32:dc73:9f63:363c 6.querel.r
+42:0:3c46:3f4b:cbe8:e276:a769:2a99 rauter.r
+42:0:3c46:3f4b:cbe8:e276:a769:2a99 6.rauter.r
 10.243.27.32 reagenzglas.r
 10.243.27.32 4.reagenzglas.r
 42:0:8809:48df:e952:9e30:78ff:ebc7 reagenzglas.r
