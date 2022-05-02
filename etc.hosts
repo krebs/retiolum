@@ -98,10 +98,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.21.1 4.alnus.r
 42:0:a46e:99a9:9166:ae88:208:9645 alnus.r
 42:0:a46e:99a9:9166:ae88:208:9645 6.alnus.r
-10.243.73.31 alsace.r
-10.243.73.31 4.alsace.r
-42:0:3c46:1931:ca61:6459:1beb:bdab alsace.r
-42:0:3c46:1931:ca61:6459:1beb:bdab 6.alsace.r
 10.243.29.181 amy.r
 10.243.29.181 4.amy.r
 42:0:3c46:1551:1906:bc7c:801f:3c4 amy.r
@@ -422,6 +418,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:3c46:2731:f350:856a:4cad:63c3 6.redha.r
 42:0:3c46:e1a5:350a:770c:ec9:f353 rock.r
 42:0:3c46:e1a5:350a:770c:ec9:f353 6.rock.r
+10.243.23.42 rojava.r
+10.243.23.42 4.rojava.r
+42:0:3c46:f99d:fde8:a301:1b09:caf4 rojava.r
+42:0:3c46:f99d:fde8:a301:1b09:caf4 6.rojava.r
 10.243.29.178 rose.r
 10.243.29.178 4.rose.r
 42:0:3c46:a5a1:618d:663a:f0f1:ec88 rose.r
