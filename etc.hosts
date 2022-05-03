@@ -390,6 +390,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.23.1 4.pepe.r
 42:0:3c46:b7c1:7c9e:7c14:94b2:684a pepe.r
 42:0:3c46:b7c1:7c9e:7c14:94b2:684a 6.pepe.r
+10.243.4.43 ponte.r
+10.243.4.43 4.ponte.r
+42::443 ponte.r
+42::443 6.ponte.r
 10.243.0.103 prism.r cache.prism.r cgit.prism.r flix.r jelly.r paste.r c.r p.r search.r
 10.243.0.103 4.prism.r 4.cache.prism.r 4.cgit.prism.r 4.flix.r 4.jelly.r 4.paste.r 4.c.r 4.p.r 4.search.r
 42:0:ce16::1 prism.r cache.prism.r cgit.prism.r flix.r jelly.r paste.r c.r p.r search.r
