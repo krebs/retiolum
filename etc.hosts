@@ -1,3 +1,7 @@
+131.159.102.13 adelaide.i
+131.159.102.13 4.adelaide.i
+2a09:80c0:102::13 adelaide.i
+2a09:80c0:102::13 6.adelaide.i
 129.215.165.57 amy.i
 129.215.165.57 4.amy.i
 2001:630:3c1:164:b62e:99ff:fe3e:d369 amy.i
@@ -10,6 +14,10 @@
 131.159.102.1 4.bill.i
 2a09:80c0:102::1 bill.i
 2a09:80c0:102::1 6.bill.i
+131.159.102.14 christina.i
+131.159.102.14 4.christina.i
+2a09:80c0:102::14 christina.i
+2a09:80c0:102::14 6.christina.i
 129.215.165.58 clara.i
 129.215.165.58 4.clara.i
 2001:630:3c1:164:b62e:99ff:fe3d:70f2 clara.i
@@ -44,6 +52,14 @@
 142.132.189.140 4.gum.i
 fe80::9400:1ff:fe24:33f4 gum.i
 fe80::9400:1ff:fe24:33f4 6.gum.i
+131.159.102.17 jack.i
+131.159.102.17 4.jack.i
+2a09:80c0:102::17 jack.i
+2a09:80c0:102::17 6.jack.i
+131.159.102.3 jackson.i
+131.159.102.3 4.jackson.i
+2a09:80c0:102::3 jackson.i
+2a09:80c0:102::3 6.jackson.i
 178.254.30.202 latte.i
 178.254.30.202 4.latte.i
 2a00:6800:3:18c::2 latte.i
@@ -66,6 +82,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 95.216.1.150 4.prism.i 4.paste.i
 2a01:4f9:2a:1e9::1 prism.i paste.i
 2a01:4f9:2a:1e9::1 6.prism.i 6.paste.i
+131.159.102.16 river.i
+131.159.102.16 4.river.i
+2a09:80c0:102::16 river.i
+2a09:80c0:102::16 6.river.i
 129.215.165.52 rose.i
 129.215.165.52 4.rose.i
 2001:630:3c1:164:6d4:c4ff:fe04:4e4b rose.i
@@ -78,10 +98,16 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 129.215.165.75 4.sauron.i
 2001:630:3c1:164:d65d:64ff:feb0:e8a8 sauron.i
 2001:630:3c1:164:d65d:64ff:feb0:e8a8 6.sauron.i
+131.159.102.15 wilfred.i
+131.159.102.15 4.wilfred.i
+2a09:80c0:102::15 wilfred.i
+2a09:80c0:102::15 6.wilfred.i
 131.159.102.7 yasmin.i
 131.159.102.7 4.yasmin.i
 2a09:80c0:102::7 yasmin.i
 2a09:80c0:102::7 6.yasmin.i
+42:0:3c46:b79b:e658:22f8:3a00:fc74 adelaide.r
+42:0:3c46:b79b:e658:22f8:3a00:fc74 6.adelaide.r
 10.243.29.172 aendernix.r
 10.243.29.172 4.aendernix.r
 42:0:3c46:f14:26a0:7b5e:349f:7f0b aendernix.r
@@ -140,6 +166,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.13.12 4.catalonia.r
 42:0:3c46:872f:60bd:5179:38b3:cba9 catalonia.r
 42:0:3c46:872f:60bd:5179:38b3:cba9 6.catalonia.r
+42:0:3c46:9a2d:93c6:b09e:fc2:92a9 christina.r
+42:0:3c46:9a2d:93c6:b09e:fc2:92a9 6.christina.r
 10.243.29.182 clara.r
 10.243.29.182 4.clara.r
 42:0:3c46:e4e9:7814:459b:3f23:f455 clara.r
@@ -270,6 +298,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.133.114 4.icarus.r
 42:0:ce16::1205 icarus.r
 42:0:ce16::1205 6.icarus.r
+42:0:3c46:43ea:3161:1159:e7e6:ff78 jack.r
+42:0:3c46:43ea:3161:1159:e7e6:ff78 6.jack.r
+42:0:3c46:d295:dc35:5ec7:5a2d:c4a1 jackson.r
+42:0:3c46:d295:dc35:5ec7:5a2d:c4a1 6.jackson.r
 42:0:3c46:7338:dda8:2015:8d14:2a0b jarvis.r
 42:0:3c46:7338:dda8:2015:8d14:2a0b 6.jarvis.r
 10.243.5.6 jongepad.r
@@ -422,6 +454,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.29.188 4.redha.r
 42:0:3c46:2731:f350:856a:4cad:63c3 redha.r
 42:0:3c46:2731:f350:856a:4cad:63c3 6.redha.r
+42:0:3c46:f7cf:5f5a:8ed8:f139:be6d river.r
+42:0:3c46:f7cf:5f5a:8ed8:f139:be6d 6.river.r
 42:0:3c46:e1a5:350a:770c:ec9:f353 rock.r
 42:0:3c46:e1a5:350a:770c:ec9:f353 6.rock.r
 10.243.23.42 rojava.r
@@ -508,6 +542,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.214.15 4.wbob.r 4.hydra.wbob.r 4.log.wbob.r
 42:0:e644:4499:d034:895e:34c8:6f9a wbob.r hydra.wbob.r log.wbob.r
 42:0:e644:4499:d034:895e:34c8:6f9a 6.wbob.r 6.hydra.wbob.r 6.log.wbob.r
+42:0:3c46:6dcc:65aa:4cb4:c1a9:9548 wilfred.r
+42:0:3c46:6dcc:65aa:4cb4:c1a9:9548 6.wilfred.r
 10.243.77.1 wolf.r build.wolf.r cgit.wolf.r lounge.mpd.wolf.r
 10.243.77.1 4.wolf.r 4.build.wolf.r 4.cgit.wolf.r 4.lounge.mpd.wolf.r
 42:0:ca48:b76a:f76b:61b9:62db:75b wolf.r build.wolf.r cgit.wolf.r lounge.mpd.wolf.r
