@@ -244,6 +244,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.211.172 4.flap.r
 42:0:e644:43dc:2291:7db8:acdc:d33e flap.r
 42:0:e644:43dc:2291:7db8:acdc:d33e 6.flap.r
+10.243.2.107 ful.r
+10.243.2.107 4.ful.r
+42:0:3c46:2c8b:a564:1213:9fb4:1bc4 ful.r
+42:0:3c46:2c8b:a564:1213:9fb4:1bc4 6.ful.r
 42:0:3c46:ab64:fa7c:171a:c94a:ac19 graham.r
 42:0:3c46:ab64:fa7c:171a:c94a:ac19 6.graham.r
 10.243.29.187 grandalf.r
