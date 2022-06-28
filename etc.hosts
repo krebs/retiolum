@@ -540,6 +540,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.42.13 4.ilmu.r
 42:0:3c46:bc8c:78fb:66b5:512c:7fbe ilmu.r
 42:0:3c46:bc8c:78fb:66b5:512c:7fbe 6.ilmu.r
+10.243.42.12 v60.dbalan.r
+10.243.42.12 4.v60.dbalan.r
+42:0:3c46:a24:a2de:502c:b037:79ab v60.dbalan.r
+42:0:3c46:a24:a2de:502c:b037:79ab 6.v60.dbalan.r
 10.243.214.15 wbob.r hydra.wbob.r log.wbob.r
 10.243.214.15 4.wbob.r 4.hydra.wbob.r 4.log.wbob.r
 42:0:e644:4499:d034:895e:34c8:6f9a wbob.r hydra.wbob.r log.wbob.r
