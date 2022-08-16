@@ -278,6 +278,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.133.114 4.icarus.r
 42:0:ce16::1205 icarus.r
 42:0:ce16::1205 6.icarus.r
+10.243.10.244 iti.r
+10.243.10.244 4.iti.r
+42:0:3c46:bd54:30b:b799:a9a7:68c8 iti.r
+42:0:3c46:bd54:30b:b799:a9a7:68c8 6.iti.r
 42:0:3c46:43ea:3161:1159:e7e6:ff78 jack.r
 42:0:3c46:43ea:3161:1159:e7e6:ff78 6.jack.r
 42:0:3c46:d295:dc35:5ec7:5a2d:c4a1 jackson.r
