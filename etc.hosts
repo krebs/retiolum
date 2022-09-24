@@ -282,8 +282,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.10.244 4.iti.r
 42:0:3c46:bd54:30b:b799:a9a7:68c8 iti.r
 42:0:3c46:bd54:30b:b799:a9a7:68c8 6.iti.r
-42:0:3c46:43ea:3161:1159:e7e6:ff78 jack.r
-42:0:3c46:43ea:3161:1159:e7e6:ff78 6.jack.r
+42:0:3c46:43ea:3161:1159:e7e6:ff78 jack.r stable-confusion.r
+42:0:3c46:43ea:3161:1159:e7e6:ff78 6.jack.r 6.stable-confusion.r
 42:0:3c46:d295:dc35:5ec7:5a2d:c4a1 jackson.r
 42:0:3c46:d295:dc35:5ec7:5a2d:c4a1 6.jackson.r
 10.243.5.6 jongepad.r
