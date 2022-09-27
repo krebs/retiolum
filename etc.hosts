@@ -306,6 +306,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.30.2 4.kelle.r
 42:0:3c46:251c:ffa7:e158:c872:7f00 kelle.r
 42:0:3c46:251c:ffa7:e158:c872:7f00 6.kelle.r
+10.243.100.102 kfbox.r
+10.243.100.102 4.kfbox.r
+42:0:3c46:3ae6:90a8:b220:e772:8a5c kfbox.r
+42:0:3c46:3ae6:90a8:b220:e772:8a5c 6.kfbox.r
 10.243.1.89 lasspi.r
 10.243.1.89 4.lasspi.r
 42:0:ce16::189 lasspi.r
