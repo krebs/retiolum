@@ -18,10 +18,6 @@
 131.159.102.12 4.dan.i
 2a09:80c0:102::12 dan.i
 2a09:80c0:102::12 6.dan.i
-65.108.192.175 dev1.i
-65.108.192.175 4.dev1.i
-2a01:4f9:1a:94a4::1 dev1.i
-2a01:4f9:1a:94a4::1 6.dev1.i
 157.90.232.92 dishfire.i
 157.90.232.92 4.dishfire.i
 88.198.164.182 enklave.i
@@ -178,8 +174,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:ce16::daed 6.daedalus.r
 42:0:3c46:550c:ec4f:2dbb:3b14:95 dan.r
 42:0:3c46:550c:ec4f:2dbb:3b14:95 6.dan.r
-42:0:3c46:9ea4:cf4b:9c1f:5eb3:1deb dev1.r
-42:0:3c46:9ea4:cf4b:9c1f:5eb3:1deb 6.dev1.r
 10.243.29.192 dimitra.r
 10.243.29.192 4.dimitra.r
 42:0:3c46:ab7f:21e3:cb1d:d9e0:782d dimitra.r
