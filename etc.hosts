@@ -530,6 +530,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.42.12 4.v60.dbalan.r
 42:0:3c46:a24:a2de:502c:b037:79ab v60.dbalan.r
 42:0:3c46:a24:a2de:502c:b037:79ab 6.v60.dbalan.r
+10.243.232.232 verex.r
+10.243.232.232 4.verex.r
+42:0:3c46:411b:8026:4850:820a:b689 verex.r
+42:0:3c46:411b:8026:4850:820a:b689 6.verex.r
 10.243.214.15 wbob.r hydra.wbob.r log.wbob.r
 10.243.214.15 4.wbob.r 4.hydra.wbob.r 4.log.wbob.r
 42:0:e644:4499:d034:895e:34c8:6f9a wbob.r hydra.wbob.r log.wbob.r
