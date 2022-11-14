@@ -328,6 +328,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.29.179 4.martha.r
 42:0:3c46:5466:7dbe:f27a:673f:ea64 martha.r
 42:0:3c46:5466:7dbe:f27a:673f:ea64 6.martha.r
+10.243.0.113 massulus.r
+10.243.0.113 4.massulus.r
+42:0:ce16::113 massulus.r
+42:0:ce16::113 6.massulus.r
 42:0:3c46:6745:adf4:a844:26c4:bf91 matchbox.r
 42:0:3c46:6745:adf4:a844:26c4:bf91 6.matchbox.r
 10.243.29.200 maurice.r
@@ -620,6 +624,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:1:ce16::189 6.lasspi.w
 42:1:ce16::771e littleT.w
 42:1:ce16::771e 6.littleT.w
+42:1:ce16::113 massulus.w
+42:1:ce16::113 6.massulus.w
 42:1:3c46:a85c:9517:3474:8e1c:4be7 miaoski.w
 42:1:3c46:a85c:9517:3474:8e1c:4be7 6.miaoski.w
 42:1:ce16::dea7 mors.w

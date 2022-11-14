@@ -88,6 +88,12 @@
     ],
     "publicKey": "VfSTPO1XGqLqujAGCov1yA0WxyRXJndZCW5XYkScNXg="
   },
+  "massulus": {
+    "allowedIPs": [
+      "42:1:ce16::113"
+    ],
+    "publicKey": "4wXpuDBEJS8J1bxS4paz/eZP1MuMfgHDCvOPn4TYtHQ="
+  },
   "miaoski": {
     "allowedIPs": [
       "42:1:3c46:a85c:9517:3474:8e1c:4be7"
