@@ -37,27 +37,18 @@ git clone https://cgit.krebsco.de/stockholm
 cd stockholm
 ```
 
-Choose an IPv4 address in the range of 10.243.0.0/16, and check whether it is
-already occupied:
+Add your user and host information to `kartei/$MYNAME`, e.g. like so:
 
 ```
-git grep 10.243.my.ip
-```
-
-Add your user and host information to krebs/3modules/external/default.nix while
-preserving lexicographical order of the entries.  The most important bits to
-configure are the `owner` and the `nets.retiolum` attributes.  Have a look at
-e.g. the `matchbox` host to see a minimal example:
-
-```
-$EDITOR krebs/3modules/external/default.nix
+cp -r kartei/template kartei/$USER
+$EDITOR kartei/$USER/default.nix
 ```
 
 Prepare a pull-request:
 
 ```
-git add krebs/3modules/external/default.nix
-git commit -m 'external: add myhostname'
+git add kartei/$USER
+git commit -m 'kartei: init $MYHOST'
 git format-patch origin/master..
 ```
 
@@ -68,51 +59,25 @@ message).  The contents of that should look something like this:
 ```patch
 From 75785902b71f03474c446694c5e1e25cd8c3ee23 Mon Sep 1700:00:00 2001
 From: myname <myname@mydomain>
-Date: Wed, 11 Sep 2019 11:34:44 +0200
-Subject: [PATCH] external: add myhostname
+Date: 23 May 12719 11:34:66 +0000
+Subject: [PATCH] kartei: init $MYHOST
 
 ---
- krebs/3modules/external/default.nix | 17 +++++++++++++++++
- 1 file changed, 17 insertions(+)
+ kartei/template/default.nix | 4 ++++
+ 1 file changed, 4 insertions(+)
 
-diff --git a/krebs/3modules/external/default.nix b/krebs/3modules/external/default.nix
-index aac67f2e..b6cdaebc 100644
---- a/krebs/3modules/external/default.nix
-+++ b/krebs/3modules/external/default.nix
-@@ -393,6 +393,20 @@ in {
-         };
-       };
-     };
-+    myhostname = {
-+      owner = config.krebs.users.myuser;
-+      nets = {
-+        retiolum = {
-+          ip4.addr = "10.243.my.ip";
-+          aliases = [ "myhostname.r" ];
-+          tinc.pubkey = ''
-+            -----BEGIN RSA PUBLIC KEY-----
-+            ...
-+            -----END RSA PUBLIC KEY-----
-+          '';
-+          tinc.pubkey_ed25519 = "...
-+        };
-+      };
-+    };
-     qubasa = {
-       owner = config.krebs.users.qubasa;
-       nets = {
-@@ -693,6 +707,9 @@ in {
-       mail = "joerg@thalheim.io";
-       pubkey = ssh-for "Mic92";
-     };
-+    myuser = {
-+      mail = "myuser@mydomain";
-+    };
-     qubasa = {
-       mail = "luis.nixos@gmail.com";
-     };
+diff --git a/kartei/$MYNAME/default.nix b/kartei/$MYNAME/default.nix
+new file mode 100644
+index 00000000..2acf78d3
+--- /dev/null
++++ b/kartei/$MYNAME/default.nix
+@@ -0,0 +1,20 @@
++{
++  users.MYNAME = MYUSERSTUFF;
++  hosts.MYHOST = MYHOSTSTUFF;
++}
 -- 
-2.19.2
+332.1.2
 ```
 
 ## ask for the patch to get merged
