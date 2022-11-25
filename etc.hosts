@@ -510,6 +510,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.11.1 4.styx.r
 42:0:ce16::111 styx.r
 42:0:ce16::111 6.styx.r
+10.244.2.78 tabula.r tabula.kmein.r
+10.244.2.78 4.tabula.r 4.tabula.kmein.r
+42:0:3c46:5696:7c02:a133:6b79:d6b4 tabula.r tabula.kmein.r
+42:0:3c46:5696:7c02:a133:6b79:d6b4 6.tabula.r 6.tabula.kmein.r
 10.243.2.74 tahina.r tahina.kmein.r
 10.243.2.74 4.tahina.r 4.tahina.kmein.r
 42:0:3c46:2923:1c90:872:edd6:306 tahina.r tahina.kmein.r
