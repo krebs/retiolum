@@ -260,10 +260,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.226.213 4.horisa.r
 42:0:e644:9099:4f8:b9aa:3856:4e85 horisa.r
 42:0:e644:9099:4f8:b9aa:3856:4e85 6.horisa.r
-10.243.77.3 hotdog.r agenda.r kri.r build.r build.hotdog.r ca.r cgit.hotdog.r irc.r wiki.r
-10.243.77.3 4.hotdog.r 4.agenda.r 4.kri.r 4.build.r 4.build.hotdog.r 4.ca.r 4.cgit.hotdog.r 4.irc.r 4.wiki.r
-42:0:ca48:b3a6:3560:2208:e86a:c7d6 hotdog.r agenda.r kri.r build.r build.hotdog.r ca.r cgit.hotdog.r irc.r wiki.r
-42:0:ca48:b3a6:3560:2208:e86a:c7d6 6.hotdog.r 6.agenda.r 6.kri.r 6.build.r 6.build.hotdog.r 6.ca.r 6.cgit.hotdog.r 6.irc.r 6.wiki.r
+10.243.77.3 hotdog.r agenda.r kri.r build.r build.hotdog.r ca.r calendar.r cgit.hotdog.r irc.r wiki.r
+10.243.77.3 4.hotdog.r 4.agenda.r 4.kri.r 4.build.r 4.build.hotdog.r 4.ca.r 4.calendar.r 4.cgit.hotdog.r 4.irc.r 4.wiki.r
+42:0:ca48:b3a6:3560:2208:e86a:c7d6 hotdog.r agenda.r kri.r build.r build.hotdog.r ca.r calendar.r cgit.hotdog.r irc.r wiki.r
+42:0:ca48:b3a6:3560:2208:e86a:c7d6 6.hotdog.r 6.agenda.r 6.kri.r 6.build.r 6.build.hotdog.r 6.ca.r 6.calendar.r 6.cgit.hotdog.r 6.irc.r 6.wiki.r
 10.243.13.41 hu.r
 10.243.13.41 4.hu.r
 42:0:a46e:982c:ffd3:d21b:4846:9c85 hu.r
