@@ -86,7 +86,7 @@ Join the #krebs channel on hackint.
 If you don't know anything about IRC, you can just use this webirc: https://webirc.hackint.org/#ircs://irc.hackint.org/#krebs
 If you are not known, introduce yourself, explain what you are doing and what you want to contribute.
 Then send the formatted patch either sent via email to spam@krebsco.de, or
-upload it to some pastebin (preferably https://p.krebsco.de) (use it with curl --binary-data) and share the
+upload it to some pastebin (preferably https://p.krebsco.de) (use it with curl --data-binary) and share the
 link to the pasted patch in #krebs.
 Now some patience will be required, but you will soon receive confirmation or
 change requests for your patch, and it will get deployed to the super nodes.
