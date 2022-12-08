@@ -1,0 +1,20 @@
+Subnet = 10.243.32.2
+Subnet = 42:0:ac37:e5d5:7e26:bdee:77ea:b44f
+
+-----BEGIN RSA PUBLIC KEY-----
+MIICCgKCAgEAxHLkvuH9JMXay/fEmoWTEqLHg9A50EzkxPVBn4nyezgp5vxsUqJz
+Ys0VnO6jjgz9T6N8u0CaavsqFy+X48A/+uB5nd/nGDZNaeTg+HUdznT4OFAJEaDi
+uQREDsR5ZwmpI534eESHMdn5LSb/+5CUgj2xsoOBxnukALm1YccPxR0PPibCm+Z1
+P8r+1+nBgIPv+cknTXzhWMF/L7UOXuyV3Jmk1BIhwYmzWVes6idtIyJwoCbssoQT
+cl21Czvhwx63o/QEa81qKeCK3AAAnMbp1tAxnzl7Wr/cSoBYRgSIZkOQPEUNHvpF
+fT9UzZ3DZyAOMWNjqiK1M93VruFYer05qO3jGgumDey/9gLjP6GMjBw9jVDNY9yn
+8mOKz9dkrP3v/A96Uqp+w/lYO87YrxA+h9BYY4jyPngGh0DoXddHLHAKco39vbq8
+4vQRsK5QNgquF7O9aBDMSrFosk1VFedpZQwC2LaXcjtI3aMq3vIURTbuWkutAjAd
+p9a5dRa62pWk41n6yLmalCkqnHoqVUaft9wZIxbcrDLUso7QxY6kFhjADSijnr5B
+HrBXJhNLGVjBD/W++l2CJ+L4njmy4eGrOTBvIzosCMbtgMtfuu7WSQhsjxTwclbD
+utT3hmgxDPZydsvzRMsLNvNQwUoiLAL4mz27V9hYcJTKPAbUL3y8h48CAwEAAQ==
+-----END RSA PUBLIC KEY-----
+
+Ed25519PublicKey = q/DIqHkb/8Qu7OrCXaBeuxkT9XNPmxo8uF3GkFFC6rJ
+
+Weight = 300

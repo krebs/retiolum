@@ -114,10 +114,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.21.1 4.alnus.r
 42:0:a46e:99a9:9166:ae88:208:9645 alnus.r
 42:0:a46e:99a9:9166:ae88:208:9645 6.alnus.r
-10.243.32.1 ancha.oxzi.r
-10.243.32.1 4.ancha.oxzi.r
-42:0:ac37:4fec:2d96:374a:5389:fc24 ancha.oxzi.r
-42:0:ac37:4fec:2d96:374a:5389:fc24 6.ancha.oxzi.r
+10.243.32.1 ancha.oxzi.r gosh.r
+10.243.32.1 4.ancha.oxzi.r 4.gosh.r
+42:0:ac37:4fec:2d96:374a:5389:fc24 ancha.oxzi.r gosh.r
+42:0:ac37:4fec:2d96:374a:5389:fc24 6.ancha.oxzi.r 6.gosh.r
 10.243.77.67 arcadeomat.r
 10.243.77.67 4.arcadeomat.r
 42:0:ca48:d189:eb99:d89:6d3a:354d arcadeomat.r
@@ -328,6 +328,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.2.85 4.manakish.r 4.manakish.kmein.r
 42:0:3c46:ac99:ae36:cb8:c551:ba27 manakish.r manakish.kmein.r
 42:0:3c46:ac99:ae36:cb8:c551:ba27 6.manakish.r 6.manakish.kmein.r
+10.243.32.2 marohu.oxzi.r
+10.243.32.2 4.marohu.oxzi.r
+42:0:ac37:e5d5:7e26:bdee:77ea:b44f marohu.oxzi.r
+42:0:ac37:e5d5:7e26:bdee:77ea:b44f 6.marohu.oxzi.r
 10.243.29.179 martha.r
 10.243.29.179 4.martha.r
 42:0:3c46:5466:7dbe:f27a:673f:ea64 martha.r
