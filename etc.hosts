@@ -68,6 +68,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 188.68.36.196 4.ni.i 4.cgit.ni.i
 2a03:4000:13:4c::1 ni.i cgit.ni.i
 2a03:4000:13:4c::1 6.ni.i 6.cgit.ni.i
+141.147.36.79 ponte.i
+141.147.36.79 4.ponte.i
 95.216.1.150 prism.i paste.i
 95.216.1.150 4.prism.i 4.paste.i
 2a01:4f9:2a:1e9::1 prism.i paste.i
