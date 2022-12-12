@@ -189,6 +189,12 @@
     ],
     "publicKey": "eIafsxYEFCqmWNFon6ZsYXeDrK4X1UJ9KD0zmNZjgEI="
   },
+  "telex": {
+    "allowedIPs": [
+      "42:1:e644:afb2:95c8:f993:8906:3132"
+    ],
+    "publicKey": "T7Cr80dBbtPFCPdz4OS7whDlQJzn2Orclq5rLVtD+Ds="
+  },
   "umz": {
     "allowedIPs": [
       "10.244.3.101",
