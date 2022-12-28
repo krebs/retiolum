@@ -112,6 +112,12 @@
     ],
     "publicKey": "4bboT+cZM1BYvNho9oKbO0MFnPFTvmASR+1IdV4/fwQ="
   },
+  "neoprism": {
+    "allowedIPs": [
+      "42:1:ce16::99"
+    ],
+    "publicKey": "lhMJvEZOREjCSS3BbBxel0dJ3Mxjj0m82sUXqyYlUx0="
+  },
   "ni": {
     "allowedIPs": [
       "10.244.3.1",
