@@ -155,6 +155,12 @@
     ],
     "publicKey": "sxaqrsqcDgdM3+QH6mxzqDs3SLWgm7J8AytpIbRZ2n0="
   },
+  "radio": {
+    "allowedIPs": [
+      "42:1:ce16::4d10"
+    ],
+    "publicKey": "iCe1O9qeziw18AlGuFt5tIxm6SIBtNpwO/6OZm9Bn30="
+  },
   "rockit": {
     "allowedIPs": [
       "10.244.245.3",

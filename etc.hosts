@@ -450,6 +450,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.22.22 4.querel.r
 42:0:a46e:983d:1d32:dc73:9f63:363c querel.r
 42:0:a46e:983d:1d32:dc73:9f63:363c 6.querel.r
+10.243.0.11 radio.r
+10.243.0.11 4.radio.r
+42:0:ce16::4d10 radio.r
+42:0:ce16::4d10 6.radio.r
 42:0:3c46:3f4b:cbe8:e276:a769:2a99 rauter.r
 42:0:3c46:3f4b:cbe8:e276:a769:2a99 6.rauter.r
 10.243.27.32 reagenzglas.r
@@ -674,6 +678,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:1:ce16::1 6.prism.w
 42:1:a46e:983d:1d32:dc73:9f63:363c querel.w
 42:1:a46e:983d:1d32:dc73:9f63:363c 6.querel.w
+42:1:ce16::4d10 radio.w
+42:1:ce16::4d10 6.radio.w
 10.244.245.3 rockit.w
 10.244.245.3 4.rockit.w
 42:1:e644:319b:262c:9d61:9712:6f5f rockit.w
