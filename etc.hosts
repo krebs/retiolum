@@ -434,10 +434,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.100.101 4.porree.r
 42:0:3c46:b51c:b34d:b7e1:3b02:8d24 porree.r
 42:0:3c46:b51c:b34d:b7e1:3b02:8d24 6.porree.r
-10.243.0.103 prism.r cache.prism.r cgit.prism.r bota.r flix.r paste.r c.r p.r search.r radio-news.r
-10.243.0.103 4.prism.r 4.cache.prism.r 4.cgit.prism.r 4.bota.r 4.flix.r 4.paste.r 4.c.r 4.p.r 4.search.r 4.radio-news.r
-42:0:ce16::1 prism.r cache.prism.r cgit.prism.r bota.r flix.r paste.r c.r p.r search.r radio-news.r
-42:0:ce16::1 6.prism.r 6.cache.prism.r 6.cgit.prism.r 6.bota.r 6.flix.r 6.paste.r 6.c.r 6.p.r 6.search.r 6.radio-news.r
+10.243.0.103 prism.r cache.prism.r cgit.prism.r bota.r flix.r paste.r c.r p.r search.r
+10.243.0.103 4.prism.r 4.cache.prism.r 4.cgit.prism.r 4.bota.r 4.flix.r 4.paste.r 4.c.r 4.p.r 4.search.r
+42:0:ce16::1 prism.r cache.prism.r cgit.prism.r bota.r flix.r paste.r c.r p.r search.r
+42:0:ce16::1 6.prism.r 6.cache.prism.r 6.cgit.prism.r 6.bota.r 6.flix.r 6.paste.r 6.c.r 6.p.r 6.search.r
 10.243.77.2 puyak.r build.puyak.r cgit.puyak.r
 10.243.77.2 4.puyak.r 4.build.puyak.r 4.cgit.puyak.r
 42:0:ca48:f98f:63d7:31ce:922b:245d puyak.r build.puyak.r cgit.puyak.r
@@ -450,10 +450,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.22.22 4.querel.r
 42:0:a46e:983d:1d32:dc73:9f63:363c querel.r
 42:0:a46e:983d:1d32:dc73:9f63:363c 6.querel.r
-10.243.0.11 radio.r
-10.243.0.11 4.radio.r
-42:0:ce16::4d10 radio.r
-42:0:ce16::4d10 6.radio.r
+10.243.0.11 radio.r radio-news.r
+10.243.0.11 4.radio.r 4.radio-news.r
+42:0:ce16::4d10 radio.r radio-news.r
+42:0:ce16::4d10 6.radio.r 6.radio-news.r
 42:0:3c46:3f4b:cbe8:e276:a769:2a99 rauter.r
 42:0:3c46:3f4b:cbe8:e276:a769:2a99 6.rauter.r
 10.243.27.32 reagenzglas.r
