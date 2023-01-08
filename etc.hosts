@@ -606,10 +606,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:a46e:c3c:9c2f:1386:90fc:a489 6.xu.r 6.cgit.xu.r
 42:0:3c46:9b18:d5e7:d945:ccf8:829e yasmin.r
 42:0:3c46:9b18:d5e7:d945:ccf8:829e 6.yasmin.r
-10.243.0.14 yellow.r jelly.r
-10.243.0.14 4.yellow.r 4.jelly.r
-42:0:ce16::3110 yellow.r jelly.r
-42:0:ce16::3110 6.yellow.r 6.jelly.r
+10.243.0.14 yellow.r jelly.r rada.r sona.r
+10.243.0.14 4.yellow.r 4.jelly.r 4.rada.r 4.sona.r
+42:0:ce16::3110 yellow.r jelly.r rada.r sona.r
+42:0:ce16::3110 6.yellow.r 6.jelly.r 6.rada.r 6.sona.r
 10.243.2.34 zaatar.r zaatar.kmein.r grocy.kmein.r moodle.kmein.r radio.kmein.r home.kmein.r
 10.243.2.34 4.zaatar.r 4.zaatar.kmein.r 4.grocy.kmein.r 4.moodle.kmein.r 4.radio.kmein.r 4.home.kmein.r
 42:0:3c46:156e:10b6:3bd6:6e82:b2cd zaatar.r zaatar.kmein.r grocy.kmein.r moodle.kmein.r radio.kmein.r home.kmein.r
