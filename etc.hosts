@@ -704,6 +704,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.244.1.14 4.tablet.w
 42:1:ce16::b tablet.w
 42:1:ce16::b 6.tablet.w
+10.244.245.4 telex.w
+10.244.245.4 4.telex.w
 42:1:e644:afb2:95c8:f993:8906:3132 telex.w
 42:1:e644:afb2:95c8:f993:8906:3132 6.telex.w
 10.244.3.101 umz.w
