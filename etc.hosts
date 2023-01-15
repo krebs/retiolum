@@ -520,6 +520,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.133.116 4.skynet.r
 42:0:ce16::5ce7 skynet.r
 42:0:ce16::5ce7 6.skynet.r
+10.243.12.13 snake.r
+10.243.12.13 4.snake.r
+42:0:e644:c47a:538d:7d9f:e78e:7baa snake.r
+42:0:e644:c47a:538d:7d9f:e78e:7baa 6.snake.r
 10.243.142.104 sokrateslaptop.r
 10.243.142.104 4.sokrateslaptop.r
 42:0:3c46:d31e:64a7:4a62:a9b0:118 sokrateslaptop.r
