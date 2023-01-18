@@ -68,6 +68,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 131.159.102.2 4.nardole.i
 2a09:80c0:102::2 nardole.i
 2a09:80c0:102::2 6.nardole.i
+95.217.192.59 neoprism.i
+95.217.192.59 4.neoprism.i
+2a01:4f9:4a:4f1a::1 neoprism.i
+2a01:4f9:4a:4f1a::1 6.neoprism.i
 188.68.36.196 ni.i cgit.ni.i
 188.68.36.196 4.ni.i 4.cgit.ni.i
 2a03:4000:13:4c::1 ni.i cgit.ni.i
