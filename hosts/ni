@@ -18,4 +18,3 @@ Mf00uin+7uMuKtnG6+1z5nKb/AWrqN1RZu0rnG/IkZPKwa19HYsYcOkCAwEAAQ==
 -----END RSA PUBLIC KEY-----
 
 Ed25519PublicKey = nDuK96NlNhcxzlX7G30w/706RxItb+FhkFkz/VhUgCE
-
