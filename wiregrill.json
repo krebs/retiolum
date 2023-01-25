@@ -168,6 +168,12 @@
     ],
     "publicKey": "LPMs1h9+8ABqeZsS6xmHC7votPqpUT609XuktAhaik8="
   },
+  "ru": {
+    "allowedIPs": [
+      "42:1:a46e:1270:ed5a:d332:c106:437"
+    ],
+    "publicKey": "+3GdhwFYmBr46bBwyqrY3UH9fU1b8c2Vqmx9JTY4syU="
+  },
   "shackdev": {
     "allowedIPs": [
       "10.244.245.2",
