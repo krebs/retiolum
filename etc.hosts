@@ -112,6 +112,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.29.201 4.aendernix.r
 42:0:3c46:2aad:ed1e:33cf:aece:d216 aendernix.r
 42:0:3c46:2aad:ed1e:33cf:aece:d216 6.aendernix.r
+10.243.0.1 aergia.r
+10.243.0.1 4.aergia.r
+42:0:ce16::ae12 aergia.r
+42:0:ce16::ae12 6.aergia.r
 10.243.100.100 ahorn.r
 10.243.100.100 4.ahorn.r
 42:0:3c46:519d:1696:f464:9756:8727 ahorn.r
@@ -572,6 +576,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:e644:2215:73ba:f838:855e:945b 6.tsp.r
 42:0:3c46:47e8:f610:15d1:27a3:674b turingmachine.r
 42:0:3c46:47e8:f610:15d1:27a3:674b 6.turingmachine.r
+10.243.0.12 ubik.r
+10.243.0.12 4.ubik.r
+42:0:ce16::b1c ubik.r
+42:0:ce16::b1c 6.ubik.r
 10.243.3.14 unnamed.r
 10.243.3.14 4.unnamed.r
 42:0:3c46:20f:e882:bcaa:db1e:2e2 unnamed.r
@@ -638,6 +646,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:a46e:9c86:82ce:fa82:83d3:fda 6.zu.r
 42:1:3c46:eac1:fdee:430d:40bd:57de ada.w
 42:1:3c46:eac1:fdee:430d:40bd:57de 6.ada.w
+42:1:ce16::ae12 aergia.w
+42:1:ce16::ae12 6.aergia.w
 42:1:a46e:99a9:9166:ae88:208:9645 alnus.w
 42:1:a46e:99a9:9166:ae88:208:9645 6.alnus.w
 42:1:ce16::b1ce blue.w
@@ -724,6 +734,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.244.245.4 4.telex.w
 42:1:e644:afb2:95c8:f993:8906:3132 telex.w
 42:1:e644:afb2:95c8:f993:8906:3132 6.telex.w
+42:1:ce16::b1c ubik.w
+42:1:ce16::b1c 6.ubik.w
 10.244.3.101 umz.w
 10.244.3.101 4.umz.w
 42:1:a46e:656:944f:2308:3343:1e36 umz.w

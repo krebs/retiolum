@@ -5,6 +5,12 @@
     ],
     "publicKey": "+t0j9j7TZqvSFPzgunnON/ArXVGpMS/L3DldpanLoUk="
   },
+  "aergia": {
+    "allowedIPs": [
+      "42:1:ce16::ae12"
+    ],
+    "publicKey": "h2GFkqW1ThHpDiALrLkJEsR5NU1lXHvwk0Kers1vIxg="
+  },
   "alnus": {
     "allowedIPs": [
       "42:1:a46e:99a9:9166:ae88:208:9645"
@@ -213,6 +219,12 @@
       "42:1:e644:afb2:95c8:f993:8906:3132"
     ],
     "publicKey": "T7Cr80dBbtPFCPdz4OS7whDlQJzn2Orclq5rLVtD+Ds="
+  },
+  "ubik": {
+    "allowedIPs": [
+      "42:1:ce16::b1c"
+    ],
+    "publicKey": "JakWwg7Rq76jjzLFWPBQJPpzRHbIEbb46VLsSUOKI2I="
   },
   "umz": {
     "allowedIPs": [
