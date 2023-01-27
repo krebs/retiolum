@@ -432,10 +432,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.10.243 4.papawhakaaro.r
 42:0:3c46:488f:d2ae:e265:bd57:dcbe papawhakaaro.r
 42:0:3c46:488f:d2ae:e265:bd57:dcbe 6.papawhakaaro.r
-10.243.23.1 pepe.r
-10.243.23.1 4.pepe.r
-42:0:3c46:b7c1:7c9e:7c14:94b2:684a pepe.r
-42:0:3c46:b7c1:7c9e:7c14:94b2:684a 6.pepe.r
 10.243.143.11 petrosilia.r
 10.243.143.11 4.petrosilia.r
 42:0:3c46:2dfc:6991:79ff:a57a:9984 petrosilia.r
@@ -510,10 +506,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.29.194 4.sauron.r
 42:0:3c46:7f53:34b:ca31:16c2:da58 sauron.r
 42:0:3c46:7f53:34b:ca31:16c2:da58 6.sauron.r
-10.243.23.2 schasch.r
-10.243.23.2 4.schasch.r
-42:0:3c46:85c6:fbe9:bcac:ad31:b4b3 schasch.r
-42:0:3c46:85c6:fbe9:bcac:ad31:b4b3 6.schasch.r
 10.243.83.237 sdev.r
 10.243.83.237 4.sdev.r
 42:0:e644:24ad:995f:5926:71d5:b26e sdev.r
@@ -542,8 +534,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.142.104 4.sokrateslaptop.r
 42:0:3c46:d31e:64a7:4a62:a9b0:118 sokrateslaptop.r
 42:0:3c46:d31e:64a7:4a62:a9b0:118 6.sokrateslaptop.r
-10.243.23.3 sterni.r
-10.243.23.3 4.sterni.r
 42:0:3c46:9f6d:2a87:ed17:fdb5:e504 sterni.r
 42:0:3c46:9f6d:2a87:ed17:fdb5:e504 6.sterni.r
 10.243.227.163 studio.r
@@ -606,14 +596,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.77.1 4.wolf.r 4.build.wolf.r 4.cgit.wolf.r 4.lounge.mpd.wolf.r
 42:0:ca48:b76a:f76b:61b9:62db:75b wolf.r build.wolf.r cgit.wolf.r lounge.mpd.wolf.r
 42:0:ca48:b76a:f76b:61b9:62db:75b 6.wolf.r 6.build.wolf.r 6.cgit.wolf.r 6.lounge.mpd.wolf.r
-10.243.23.5 workhorse.r
-10.243.23.5 4.workhorse.r
-42:0:3c46:cebc:c85b:3259:97fa:757a workhorse.r
-42:0:3c46:cebc:c85b:3259:97fa:757a 6.workhorse.r
-10.243.23.4 workout.r
-10.243.23.4 4.workout.r
-42:0:3c46:3736:b10c:94bd:8ae3:8a2a workout.r
-42:0:3c46:3736:b10c:94bd:8ae3:8a2a 6.workout.r
 10.243.13.37 wu.r cgit.wu.r
 10.243.13.37 4.wu.r 4.cgit.wu.r
 42:0:a46e:b17d:cf4e:39ae:462a:f95 wu.r cgit.wu.r
