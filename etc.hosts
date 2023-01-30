@@ -428,6 +428,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.0.101 4.onebutton.r
 42:0:ca48:bfa7:deac:9452:799:37a onebutton.r
 42:0:ca48:bfa7:deac:9452:799:37a 6.onebutton.r
+10.243.0.15 orange.r
+10.243.0.15 4.orange.r
+42:0:ce16::12a orange.r
+42:0:ce16::12a 6.orange.r
 10.243.10.243 papawhakaaro.r
 10.243.10.243 4.papawhakaaro.r
 42:0:3c46:488f:d2ae:e265:bd57:dcbe papawhakaaro.r
@@ -678,6 +682,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:1:a46e:c68b:4db0:3a27:7cfb:9ef4 6.ni.w
 42:1:a46e:7b8c:531e:67a5:9846:756e nomic.w
 42:1:a46e:7b8c:531e:67a5:9846:756e 6.nomic.w
+42:1:ce16::12a orange.w
+42:1:ce16::12a 6.orange.w
 10.244.1.13 phone.w
 10.244.1.13 4.phone.w
 42:1:ce16::a phone.w
