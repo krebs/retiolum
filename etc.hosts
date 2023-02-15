@@ -90,10 +90,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 131.159.102.8 4.ryan.i
 2a09:80c0:102::8 ryan.i
 2a09:80c0:102::8 6.ryan.i
-129.215.165.75 sauron.i
-129.215.165.75 4.sauron.i
-2001:630:3c1:164:d65d:64ff:feb0:e8a8 sauron.i
-2001:630:3c1:164:d65d:64ff:feb0:e8a8 6.sauron.i
 131.159.102.15 wilfred.i
 131.159.102.15 4.wilfred.i
 2a09:80c0:102::15 wilfred.i
@@ -246,10 +242,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:3c46:2c8b:a564:1213:9fb4:1bc4 6.ful.r
 42:0:3c46:ab64:fa7c:171a:c94a:ac19 graham.r
 42:0:3c46:ab64:fa7c:171a:c94a:ac19 6.graham.r
-10.243.29.187 grandalf.r
-10.243.29.187 4.grandalf.r
-42:0:3c46:f1e0:58b7:26a4:6328:d5c2 grandalf.r
-42:0:3c46:f1e0:58b7:26a4:6328:d5c2 6.grandalf.r
 10.243.0.66 green.r
 10.243.0.66 4.green.r
 42:0:ce16::12ee green.r
@@ -258,10 +250,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.0.213 4.gum.r 4.blog.gum.r 4.blog.makefu.r 4.cache.gum.r 4.cgit.gum.r 4.dcpp.gum.r 4.dcpp.nextgum.r 4.graph.makefu.r 4.logs.makefu.r 4.netdata.makefu.r 4.nextgum.r 4.o.gum.r 4.search.makefu.r 4.stats.makefu.r 4.torrent.gum.r 4.tracker.makefu.r 4.wiki.gum.r 4.wiki.makefu.r 4.warrior.gum.r 4.rss.makefu.r 4.sick.makefu.r 4.dl.gum.r 4.dl.makefu.r
 42:0:e644:238d:3e46:c884:6ec5:16c gum.r blog.gum.r blog.makefu.r cache.gum.r cgit.gum.r dcpp.gum.r dcpp.nextgum.r graph.makefu.r logs.makefu.r netdata.makefu.r nextgum.r o.gum.r search.makefu.r stats.makefu.r torrent.gum.r tracker.makefu.r wiki.gum.r wiki.makefu.r warrior.gum.r rss.makefu.r sick.makefu.r dl.gum.r dl.makefu.r
 42:0:e644:238d:3e46:c884:6ec5:16c 6.gum.r 6.blog.gum.r 6.blog.makefu.r 6.cache.gum.r 6.cgit.gum.r 6.dcpp.gum.r 6.dcpp.nextgum.r 6.graph.makefu.r 6.logs.makefu.r 6.netdata.makefu.r 6.nextgum.r 6.o.gum.r 6.search.makefu.r 6.stats.makefu.r 6.torrent.gum.r 6.tracker.makefu.r 6.wiki.gum.r 6.wiki.makefu.r 6.warrior.gum.r 6.rss.makefu.r 6.sick.makefu.r 6.dl.gum.r 6.dl.makefu.r
-10.243.29.184 harsha.r
-10.243.29.184 4.harsha.r
-42:0:3c46:5d34:82f:51ab:a472:2923 harsha.r
-42:0:3c46:5d34:82f:51ab:a472:2923 6.harsha.r
 10.243.226.216 hasegateway.r
 10.243.226.216 4.hasegateway.r
 42:0:e644:9099:4f8:b9aa:3856:4e86 hasegateway.r
@@ -270,8 +258,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.10.1 4.helsinki.r
 42:0:3c46:fd4a:acf9:e971:6036:8047 helsinki.r
 42:0:3c46:fd4a:acf9:e971:6036:8047 6.helsinki.r
-42:0:3c46:4478:f65c:bc63:91f5:a283 herbert.r
-42:0:3c46:4478:f65c:bc63:91f5:a283 6.herbert.r
 10.243.20.123 hilum.r
 10.243.20.123 4.hilum.r
 42:0:ce16::5b hilum.r
@@ -474,10 +460,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.27.32 4.reagenzglas.r
 42:0:8809:48df:e952:9e30:78ff:ebc7 reagenzglas.r
 42:0:8809:48df:e952:9e30:78ff:ebc7 6.reagenzglas.r
-10.243.29.188 redha.r
-10.243.29.188 4.redha.r
-42:0:3c46:2731:f350:856a:4cad:63c3 redha.r
-42:0:3c46:2731:f350:856a:4cad:63c3 6.redha.r
 42:0:3c46:f7cf:5f5a:8ed8:f139:be6d river.r
 42:0:3c46:f7cf:5f5a:8ed8:f139:be6d 6.river.r
 42:0:3c46:e1a5:350a:770c:ec9:f353 rock.r
@@ -506,10 +488,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:3c46:bb6d:b913:8194:ffe9:e7c8 6.ruby.r
 42:0:3c46:53a7:e0e3:a2b6:471d:44a ryan.r
 42:0:3c46:53a7:e0e3:a2b6:471d:44a 6.ryan.r
-10.243.29.194 sauron.r
-10.243.29.194 4.sauron.r
-42:0:3c46:7f53:34b:ca31:16c2:da58 sauron.r
-42:0:3c46:7f53:34b:ca31:16c2:da58 6.sauron.r
 10.243.83.237 sdev.r
 10.243.83.237 4.sdev.r
 42:0:e644:24ad:995f:5926:71d5:b26e sdev.r
