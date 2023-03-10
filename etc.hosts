@@ -2,6 +2,10 @@
 131.159.102.13 4.adelaide.i
 2a09:80c0:102::13 adelaide.i
 2a09:80c0:102::13 6.adelaide.i
+131.159.102.20 amy.i
+131.159.102.20 4.amy.i
+2a09:80c0:102::20 amy.i
+2a09:80c0:102::20 6.amy.i
 131.159.102.11 astrid.i
 131.159.102.11 4.astrid.i
 2a09:80c0:102::11 astrid.i
@@ -14,6 +18,10 @@
 131.159.102.14 4.christina.i
 2a09:80c0:102::14 christina.i
 2a09:80c0:102::14 6.christina.i
+131.159.102.22 clara.i
+131.159.102.22 4.clara.i
+2a09:80c0:102::22 clara.i
+2a09:80c0:102::22 6.clara.i
 131.159.102.12 dan.i
 131.159.102.12 4.dan.i
 2a09:80c0:102::12 dan.i
@@ -56,10 +64,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 178.254.30.202 4.latte.i
 2a00:6800:3:18c::2 latte.i
 2a00:6800:3:18c::2 6.latte.i
-129.215.165.53 martha.i
-129.215.165.53 4.martha.i
-2001:630:3c1:164:6d4:c4ff:fe04:4aba martha.i
-2001:630:3c1:164:6d4:c4ff:fe04:4aba 6.martha.i
 131.159.102.10 mickey.i
 131.159.102.10 4.mickey.i
 2a09:80c0:102::10 mickey.i
@@ -86,6 +90,14 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 131.159.102.16 4.river.i
 2a09:80c0:102::16 river.i
 2a09:80c0:102::16 6.river.i
+131.159.102.21 rose.i
+131.159.102.21 4.rose.i
+2a09:80c0:102::21 rose.i
+2a09:80c0:102::21 6.rose.i
+131.159.38.101 ruby.i
+131.159.38.101 4.ruby.i
+2a09:80c0:38::101 ruby.i
+2a09:80c0:38::101 6.ruby.i
 131.159.102.8 ryan.i
 131.159.102.8 4.ryan.i
 2a09:80c0:102::8 ryan.i
@@ -124,6 +136,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.21.1 4.alnus.r
 42:0:a46e:99a9:9166:ae88:208:9645 alnus.r
 42:0:a46e:99a9:9166:ae88:208:9645 6.alnus.r
+42:0:3c46:1551:1906:bc7c:801f:3c4 amy.r
+42:0:3c46:1551:1906:bc7c:801f:3c4 6.amy.r
 10.243.32.1 ancha.oxzi.r gosh.r
 10.243.32.1 4.ancha.oxzi.r 4.gosh.r
 42:0:ac37:4fec:2d96:374a:5389:fc24 ancha.oxzi.r gosh.r
@@ -170,6 +184,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:3c46:872f:60bd:5179:38b3:cba9 6.catalonia.r
 42:0:3c46:9a2d:93c6:b09e:fc2:92a9 christina.r
 42:0:3c46:9a2d:93c6:b09e:fc2:92a9 6.christina.r
+42:0:3c46:e4e9:7814:459b:3f23:f455 clara.r
+42:0:3c46:e4e9:7814:459b:3f23:f455 6.clara.r
 10.243.0.17 coaxmetal.r
 10.243.0.17 4.coaxmetal.r
 42:0:ce16::17 coaxmetal.r
@@ -188,6 +204,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:ce16::daed 6.daedalus.r
 42:0:3c46:550c:ec4f:2dbb:3b14:95 dan.r
 42:0:3c46:550c:ec4f:2dbb:3b14:95 6.dan.r
+10.243.0.6 dave.r
+10.243.0.6 4.dave.r
+42:0:61ea:b777:61ea:803:f885:3523 dave.r
+42:0:61ea:b777:61ea:803:f885:3523 6.dave.r
 10.243.29.192 dimitra.r
 10.243.29.192 4.dimitra.r
 42:0:3c46:ab7f:21e3:cb1d:d9e0:782d dimitra.r
@@ -334,10 +354,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.32.2 4.marohu.oxzi.r
 42:0:ac37:e5d5:7e26:bdee:77ea:b44f marohu.oxzi.r
 42:0:ac37:e5d5:7e26:bdee:77ea:b44f 6.marohu.oxzi.r
-10.243.29.179 martha.r
-10.243.29.179 4.martha.r
-42:0:3c46:5466:7dbe:f27a:673f:ea64 martha.r
-42:0:3c46:5466:7dbe:f27a:673f:ea64 6.martha.r
 10.243.0.113 massulus.r
 10.243.0.113 4.massulus.r
 42:0:ce16::113 massulus.r
@@ -468,6 +484,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.23.42 4.rojava.r
 42:0:3c46:f99d:fde8:a301:1b09:caf4 rojava.r
 42:0:3c46:f99d:fde8:a301:1b09:caf4 6.rojava.r
+42:0:3c46:a5a1:618d:663a:f0f1:ec88 rose.r
+42:0:3c46:a5a1:618d:663a:f0f1:ec88 6.rose.r
 10.243.122.122 rtjure.r
 10.243.122.122 4.rtjure.r
 42:0:3c46:e3ce:cacc:bd95:dc9f:bc85 rtjure.r

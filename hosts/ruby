@@ -1,3 +1,5 @@
+Address = 131.159.38.101 655
+Address = 2a09:80c0:38::101 655
 Subnet = 42:0:3c46:bb6d:b913:8194:ffe9:e7c8
 
 -----BEGIN RSA PUBLIC KEY-----
@@ -15,5 +17,3 @@ w+1ZSdYZsvIQ7tDcilnL0hU5/nfsSIbHV+ceuLde1xDt5c7Tnl4v/U0CAwEAAQ==
 -----END RSA PUBLIC KEY-----
 
 Ed25519PublicKey = TV9byzSblknvqdUjQCwjgLmA8qCB4Tnl/DSd2mbsZTJ
-
-Weight = 300
