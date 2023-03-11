@@ -5,7 +5,7 @@ let
     lassulus = "https://cgit.lassul.us/stockholm"; # prism.r
     mic92 = "https://git.thalheim.io/Mic92/stockholm";
     makefu = "https://cgit.euer.krebsco.de/stockholm"; # gum.r
-    kmein = "https://github.com/kmein/stockholm";
+    # kmein = "https://github.com/kmein/stockholm";
   };
 in
 pkgs.mkShell {
