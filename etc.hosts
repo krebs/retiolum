@@ -166,6 +166,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.27.31 4.bolide.r
 42:0:8809:c21a:c777:b352:f0d8:47d3 bolide.r
 42:0:8809:c21a:c777:b352:f0d8:47d3 6.bolide.r
+10.243.42.67 branchiopoda.crustacea.r
+10.243.42.67 4.branchiopoda.crustacea.r
+42:0:4a6f::4267 branchiopoda.crustacea.r
+42:0:4a6f::4267 6.branchiopoda.crustacea.r
 10.243.27.29 brauerei.r
 10.243.27.29 4.brauerei.r
 42:0:8809:da7f:7b20:6a54:c412:808f brauerei.r
@@ -190,6 +194,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.0.17 4.coaxmetal.r
 42:0:ce16::17 coaxmetal.r
 42:0:ce16::17 6.coaxmetal.r
+10.243.42.68 copepoda.crustacea.r
+10.243.42.68 4.copepoda.crustacea.r
+42:0:4a6f::4268 copepoda.crustacea.r
+42:0:4a6f::4268 6.copepoda.crustacea.r
 10.243.136.237 crapi.r
 10.243.136.237 4.crapi.r
 42:0:e644:b386:6e2a:c94f:34d6:b0ca crapi.r
@@ -346,6 +354,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.2.84 4.makanek.r 4.makanek.kmein.r 4.grafana.kmein.r 4.alertmanager.kmein.r 4.prometheus.kmein.r 4.names.kmein.r 4.graph.r 4.rrm.r 4.redaktion.r
 42:0:3c46:f7a9:1f0a:1b2b:822a:6050 makanek.r makanek.kmein.r grafana.kmein.r alertmanager.kmein.r prometheus.kmein.r names.kmein.r graph.r rrm.r redaktion.r
 42:0:3c46:f7a9:1f0a:1b2b:822a:6050 6.makanek.r 6.makanek.kmein.r 6.grafana.kmein.r 6.alertmanager.kmein.r 6.prometheus.kmein.r 6.names.kmein.r 6.graph.r 6.rrm.r 6.redaktion.r
+10.243.42.69 malacostraca.crustacea.r
+10.243.42.69 4.malacostraca.crustacea.r
+42:0:4a6f::4269 malacostraca.crustacea.r
+42:0:4a6f::4269 6.malacostraca.crustacea.r
 10.243.2.85 manakish.r manakish.kmein.r
 10.243.2.85 4.manakish.r 4.manakish.kmein.r
 42:0:3c46:ac99:ae36:cb8:c551:ba27 manakish.r manakish.kmein.r
@@ -376,6 +388,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.20.1 4.mu.r
 42:0:a46e:3cd3:1950:3ea6:785e:e124 mu.r
 42:0:a46e:3cd3:1950:3ea6:785e:e124 6.mu.r
+10.243.42.64 mystacocarida.crustacea.r
+10.243.42.64 4.mystacocarida.crustacea.r
+42:0:4a6f::4264 mystacocarida.crustacea.r
+42:0:4a6f::4264 6.mystacocarida.crustacea.r
 42:0:3c46:362d:a9aa:4996:c78e:839a nardole.r
 42:0:3c46:362d:a9aa:4996:c78e:839a 6.nardole.r
 10.243.0.99 neoprism.r
@@ -552,6 +568,14 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.2.74 4.tahina.r 4.tahina.kmein.r
 42:0:3c46:2923:1c90:872:edd6:306 tahina.r tahina.kmein.r
 42:0:3c46:2923:1c90:872:edd6:306 6.tahina.r 6.tahina.kmein.r
+10.243.42.65 tantulocarida.crustacea.r
+10.243.42.65 4.tantulocarida.crustacea.r
+42:0:4a6f::4265 tantulocarida.crustacea.r
+42:0:4a6f::4265 6.tantulocarida.crustacea.r
+10.243.42.66 thecostraca.crustacea.r
+10.243.42.66 4.thecostraca.crustacea.r
+42:0:4a6f::4266 thecostraca.crustacea.r
+42:0:4a6f::4266 6.thecostraca.crustacea.r
 10.243.117.12 toastbrot.r
 10.243.117.12 4.toastbrot.r
 42:0:3c46:d517:31c3:3ef8:31e7:c0b8 toastbrot.r
