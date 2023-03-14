@@ -446,10 +446,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.0.101 4.onebutton.r
 42:0:ca48:bfa7:deac:9452:799:37a onebutton.r
 42:0:ca48:bfa7:deac:9452:799:37a 6.onebutton.r
-10.243.0.15 orange.r
-10.243.0.15 4.orange.r
-42:0:ce16::12a orange.r
-42:0:ce16::12a 6.orange.r
+10.243.0.15 orange.r cgit.orange.r
+10.243.0.15 4.orange.r 4.cgit.orange.r
+42:0:ce16::12a orange.r cgit.orange.r
+42:0:ce16::12a 6.orange.r 6.cgit.orange.r
 10.243.10.243 papawhakaaro.r
 10.243.10.243 4.papawhakaaro.r
 42:0:3c46:488f:d2ae:e265:bd57:dcbe papawhakaaro.r
