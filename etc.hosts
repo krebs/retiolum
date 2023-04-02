@@ -128,10 +128,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.100.100 4.ahorn.r
 42:0:3c46:519d:1696:f464:9756:8727 ahorn.r
 42:0:3c46:519d:1696:f464:9756:8727 6.ahorn.r
-10.243.12.34 aland.r
-10.243.12.34 4.aland.r
-42:0:3c46:2868:6ad:5cdf:209a:943e aland.r
-42:0:3c46:2868:6ad:5cdf:209a:943e 6.aland.r
 10.243.21.1 alnus.r
 10.243.21.1 4.alnus.r
 42:0:a46e:99a9:9166:ae88:208:9645 alnus.r
@@ -182,10 +178,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.136.236 4.cake.r
 42:0:e644:ab0:32cd:b619:1962:5 cake.r
 42:0:e644:ab0:32cd:b619:1962:5 6.cake.r
-10.243.13.12 catalonia.r
-10.243.13.12 4.catalonia.r
-42:0:3c46:872f:60bd:5179:38b3:cba9 catalonia.r
-42:0:3c46:872f:60bd:5179:38b3:cba9 6.catalonia.r
+10.243.13.12 catalonia.xkey.r
+10.243.13.12 4.catalonia.xkey.r
+42:0:3c46:872f:60bd:5179:38b3:cba9 catalonia.xkey.r
+42:0:3c46:872f:60bd:5179:38b3:cba9 6.catalonia.xkey.r
 42:0:3c46:9a2d:93c6:b09e:fc2:92a9 christina.r
 42:0:3c46:9a2d:93c6:b09e:fc2:92a9 6.christina.r
 42:0:3c46:e4e9:7814:459b:3f23:f455 clara.r
@@ -496,10 +492,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:3c46:f7cf:5f5a:8ed8:f139:be6d 6.river.r
 42:0:3c46:e1a5:350a:770c:ec9:f353 rock.r
 42:0:3c46:e1a5:350a:770c:ec9:f353 6.rock.r
-10.243.23.42 rojava.r
-10.243.23.42 4.rojava.r
-42:0:3c46:f99d:fde8:a301:1b09:caf4 rojava.r
-42:0:3c46:f99d:fde8:a301:1b09:caf4 6.rojava.r
+10.243.23.42 rojava.xkey.r
+10.243.23.42 4.rojava.xkey.r
+42:0:3c46:f99d:fde8:a301:1b09:caf4 rojava.xkey.r
+42:0:3c46:f99d:fde8:a301:1b09:caf4 6.rojava.xkey.r
 42:0:3c46:a5a1:618d:663a:f0f1:ec88 rose.r
 42:0:3c46:a5a1:618d:663a:f0f1:ec88 6.rose.r
 10.243.122.122 rtjure.r
@@ -534,10 +530,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.0.4 4.shodan.r
 42:0:ce16::50da shodan.r
 42:0:ce16::50da 6.shodan.r
-10.243.161.1 sicily.r mukke.r
-10.243.161.1 4.sicily.r 4.mukke.r
-42:0:3c46:88db:5123:1258:528f:bd9e sicily.r mukke.r
-42:0:3c46:88db:5123:1258:528f:bd9e 6.sicily.r 6.mukke.r
+10.243.161.1 sicily.xkey.r mukke.r
+10.243.161.1 4.sicily.xkey.r 4.mukke.r
+42:0:3c46:88db:5123:1258:528f:bd9e sicily.xkey.r mukke.r
+42:0:3c46:88db:5123:1258:528f:bd9e 6.sicily.xkey.r 6.mukke.r
 10.243.133.116 skynet.r
 10.243.133.116 4.skynet.r
 42:0:ce16::5ce7 skynet.r
@@ -660,12 +656,18 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:1:3c46:eac1:fdee:430d:40bd:57de 6.ada.w
 42:1:ce16::ae12 aergia.w
 42:1:ce16::ae12 6.aergia.w
+10.244.12.34 aland.xkey.w
+10.244.12.34 4.aland.xkey.w
+42:1:3c46:2868:6ad:5cdf:209a:943e aland.xkey.w
+42:1:3c46:2868:6ad:5cdf:209a:943e 6.aland.xkey.w
 42:1:a46e:99a9:9166:ae88:208:9645 alnus.w
 42:1:a46e:99a9:9166:ae88:208:9645 6.alnus.w
 42:1:ce16::b1ce blue.w
 42:1:ce16::b1ce 6.blue.w
 42:1:ce16::17 coaxmetal.w
 42:1:ce16::17 6.coaxmetal.w
+42:1:3c46:ac45:3f4c:e530:ef19:16b cybercube.xkey.w
+42:1:3c46:ac45:3f4c:e530:ef19:16b 6.cybercube.xkey.w
 42:1:ce16::daed daedalus.w
 42:1:ce16::daed 6.daedalus.w
 10.244.1.17 domsen-pixel.w

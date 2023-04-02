@@ -11,6 +11,13 @@
     ],
     "publicKey": "h2GFkqW1ThHpDiALrLkJEsR5NU1lXHvwk0Kers1vIxg="
   },
+  "aland": {
+    "allowedIPs": [
+      "10.244.12.34",
+      "42:1:3c46:2868:6ad:5cdf:209a:943e"
+    ],
+    "publicKey": "m2IymGYQiRma2cyZbwRsOw1rCpB5ZdFkfYII1hnHzGE="
+  },
   "alnus": {
     "allowedIPs": [
       "42:1:a46e:99a9:9166:ae88:208:9645"
@@ -28,6 +35,12 @@
       "42:1:ce16::17"
     ],
     "publicKey": "lkjR14oOVKl03/0sUzOmddf28ps+v5qRxrbRY03Pg38="
+  },
+  "cybercube": {
+    "allowedIPs": [
+      "42:1:3c46:ac45:3f4c:e530:ef19:16b"
+    ],
+    "publicKey": "ZPOCyThKQUlR/gPFWoJ4XICHYFMNtI70XH+y5v2f6VQ="
   },
   "daedalus": {
     "allowedIPs": [
