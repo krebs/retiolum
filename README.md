@@ -48,7 +48,7 @@ Prepare a pull-request:
 
 ```
 git add kartei/$USER
-git commit -m 'kartei: init $MYHOST'
+git commit -m 'kartei/$USER: init $MYHOST'
 git format-patch origin/master..
 ```
 
