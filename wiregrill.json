@@ -195,6 +195,7 @@
   },
   "rtgraphene": {
     "allowedIPs": [
+      "10.244.20.20",
       "42:1:3c46:bb9d:87b8:4272:ab04:a670"
     ],
     "publicKey": "IZ7tnD5ZVqO886hFzk6k92R70p1J6jYvyIEAWUccehU="
