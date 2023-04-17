@@ -32,6 +32,10 @@
 131.159.102.4 4.doctor.i
 2a09:80c0:102::4 doctor.i
 2a09:80c0:102::4 6.doctor.i
+131.159.38.222 donna.i
+131.159.38.222 4.donna.i
+2a09:80c0:38::222 donna.i
+2a09:80c0:38::222 6.donna.i
 88.198.164.182 enklave.i
 88.198.164.182 4.enklave.i
 89.58.27.144 eva.i
@@ -228,6 +232,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:ce16::d15f:1233 6.dishfire.r 6.grafana.lass.r 6.prometheus.lass.r 6.alert.lass.r
 42:0:3c46:96e2:72f4:be89:d6eb:ab14 doctor.r
 42:0:3c46:96e2:72f4:be89:d6eb:ab14 6.doctor.r
+42:0:3c46:7f2f:ed62:c6fd:9f1b:9900 donna.r
+42:0:3c46:7f2f:ed62:c6fd:9f1b:9900 6.donna.r
 10.243.0.3 echelon.r
 10.243.0.3 4.echelon.r
 42:0:ce16::4 echelon.r
