@@ -312,10 +312,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.133.114 4.icarus.r
 42:0:ce16::1205 icarus.r
 42:0:ce16::1205 6.icarus.r
-10.243.10.244 iti.r
-10.243.10.244 4.iti.r
-42:0:3c46:bd54:30b:b799:a9a7:68c8 iti.r
-42:0:3c46:bd54:30b:b799:a9a7:68c8 6.iti.r
+10.243.10.244 iti.r ltd.feliks.r
+10.243.10.244 4.iti.r 4.ltd.feliks.r
+42:0:3c46:bd54:30b:b799:a9a7:68c8 iti.r ltd.feliks.r
+42:0:3c46:bd54:30b:b799:a9a7:68c8 6.iti.r 6.ltd.feliks.r
 42:0:3c46:43ea:3161:1159:e7e6:ff78 jack.r stable-confusion.r llama.r
 42:0:3c46:43ea:3161:1159:e7e6:ff78 6.jack.r 6.stable-confusion.r 6.llama.r
 42:0:3c46:d295:dc35:5ec7:5a2d:c4a1 jackson.r
@@ -382,6 +382,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:3c46:8c2d:cc63:72e:d4eb:334d 6.mauricehome.r
 42:0:3c46:a85d:33c6:14ca:3cf7:8827 mickey.r
 42:0:3c46:a85d:33c6:14ca:3cf7:8827 6.mickey.r
+42:0:eac6:5e21:e83c:94e5:7917:6dd2 mokemoke.ynnel.r
+42:0:eac6:5e21:e83c:94e5:7917:6dd2 6.mokemoke.ynnel.r
 10.243.0.2 mors.r
 10.243.0.2 4.mors.r
 42:0:ce16::dea7 mors.r
@@ -452,10 +454,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.0.15 4.orange.r 4.cgit.orange.r
 42:0:ce16::12a orange.r cgit.orange.r
 42:0:ce16::12a 6.orange.r 6.cgit.orange.r
-10.243.10.243 papawhakaaro.r
-10.243.10.243 4.papawhakaaro.r
-42:0:3c46:488f:d2ae:e265:bd57:dcbe papawhakaaro.r
-42:0:3c46:488f:d2ae:e265:bd57:dcbe 6.papawhakaaro.r
+10.243.10.243 papawhakaaro.r tp.feliks.r
+10.243.10.243 4.papawhakaaro.r 4.tp.feliks.r
+42:0:3c46:488f:d2ae:e265:bd57:dcbe papawhakaaro.r tp.feliks.r
+42:0:3c46:488f:d2ae:e265:bd57:dcbe 6.papawhakaaro.r 6.tp.feliks.r
 10.243.143.11 petrosilia.r
 10.243.143.11 4.petrosilia.r
 42:0:3c46:2dfc:6991:79ff:a57a:9984 petrosilia.r
@@ -590,10 +592,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.0.212 4.tsp.r
 42:0:e644:2215:73ba:f838:855e:945b tsp.r
 42:0:e644:2215:73ba:f838:855e:945b 6.tsp.r
-10.243.10.245 tumaukainga.r
-10.243.10.245 4.tumaukainga.r
-42:0:3c46:96b6:80fb:7c5f:a5de:6e37 tumaukainga.r
-42:0:3c46:96b6:80fb:7c5f:a5de:6e37 6.tumaukainga.r
+10.243.10.245 tumaukainga.r hs.feliks.r
+10.243.10.245 4.tumaukainga.r 4.hs.feliks.r
+42:0:3c46:96b6:80fb:7c5f:a5de:6e37 tumaukainga.r hs.feliks.r
+42:0:3c46:96b6:80fb:7c5f:a5de:6e37 6.tumaukainga.r 6.hs.feliks.r
 42:0:3c46:47e8:f610:15d1:27a3:674b turingmachine.r
 42:0:3c46:47e8:f610:15d1:27a3:674b 6.turingmachine.r
 10.243.0.12 ubik.r
@@ -662,6 +664,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:1:3c46:eac1:fdee:430d:40bd:57de 6.ada.w
 42:1:ce16::ae12 aergia.w
 42:1:ce16::ae12 6.aergia.w
+42:1:3c46:27cf:7b23:3a04:143a:d223 ahuatangata ndrd.feliks.r
+42:1:3c46:27cf:7b23:3a04:143a:d223 6.ahuatangata 6.ndrd.feliks.r
 10.244.12.34 aland.xkey.w
 10.244.12.34 4.aland.xkey.w
 42:1:3c46:2868:6ad:5cdf:209a:943e aland.xkey.w

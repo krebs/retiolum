@@ -11,6 +11,12 @@
     ],
     "publicKey": "h2GFkqW1ThHpDiALrLkJEsR5NU1lXHvwk0Kers1vIxg="
   },
+  "ahuatangata": {
+    "allowedIPs": [
+      "42:1:3c46:27cf:7b23:3a04:143a:d223"
+    ],
+    "publicKey": "IZ7tnD5ZVqO886hFzk6k92R70p1J6jYvyIEAWUccehU="
+  },
   "aland": {
     "allowedIPs": [
       "10.244.12.34",
