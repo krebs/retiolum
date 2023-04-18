@@ -13,6 +13,7 @@
   },
   "ahuatangata": {
     "allowedIPs": [
+      "10.243.10.246",
       "42:1:3c46:27cf:7b23:3a04:143a:d223"
     ],
     "publicKey": "IZ7tnD5ZVqO886hFzk6k92R70p1J6jYvyIEAWUccehU="
