@@ -80,10 +80,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 95.217.192.59 4.neoprism.i
 2a01:4f9:4a:4f1a::1 neoprism.i
 2a01:4f9:4a:4f1a::1 6.neoprism.i
-188.68.36.196 ni.i cgit.ni.i
-188.68.36.196 4.ni.i 4.cgit.ni.i
-2a03:4000:13:4c::1 ni.i cgit.ni.i
-2a03:4000:13:4c::1 6.ni.i 6.cgit.ni.i
+185.162.251.237 ni.i cgit.ni.i
+185.162.251.237 4.ni.i 4.cgit.ni.i
+2a03:4000:1a:cf::1 ni.i cgit.ni.i
+2a03:4000:1a:cf::1 6.ni.i 6.cgit.ni.i
 141.147.36.79 ponte.i
 141.147.36.79 4.ponte.i
 95.216.1.150 prism.i paste.i
