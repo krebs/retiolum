@@ -172,6 +172,12 @@
     ],
     "publicKey": "FY4PB8E/RC2JvtLgq/IDyMmZ9Ln6pz6eGyoytmUFMgk="
   },
+  "pi": {
+    "allowedIPs": [
+      "10.244.3.102"
+    ],
+    "publicKey": "HlKTr86mTywYtRIQNhxs8jeSw5hwVTeKFiSUYglc4T8="
+  },
   "prism": {
     "allowedIPs": [
       "10.244.1.103",
