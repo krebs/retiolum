@@ -174,7 +174,8 @@
   },
   "pi": {
     "allowedIPs": [
-      "10.244.3.102"
+      "10.244.3.102",
+      "42:1:a46e:1eb7:85b4:2e17:287:7c85"
     ],
     "publicKey": "HlKTr86mTywYtRIQNhxs8jeSw5hwVTeKFiSUYglc4T8="
   },
