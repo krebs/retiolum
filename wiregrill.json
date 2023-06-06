@@ -159,6 +159,13 @@
     ],
     "publicKey": "UgvgarDtuSvbciNx5SU2NDbctb9/OTQ9Kr8H/O3931A="
   },
+  "omo": {
+    "allowedIPs": [
+      "10.244.245.5",
+      "42:1:e644:920e:23f6:353a:c09:5a66"
+    ],
+    "publicKey": "JmcpzkwgKymVecZqaV0ODQactoVwGGlEHcfYIOCkx3A="
+  },
   "orange": {
     "allowedIPs": [
       "42:1:ce16::12a"
@@ -281,6 +288,7 @@
   },
   "x": {
     "allowedIPs": [
+      "10.243.245.6",
       "42:1:e644:162:2d71:1642:b726:b044"
     ],
     "publicKey": "fe5smvKVy5GAn7EV4w4tav6mqIAKhGWQotm7dRuRt1g="

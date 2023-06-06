@@ -280,6 +280,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.0.66 4.green.r
 42:0:ce16::12ee green.r
 42:0:ce16::12ee 6.green.r
+10.243.217.217 grill.r
+10.243.217.217 4.grill.r
+42:0:6a0a:c4b1:2d6c:1f3f:a3c6:9d96 grill.r
+42:0:6a0a:c4b1:2d6c:1f3f:a3c6:9d96 6.grill.r
 10.243.0.213 gum.r blog.gum.r blog.makefu.r cache.gum.r cgit.gum.r dcpp.gum.r dcpp.nextgum.r graph.makefu.r logs.makefu.r netdata.makefu.r nextgum.r o.gum.r search.makefu.r stats.makefu.r torrent.gum.r tracker.makefu.r wiki.gum.r wiki.makefu.r warrior.gum.r rss.makefu.r sick.makefu.r dl.gum.r dl.makefu.r
 10.243.0.213 4.gum.r 4.blog.gum.r 4.blog.makefu.r 4.cache.gum.r 4.cgit.gum.r 4.dcpp.gum.r 4.dcpp.nextgum.r 4.graph.makefu.r 4.logs.makefu.r 4.netdata.makefu.r 4.nextgum.r 4.o.gum.r 4.search.makefu.r 4.stats.makefu.r 4.torrent.gum.r 4.tracker.makefu.r 4.wiki.gum.r 4.wiki.makefu.r 4.warrior.gum.r 4.rss.makefu.r 4.sick.makefu.r 4.dl.gum.r 4.dl.makefu.r
 42:0:e644:238d:3e46:c884:6ec5:16c gum.r blog.gum.r blog.makefu.r cache.gum.r cgit.gum.r dcpp.gum.r dcpp.nextgum.r graph.makefu.r logs.makefu.r netdata.makefu.r nextgum.r o.gum.r search.makefu.r stats.makefu.r torrent.gum.r tracker.makefu.r wiki.gum.r wiki.makefu.r warrior.gum.r rss.makefu.r sick.makefu.r dl.gum.r dl.makefu.r
@@ -464,8 +468,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:3c46:488f:d2ae:e265:bd57:dcbe 6.papawhakaaro.r 6.tp.feliks.r
 10.243.143.11 petrosilia.r
 10.243.143.11 4.petrosilia.r
-42:0:3c46:2dfc:6991:79ff:a57a:9984 petrosilia.r
-42:0:3c46:2dfc:6991:79ff:a57a:9984 6.petrosilia.r
 10.243.4.43 ponte.r
 10.243.4.43 4.ponte.r
 42::443 ponte.r
@@ -474,10 +476,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.100.101 4.porree.r
 42:0:3c46:b51c:b34d:b7e1:3b02:8d24 porree.r
 42:0:3c46:b51c:b34d:b7e1:3b02:8d24 6.porree.r
-10.243.0.103 prism.r cache.prism.r cgit.prism.r bota.r flix.r paste.r c.r p.r search.r
-10.243.0.103 4.prism.r 4.cache.prism.r 4.cgit.prism.r 4.bota.r 4.flix.r 4.paste.r 4.c.r 4.p.r 4.search.r
-42:0:ce16::1 prism.r cache.prism.r cgit.prism.r bota.r flix.r paste.r c.r p.r search.r
-42:0:ce16::1 6.prism.r 6.cache.prism.r 6.cgit.prism.r 6.bota.r 6.flix.r 6.paste.r 6.c.r 6.p.r 6.search.r
+10.243.0.103 prism.r cache.prism.r cgit.prism.r bota.r flix.r paste.r c.r p.r search.r wallpaper.r
+10.243.0.103 4.prism.r 4.cache.prism.r 4.cgit.prism.r 4.bota.r 4.flix.r 4.paste.r 4.c.r 4.p.r 4.search.r 4.wallpaper.r
+42:0:ce16::1 prism.r cache.prism.r cgit.prism.r bota.r flix.r paste.r c.r p.r search.r wallpaper.r
+42:0:ce16::1 6.prism.r 6.cache.prism.r 6.cgit.prism.r 6.bota.r 6.flix.r 6.paste.r 6.c.r 6.p.r 6.search.r 6.wallpaper.r
 10.243.77.2 puyak.r build.puyak.r cgit.puyak.r
 10.243.77.2 4.puyak.r 4.build.puyak.r 4.cgit.puyak.r
 42:0:ca48:f98f:63d7:31ce:922b:245d puyak.r build.puyak.r cgit.puyak.r
@@ -586,8 +588,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:4a6f::4266 6.thecostraca.crustacea.r
 10.243.117.12 toastbrot.r
 10.243.117.12 4.toastbrot.r
-42:0:3c46:d517:31c3:3ef8:31e7:c0b8 toastbrot.r
-42:0:3c46:d517:31c3:3ef8:31e7:c0b8 6.toastbrot.r
 10.243.183.236 tpsw.r
 10.243.183.236 4.tpsw.r
 42:0:3c46:7eec:653c:73c1:91dc:f89e tpsw.r
@@ -726,6 +726,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:1:a46e:c68b:4db0:3a27:7cfb:9ef4 6.ni.w
 42:1:a46e:7b8c:531e:67a5:9846:756e nomic.w
 42:1:a46e:7b8c:531e:67a5:9846:756e 6.nomic.w
+10.244.245.5 omo.w hass.omo.w jelly.omo.w jelly.makefu.w
+10.244.245.5 4.omo.w 4.hass.omo.w 4.jelly.omo.w 4.jelly.makefu.w
+42:1:e644:920e:23f6:353a:c09:5a66 omo.w hass.omo.w jelly.omo.w jelly.makefu.w
+42:1:e644:920e:23f6:353a:c09:5a66 6.omo.w 6.hass.omo.w 6.jelly.omo.w 6.jelly.makefu.w
 42:1:ce16::12a orange.w
 42:1:ce16::12a 6.orange.w
 10.244.1.13 phone.w
@@ -782,6 +786,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:1:a46e:656:944f:2308:3343:1e36 6.umz.w
 42:1:a46e:b17d:cf4e:39ae:462a:f95 wu.w
 42:1:a46e:b17d:cf4e:39ae:462a:f95 6.wu.w
+10.243.245.6 x.w
+10.243.245.6 4.x.w
 42:1:e644:162:2d71:1642:b726:b044 x.w
 42:1:e644:162:2d71:1642:b726:b044 6.x.w
 42:1:ce16::3 xerxes.w
