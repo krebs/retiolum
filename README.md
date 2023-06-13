@@ -80,6 +80,12 @@ index 00000000..2acf78d3
 332.1.2
 ```
 
+Of course you can also send the patch directly.
+E.g. if you have sendmail configured:
+```
+git format-patch --to=spam@krebsco.de origin/master.. | sendmail -t
+```
+
 ## ask for the patch to get merged
 
 Join the #krebs channel on hackint.
