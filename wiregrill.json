@@ -280,12 +280,6 @@
     ],
     "publicKey": "FpghL2Drdg+xwqcOsDgePgUx3X3XsX9f56BPLuF690g="
   },
-  "wu": {
-    "allowedIPs": [
-      "42:1:a46e:b17d:cf4e:39ae:462a:f95"
-    ],
-    "publicKey": "68bL6l3/sjbirva80tm0Dw6/PJu1S95nJC58gWCh42E="
-  },
   "x": {
     "allowedIPs": [
       "10.243.245.6",
