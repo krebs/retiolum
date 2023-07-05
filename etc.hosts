@@ -402,6 +402,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.20.1 4.mu.r
 42:0:a46e:3cd3:1950:3ea6:785e:e124 mu.r
 42:0:a46e:3cd3:1950:3ea6:785e:e124 6.mu.r
+10.243.0.42 murks.r
+10.243.0.42 4.murks.r
+42:0:2c4b:29bf:c7e4:6775:339e:2a0 murks.r
+42:0:2c4b:29bf:c7e4:6775:339e:2a0 6.murks.r
 10.243.42.64 mystacocarida.crustacea.r
 10.243.42.64 4.mystacocarida.crustacea.r
 42:0:4a6f::4264 mystacocarida.crustacea.r
