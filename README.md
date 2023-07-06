@@ -132,6 +132,14 @@ ping some host on the network, for example prism.r
 ping 42:0:ce16::1
 ```
 
+## Make Firefox resolve host file entries.
+
+go to about:config and set:
+
+```
+browser.fixup.dns_first_for_single_words = true
+```
+
 ## Discover internal services
 
 See http://wiki.r for more information.
