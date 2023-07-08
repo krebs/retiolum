@@ -414,10 +414,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:4a6f::4264 6.mystacocarida.crustacea.r
 42:0:3c46:362d:a9aa:4996:c78e:839a nardole.r
 42:0:3c46:362d:a9aa:4996:c78e:839a 6.nardole.r
-10.243.0.99 neoprism.r
-10.243.0.99 4.neoprism.r
-42:0:ce16::99 neoprism.r
-42:0:ce16::99 6.neoprism.r
+10.243.0.99 neoprism.r cache.neoprism.r
+10.243.0.99 4.neoprism.r 4.cache.neoprism.r
+42:0:ce16::99 neoprism.r cache.neoprism.r
+42:0:ce16::99 6.neoprism.r 6.cache.neoprism.r
 10.243.0.5 news.r brockman.r go.r rss.r
 10.243.0.5 4.news.r 4.brockman.r 4.go.r 4.rss.r
 42:0:ca48:c2c2:19fb:a0e9:95b9:794f news.r brockman.r go.r rss.r
