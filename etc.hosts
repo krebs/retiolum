@@ -670,10 +670,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:1:3c46:eac1:fdee:430d:40bd:57de 6.ada.w
 42:1:ce16::ae12 aergia.w
 42:1:ce16::ae12 6.aergia.w
-10.244.10.246 ahuatangata ndrd.feliks.r
-10.244.10.246 4.ahuatangata 4.ndrd.feliks.r
-42:1:3c46:27cf:7b23:3a04:143a:d223 ahuatangata ndrd.feliks.r
-42:1:3c46:27cf:7b23:3a04:143a:d223 6.ahuatangata 6.ndrd.feliks.r
+10.244.10.246 ahuatangata.w ndrd.feliks.w
+10.244.10.246 4.ahuatangata.w 4.ndrd.feliks.w
+42:1:3c46:27cf:7b23:3a04:143a:d223 ahuatangata.w ndrd.feliks.w
+42:1:3c46:27cf:7b23:3a04:143a:d223 6.ahuatangata.w 6.ndrd.feliks.w
 10.244.12.34 aland.xkey.w
 10.244.12.34 4.aland.xkey.w
 42:1:3c46:2868:6ad:5cdf:209a:943e aland.xkey.w
