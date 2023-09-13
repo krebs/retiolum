@@ -62,12 +62,6 @@
     ],
     "publicKey": "cGuBSB1DftIsanbxrSG/i4FiC+TmQrs+Z0uE6SPscHY="
   },
-  "echelon": {
-    "allowedIPs": [
-      "42:1:ce16::3"
-    ],
-    "publicKey": "SLdk0lph2rSFU+3dyrWDU1CT/oU+HPcOVYeGVIgDpEc="
-  },
   "g7power": {
     "allowedIPs": [
       "10.244.2.97",

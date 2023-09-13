@@ -236,10 +236,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:3c46:96e2:72f4:be89:d6eb:ab14 6.doctor.r
 42:0:3c46:7f2f:ed62:c6fd:9f1b:9900 donna.r
 42:0:3c46:7f2f:ed62:c6fd:9f1b:9900 6.donna.r
-10.243.0.3 echelon.r
-10.243.0.3 4.echelon.r
-42:0:ce16::4 echelon.r
-42:0:ce16::4 6.echelon.r
 10.243.27.30 enklave.r cgit.enklave.r
 10.243.27.30 4.enklave.r 4.cgit.enklave.r
 42:0:8809:2ef1:f4d5:6338:daa4:ba68 enklave.r cgit.enklave.r
@@ -696,8 +692,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.244.1.17 4.domsen-pixel.w
 42:1:ce16::d0 domsen-pixel.w
 42:1:ce16::d0 6.domsen-pixel.w
-42:1:ce16::3 echelon.w
-42:1:ce16::3 6.echelon.w
 10.244.2.97 phone.kmein.w
 10.244.2.97 4.phone.kmein.w
 42:1:3c46:362d:4288:1990:c391:127b phone.kmein.w
