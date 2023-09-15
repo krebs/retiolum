@@ -482,10 +482,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.100.101 4.porree.r
 42:0:3c46:b51c:b34d:b7e1:3b02:8d24 porree.r
 42:0:3c46:b51c:b34d:b7e1:3b02:8d24 6.porree.r
-10.243.0.103 prism.r cache.prism.r cgit.prism.r bota.r flix.r paste.r c.r p.r search.r wallpaper.r
-10.243.0.103 4.prism.r 4.cache.prism.r 4.cgit.prism.r 4.bota.r 4.flix.r 4.paste.r 4.c.r 4.p.r 4.search.r 4.wallpaper.r
-42:0:ce16::1 prism.r cache.prism.r cgit.prism.r bota.r flix.r paste.r c.r p.r search.r wallpaper.r
-42:0:ce16::1 6.prism.r 6.cache.prism.r 6.cgit.prism.r 6.bota.r 6.flix.r 6.paste.r 6.c.r 6.p.r 6.search.r 6.wallpaper.r
+10.243.0.103 prism.r cache.prism.r cgit.prism.r bota.r paste.r c.r p.r search.r wallpaper.r
+10.243.0.103 4.prism.r 4.cache.prism.r 4.cgit.prism.r 4.bota.r 4.paste.r 4.c.r 4.p.r 4.search.r 4.wallpaper.r
+42:0:ce16::1 prism.r cache.prism.r cgit.prism.r bota.r paste.r c.r p.r search.r wallpaper.r
+42:0:ce16::1 6.prism.r 6.cache.prism.r 6.cgit.prism.r 6.bota.r 6.paste.r 6.c.r 6.p.r 6.search.r 6.wallpaper.r
 10.243.77.2 puyak.r build.puyak.r cgit.puyak.r
 10.243.77.2 4.puyak.r 4.build.puyak.r 4.cgit.puyak.r
 42:0:ca48:f98f:63d7:31ce:922b:245d puyak.r build.puyak.r cgit.puyak.r
@@ -654,10 +654,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:a46e:c3c:9c2f:1386:90fc:a489 6.xu.r 6.cgit.xu.r
 42:0:3c46:9b18:d5e7:d945:ccf8:829e yasmin.r
 42:0:3c46:9b18:d5e7:d945:ccf8:829e 6.yasmin.r
-10.243.0.14 yellow.r jelly.r radar.r sonar.r transmission.r
-10.243.0.14 4.yellow.r 4.jelly.r 4.radar.r 4.sonar.r 4.transmission.r
-42:0:ce16::3110 yellow.r jelly.r radar.r sonar.r transmission.r
-42:0:ce16::3110 6.yellow.r 6.jelly.r 6.radar.r 6.sonar.r 6.transmission.r
+10.243.0.14 yellow.r jelly.r flix.r radar.r sonar.r transmission.r
+10.243.0.14 4.yellow.r 4.jelly.r 4.flix.r 4.radar.r 4.sonar.r 4.transmission.r
+42:0:ce16::3110 yellow.r jelly.r flix.r radar.r sonar.r transmission.r
+42:0:ce16::3110 6.yellow.r 6.jelly.r 6.flix.r 6.radar.r 6.sonar.r 6.transmission.r
 10.243.2.34 zaatar.r zaatar.kmein.r grocy.kmein.r moodle.kmein.r radio.kmein.r home.kmein.r
 10.243.2.34 4.zaatar.r 4.zaatar.kmein.r 4.grocy.kmein.r 4.moodle.kmein.r 4.radio.kmein.r 4.home.kmein.r
 42:0:3c46:156e:10b6:3bd6:6e82:b2cd zaatar.r zaatar.kmein.r grocy.kmein.r moodle.kmein.r radio.kmein.r home.kmein.r
