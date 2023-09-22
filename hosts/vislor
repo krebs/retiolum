@@ -1,0 +1,14 @@
+Address = 131.159.102.25 655
+Address = 2a09:80c0:102::25 655
+Subnet = 42:0:3c46:3a82:e9d3:d257:53bb:4ada
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAnAIEtqtJzQmhAOLMDOp6LvlMoElNezeFarvZ6LshbZbLPL7Mv2Iy
+buEoduzGNlqUbqEypsv7pQBSqw4Kqn9jMnpk8EpPiLiqIaBJeGqS1eIHi4DdRIyC
+wwOgAqbc0e55LGSRyLS2GgbzD3kHh0UgVF2/MM01r4l53w8ftSJwR5dL6tpKnfgm
+wjc8hwQtxen+zym2RJV7E+YPKg2t/ZGTJZbgk54/19l5Eeb18xxfTyxBNdUWBBCo
+vnR/h2gfCZnmsj4UiSor+z+00eaDyespfjLw3X7XQkCdlfgx0BVfhXH2RGOtdH+P
+AdnLFg7OfGh9V8zAiOC7jyuCrlbh0q0QoQIDAQAB
+-----END RSA PUBLIC KEY-----
+
+Ed25519PublicKey = PqpTiIldNgPTKQVnouiGNo8mX0wqSVtg9al6ve/sj2E
