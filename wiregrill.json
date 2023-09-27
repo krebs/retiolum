@@ -292,6 +292,12 @@
     ],
     "publicKey": "YeWbR3mW+nOVBE7bcNSzF5fjj9ppd8OGHBJqERAUVxU="
   },
+  "zoppo": {
+    "allowedIPs": [
+      "42:1:a46e:205f:cc6b:6433:55d4:574b"
+    ],
+    "publicKey": "5YFGAb9Tg/5HH+XHSKanh4P6jE7KTrViwqVuEkmQeSg="
+  },
   "zu": {
     "allowedIPs": [
       "42:1:a46e:9c86:82ce:fa82:83d3:fda"
