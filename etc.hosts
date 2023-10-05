@@ -324,6 +324,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.133.114 4.icarus.r
 42:0:ce16::1205 icarus.r
 42:0:ce16::1205 6.icarus.r
+10.243.0.25 ignavia.r
+10.243.0.25 4.ignavia.r
+42:0:ce16::16a2 ignavia.r
+42:0:ce16::16a2 6.ignavia.r
 10.243.10.244 iti.r ltd.feliks.r
 10.243.10.244 4.iti.r 4.ltd.feliks.r
 42:0:3c46:bd54:30b:b799:a9a7:68c8 iti.r ltd.feliks.r
