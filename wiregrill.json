@@ -49,6 +49,12 @@
     ],
     "publicKey": "cGuBSB1DftIsanbxrSG/i4FiC+TmQrs+Z0uE6SPscHY="
   },
+  "fu": {
+    "allowedIPs": [
+      "42:1:a46e:6a8d:a4d0:ef23:161b:5b7c"
+    ],
+    "publicKey": "Nds8Gja25t9xlQqr9zQIUAXXidt42cEIjq9VxUHkBQw="
+  },
   "g7power": {
     "allowedIPs": [
       "10.244.2.97",

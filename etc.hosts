@@ -272,6 +272,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.211.172 4.flap.r
 42:0:e644:43dc:2291:7db8:acdc:d33e flap.r
 42:0:e644:43dc:2291:7db8:acdc:d33e 6.flap.r
+10.243.13.44 fu.r
+10.243.13.44 4.fu.r
+42:0:a46e:6a8d:a4d0:ef23:161b:5b7c fu.r
+42:0:a46e:6a8d:a4d0:ef23:161b:5b7c 6.fu.r
 10.243.2.107 ful.r
 10.243.2.107 4.ful.r
 42:0:3c46:2c8b:a564:1213:9fb4:1bc4 ful.r
@@ -708,6 +712,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.244.1.17 4.domsen-pixel.w
 42:1:ce16::d0 domsen-pixel.w
 42:1:ce16::d0 6.domsen-pixel.w
+42:1:a46e:6a8d:a4d0:ef23:161b:5b7c fu.w
+42:1:a46e:6a8d:a4d0:ef23:161b:5b7c 6.fu.w
 10.244.2.97 phone.kmein.w
 10.244.2.97 4.phone.kmein.w
 42:1:3c46:362d:4288:1990:c391:127b phone.kmein.w

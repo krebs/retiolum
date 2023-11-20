@@ -1,0 +1,15 @@
+Subnet = 10.243.13.44
+Subnet = 42:0:a46e:6a8d:a4d0:ef23:161b:5b7c
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEA7zwE/2k+c14PkDPaDF4Ss4oxIvb99kcim9qHHhHanZKS0SG0pEOB
+UthaL8ZC3ww278eh6J1hLsaqJsznEs7TAFYZtH94lbXyxsGq3hdlpMhXKdgeHuei
+ZpNj/gyo1REsHz4k4Xj3XmtqWoAteQviccl2zi+KcC0U9hxvbnXIY3CGYgNsCFb4
+2EJtFXi2nDoHXicso2+bUufIhNGjxEkye9dEkChEGM27fxSr61yVlLARpm67jfEY
+kTW2OXOYz1yJ6Akr4yvQaS3FN6sEQ3YbE57Xju46VHn5kOmpYVMGyktmdOZwHnaO
+iaTLEzuYBEAJuyEt/2/XmiCGjlxrIGkyZQIDAQAB
+-----END RSA PUBLIC KEY-----
+
+Ed25519PublicKey = a2nUW601al1Sp1owDC4D3ukDesHThXeabMzhUckUL1O
+
+Weight = 300
