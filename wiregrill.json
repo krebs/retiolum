@@ -214,12 +214,6 @@
     ],
     "publicKey": "+3GdhwFYmBr46bBwyqrY3UH9fU1b8c2Vqmx9JTY4syU="
   },
-  "savarcast": {
-    "allowedIPs": [
-      "42:1:e644:4a2f:1f93:4696:f1d9:ca"
-    ],
-    "publicKey": "mM/QKHTnLlC5qyClRY9WZKg3TK4F+WpLIKRtjCmCCHM="
-  },
   "shackdev": {
     "allowedIPs": [
       "10.244.245.2",
@@ -258,7 +252,7 @@
       "10.244.245.4",
       "42:1:e644:afb2:95c8:f993:8906:3132"
     ],
-    "publicKey": "Y6fOW2QDt0SsHT7hSVzzJYQVB3JI/txO4/FDB54Z52A="
+    "publicKey": "T7Cr80dBbtPFCPdz4OS7whDlQJzn2Orclq5rLVtD+Ds="
   },
   "ubik": {
     "allowedIPs": [
