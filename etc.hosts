@@ -368,6 +368,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.0.214 4.latte.r 4.torrent.latte.r
 42:0:e644:7cc2:201c:8cbb:ff58:fbfa latte.r torrent.latte.r
 42:0:e644:7cc2:201c:8cbb:ff58:fbfa 6.latte.r 6.torrent.latte.r
+10.243.13.43 leg.r
+10.243.13.43 4.leg.r
+42:0:a46e:c29a:c7c8:fc91:abb8:ed76 leg.r
+42:0:a46e:c29a:c7c8:fc91:abb8:ed76 6.leg.r
 10.243.133.77 littleT.r
 10.243.133.77 4.littleT.r
 42:0:ce16::771e littleT.r
@@ -684,8 +688,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.2.34 4.zaatar.r 4.zaatar.kmein.r 4.grocy.kmein.r 4.moodle.kmein.r 4.radio.kmein.r 4.home.kmein.r
 42:0:3c46:156e:10b6:3bd6:6e82:b2cd zaatar.r zaatar.kmein.r grocy.kmein.r moodle.kmein.r radio.kmein.r home.kmein.r
 42:0:3c46:156e:10b6:3bd6:6e82:b2cd 6.zaatar.r 6.zaatar.kmein.r 6.grocy.kmein.r 6.moodle.kmein.r 6.radio.kmein.r 6.home.kmein.r
-10.243.13.43 zoppo.r
-10.243.13.43 4.zoppo.r
+10.243.13.45 zoppo.r
+10.243.13.45 4.zoppo.r
 42:0:a46e:205f:cc6b:6433:55d4:574b zoppo.r
 42:0:a46e:205f:cc6b:6433:55d4:574b 6.zoppo.r
 10.243.13.40 zu.r
@@ -730,6 +734,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:1:ce16::1205 6.icarus.w
 42:1:ce16::189 lasspi.w
 42:1:ce16::189 6.lasspi.w
+42:1:a46e:c29a:c7c8:fc91:abb8:ed76 leg.w
+42:1:a46e:c29a:c7c8:fc91:abb8:ed76 6.leg.w
 42:1:ce16::771e littleT.w
 42:1:ce16::771e 6.littleT.w
 42:1:ce16::113 massulus.w
