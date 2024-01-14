@@ -470,10 +470,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.29.190 4.okelmann.r
 42:0:3c46:2626:717f:6671:a6f8:d89d okelmann.r
 42:0:3c46:2626:717f:6671:a6f8:d89d 6.okelmann.r
-10.243.0.89 omo.r dcpp.omo.r backup.makefu.r torrent.omo.r music.omo.r music.makefu.r
-10.243.0.89 4.omo.r 4.dcpp.omo.r 4.backup.makefu.r 4.torrent.omo.r 4.music.omo.r 4.music.makefu.r
-42:0:e644:920e:23f6:353a:c09:5a66 omo.r dcpp.omo.r backup.makefu.r torrent.omo.r music.omo.r music.makefu.r
-42:0:e644:920e:23f6:353a:c09:5a66 6.omo.r 6.dcpp.omo.r 6.backup.makefu.r 6.torrent.omo.r 6.music.omo.r 6.music.makefu.r
+10.243.0.89 omo.r dcpp.omo.r hass.omo.r backup.makefu.r torrent.omo.r music.omo.r music.makefu.r
+10.243.0.89 4.omo.r 4.dcpp.omo.r 4.hass.omo.r 4.backup.makefu.r 4.torrent.omo.r 4.music.omo.r 4.music.makefu.r
+42:0:e644:920e:23f6:353a:c09:5a66 omo.r dcpp.omo.r hass.omo.r backup.makefu.r torrent.omo.r music.omo.r music.makefu.r
+42:0:e644:920e:23f6:353a:c09:5a66 6.omo.r 6.dcpp.omo.r 6.hass.omo.r 6.backup.makefu.r 6.torrent.omo.r 6.music.omo.r 6.music.makefu.r
 10.243.0.101 onebutton.r
 10.243.0.101 4.onebutton.r
 42:0:ca48:bfa7:deac:9452:799:37a onebutton.r
