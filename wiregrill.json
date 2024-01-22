@@ -165,6 +165,13 @@
     ],
     "publicKey": "NP8zM9+ocwsHhY9Rn6tFqIU1FR8JidqtDs7IKpl3yU8="
   },
+  "pa": {
+    "allowedIPs": [
+      "10.244.3.103",
+      "42:1:a46e:3d82:9513:229d:4359:7826"
+    ],
+    "publicKey": "X+Sm5uyeI1B6cVeyxPz0YXy6L5jrs2GKwfjfPuF67GA="
+  },
   "phone": {
     "allowedIPs": [
       "10.244.1.13",

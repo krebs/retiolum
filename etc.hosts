@@ -760,6 +760,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:1:e644:920e:23f6:353a:c09:5a66 6.omo.w 6.hass.omo.w 6.jelly.omo.w 6.jelly.makefu.w
 42:1:ce16::12a orange.w
 42:1:ce16::12a 6.orange.w
+10.244.3.103 pa.w
+10.244.3.103 4.pa.w
+42:1:a46e:3d82:9513:229d:4359:7826 pa.w
+42:1:a46e:3d82:9513:229d:4359:7826 6.pa.w
 10.244.1.13 phone.w
 10.244.1.13 4.phone.w
 42:1:ce16::a phone.w
