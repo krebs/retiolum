@@ -734,6 +734,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:1:ce16::1205 6.icarus.w
 42:1:ce16::189 lasspi.w
 42:1:ce16::189 6.lasspi.w
+10.244.13.42 leg.w
+10.244.13.42 4.leg.w
 42:1:a46e:c29a:c7c8:fc91:abb8:ed76 leg.w
 42:1:a46e:c29a:c7c8:fc91:abb8:ed76 6.leg.w
 42:1:ce16::771e littleT.w
