@@ -97,7 +97,7 @@
   },
   "leg": {
     "allowedIPs": [
-      "10.244.13.42",
+      "10.244.3.43",
       "42:1:a46e:c29a:c7c8:fc91:abb8:ed76"
     ],
     "publicKey": "tlGh9gpV09TspLVV/9+Z5T5fhMAQcz5c5L3KNvR/d1I="
