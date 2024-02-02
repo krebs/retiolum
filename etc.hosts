@@ -30,8 +30,6 @@
 131.159.102.12 4.dan.i
 2a09:80c0:102::12 dan.i
 2a09:80c0:102::12 6.dan.i
-157.90.232.92 dishfire.i
-157.90.232.92 4.dishfire.i
 131.159.102.4 doctor.i
 131.159.102.4 4.doctor.i
 2a09:80c0:102::4 doctor.i
@@ -236,10 +234,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:3c46:a1cf:9d0e:d966:a438:905d 6.dimitrios.r
 42:0:3c46:3c7f:bc35:f39a:8d7c:1ab4 dimitriosxps.r
 42:0:3c46:3c7f:bc35:f39a:8d7c:1ab4 6.dimitriosxps.r
-10.243.133.99 dishfire.r grafana.lass.r prometheus.lass.r alert.lass.r
-10.243.133.99 4.dishfire.r 4.grafana.lass.r 4.prometheus.lass.r 4.alert.lass.r
-42:0:ce16::d15f:1233 dishfire.r grafana.lass.r prometheus.lass.r alert.lass.r
-42:0:ce16::d15f:1233 6.dishfire.r 6.grafana.lass.r 6.prometheus.lass.r 6.alert.lass.r
 42:0:3c46:96e2:72f4:be89:d6eb:ab14 doctor.r
 42:0:3c46:96e2:72f4:be89:d6eb:ab14 6.doctor.r
 42:0:3c46:7f2f:ed62:c6fd:9f1b:9900 donna.r
