@@ -83,7 +83,7 @@ index 00000000..2acf78d3
 Of course you can also send the patch directly.
 E.g. if you have sendmail configured:
 ```
-git format-patch --to=spam@krebsco.de origin/master.. | sendmail -t
+git format-patch --stdout --to=spam@krebsco.de origin/master.. | tail -n +2 | sendmail -t
 ```
 
 ## ask for the patch to get merged
