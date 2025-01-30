@@ -1,3 +1,7 @@
+131.159.38.181 ace.i
+131.159.38.181 4.ace.i
+2a09:80c0:38::181 ace.i
+2a09:80c0:38::181 6.ace.i
 131.159.102.13 adelaide.i
 131.159.102.13 4.adelaide.i
 2a09:80c0:102::13 adelaide.i
@@ -58,6 +62,14 @@
 142.132.189.140 4.gum.i
 fe80::9400:1ff:fe24:33f4 gum.i
 fe80::9400:1ff:fe24:33f4 6.gum.i
+131.159.102.30 ian.i
+131.159.102.30 4.ian.i
+2a09:80c0:102::30 ian.i
+2a09:80c0:102::30 6.ian.i
+131.159.102.28 irene.i
+131.159.102.28 4.irene.i
+2a09:80c0:102::28 irene.i
+2a09:80c0:102::28 6.irene.i
 131.159.102.17 jack.i
 131.159.102.17 4.jack.i
 2a09:80c0:102::17 jack.i
@@ -108,6 +120,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 131.159.102.8 4.ryan.i
 2a09:80c0:102::8 ryan.i
 2a09:80c0:102::8 6.ryan.i
+131.159.38.2 tegan.i
+131.159.38.2 4.tegan.i
+2a09:80c0:38::2 tegan.i
+2a09:80c0:38::2 6.tegan.i
 131.159.102.25 vislor.i
 131.159.102.25 4.vislor.i
 2a09:80c0:102::25 vislor.i
@@ -116,10 +132,16 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 131.159.102.15 4.wilfred.i
 2a09:80c0:102::15 wilfred.i
 2a09:80c0:102::15 6.wilfred.i
+131.159.102.27 xavier.i
+131.159.102.27 4.xavier.i
+2a09:80c0:102::27 xavier.i
+2a09:80c0:102::27 6.xavier.i
 131.159.102.7 yasmin.i
 131.159.102.7 4.yasmin.i
 2a09:80c0:102::7 yasmin.i
 2a09:80c0:102::7 6.yasmin.i
+42:0:3c46:2844:2a0b:6287:a0e6:5cff ace.r
+42:0:3c46:2844:2a0b:6287:a0e6:5cff 6.ace.r
 42:0:3c46:b79b:e658:22f8:3a00:fc74 adelaide.r
 42:0:3c46:b79b:e658:22f8:3a00:fc74 6.adelaide.r
 10.243.29.172 aendernix.r
@@ -192,10 +214,12 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.13.12 4.catalonia.r
 42:0:3c46:872f:60bd:5179:38b3:cba9 catalonia.r
 42:0:3c46:872f:60bd:5179:38b3:cba9 6.catalonia.r
-42:0:3c46:7aa0:7688:64eb:dd1e:5efa centauri.r
-42:0:3c46:7aa0:7688:64eb:dd1e:5efa 6.centauri.r
+42:0:3c46:34ed:2daf:e6c:7900:9f92 cherry.r
+42:0:3c46:34ed:2daf:e6c:7900:9f92 6.cherry.r
 42:0:3c46:9a2d:93c6:b09e:fc2:92a9 christina.r
 42:0:3c46:9a2d:93c6:b09e:fc2:92a9 6.christina.r
+42:0:3c46:45a:57da:862a:d247:151 chungus.r
+42:0:3c46:45a:57da:862a:d247:151 6.chungus.r
 42:0:3c46:e4e9:7814:459b:3f23:f455 clara.r
 42:0:3c46:e4e9:7814:459b:3f23:f455 6.clara.r
 10.243.0.17 coaxmetal.r
@@ -210,6 +234,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.136.237 4.crapi.r
 42:0:e644:b386:6e2a:c94f:34d6:b0ca crapi.r
 42:0:e644:b386:6e2a:c94f:34d6:b0ca 6.crapi.r
+42:0:3c46:6393:f3a2:2c1c:e8e0:a5a9 cream.r
+42:0:3c46:6393:f3a2:2c1c:e8e0:a5a9 6.cream.r
 10.243.42.63 crustacea.r
 10.243.42.63 4.crustacea.r
 42:0:4a6f::4263 crustacea.r
@@ -246,6 +272,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:3c46:8a42:2b1:5ef8:7562:676a 6.eva.r 6.loki.r 6.prometheus.r 6.alertmanager.r
 42:0:3c46:70c7:8526:2adf:7451:8bbb eve.r tts.r flood.r warez.r bing-gpt.r navidrome.r
 42:0:3c46:70c7:8526:2adf:7451:8bbb 6.eve.r 6.tts.r 6.flood.r 6.warez.r 6.bing-gpt.r 6.navidrome.r
+10.243.2.77 fatteh.r fatteh.kmein.r
+10.243.2.77 4.fatteh.r 4.fatteh.kmein.r
+42:0:3c46:aa73:82b0:14d7:7bf8:bf2 fatteh.r fatteh.kmein.r
+42:0:3c46:aa73:82b0:14d7:7bf8:bf2 6.fatteh.r 6.fatteh.kmein.r
 10.243.189.130 filebitch.r
 10.243.189.130 4.filebitch.r
 42:0:ca48:344c:cb3f:4a05:711b:f53e filebitch.r
@@ -270,10 +300,12 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.13.44 4.fu.r
 42:0:a46e:6a8d:a4d0:ef23:161b:5b7c fu.r
 42:0:a46e:6a8d:a4d0:ef23:161b:5b7c 6.fu.r
-10.243.2.107 ful.r
-10.243.2.107 4.ful.r
-42:0:3c46:2c8b:a564:1213:9fb4:1bc4 ful.r
-42:0:3c46:2c8b:a564:1213:9fb4:1bc4 6.ful.r
+10.243.2.107 brockman.r ful.r news.r rss.r
+10.243.2.107 4.brockman.r 4.ful.r 4.news.r 4.rss.r
+42:0:3c46:2c8b:a564:1213:9fb4:1bc4 brockman.r ful.r news.r rss.r
+42:0:3c46:2c8b:a564:1213:9fb4:1bc4 6.brockman.r 6.ful.r 6.news.r 6.rss.r
+42:0:8e31:e926:49a7:f6b2:c986:607 glanix9001.phelix.r
+42:0:8e31:e926:49a7:f6b2:c986:607 6.glanix9001.phelix.r
 42:0:3c46:ab64:fa7c:171a:c94a:ac19 graham.r
 42:0:3c46:ab64:fa7c:171a:c94a:ac19 6.graham.r
 10.243.0.66 green.r
@@ -284,10 +316,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.217.217 4.grill.r
 42:0:6a0a:c4b1:2d6c:1f3f:a3c6:9d96 grill.r
 42:0:6a0a:c4b1:2d6c:1f3f:a3c6:9d96 6.grill.r
-10.243.0.213 gum.r blog.gum.r blog.makefu.r cache.gum.r cgit.gum.r dcpp.gum.r dcpp.nextgum.r graph.makefu.r logs.makefu.r netdata.makefu.r nextgum.r o.gum.r search.makefu.r stats.makefu.r torrent.gum.r tracker.makefu.r wiki.gum.r wiki.makefu.r warrior.gum.r rss.makefu.r sick.makefu.r dl.gum.r dl.makefu.r
-10.243.0.213 4.gum.r 4.blog.gum.r 4.blog.makefu.r 4.cache.gum.r 4.cgit.gum.r 4.dcpp.gum.r 4.dcpp.nextgum.r 4.graph.makefu.r 4.logs.makefu.r 4.netdata.makefu.r 4.nextgum.r 4.o.gum.r 4.search.makefu.r 4.stats.makefu.r 4.torrent.gum.r 4.tracker.makefu.r 4.wiki.gum.r 4.wiki.makefu.r 4.warrior.gum.r 4.rss.makefu.r 4.sick.makefu.r 4.dl.gum.r 4.dl.makefu.r
-42:0:e644:238d:3e46:c884:6ec5:16c gum.r blog.gum.r blog.makefu.r cache.gum.r cgit.gum.r dcpp.gum.r dcpp.nextgum.r graph.makefu.r logs.makefu.r netdata.makefu.r nextgum.r o.gum.r search.makefu.r stats.makefu.r torrent.gum.r tracker.makefu.r wiki.gum.r wiki.makefu.r warrior.gum.r rss.makefu.r sick.makefu.r dl.gum.r dl.makefu.r
-42:0:e644:238d:3e46:c884:6ec5:16c 6.gum.r 6.blog.gum.r 6.blog.makefu.r 6.cache.gum.r 6.cgit.gum.r 6.dcpp.gum.r 6.dcpp.nextgum.r 6.graph.makefu.r 6.logs.makefu.r 6.netdata.makefu.r 6.nextgum.r 6.o.gum.r 6.search.makefu.r 6.stats.makefu.r 6.torrent.gum.r 6.tracker.makefu.r 6.wiki.gum.r 6.wiki.makefu.r 6.warrior.gum.r 6.rss.makefu.r 6.sick.makefu.r 6.dl.gum.r 6.dl.makefu.r
+10.243.0.213 gum.r blog.gum.r blog.makefu.r cache.gum.r cgit.gum.r git.gum.r dcpp.gum.r dcpp.nextgum.r graph.makefu.r logs.makefu.r netdata.makefu.r nextgum.r o.gum.r search.makefu.r stats.makefu.r torrent.gum.r tracker.makefu.r wiki.gum.r wiki.makefu.r warrior.gum.r rss.makefu.r sick.makefu.r dl.gum.r dl.makefu.r
+10.243.0.213 4.gum.r 4.blog.gum.r 4.blog.makefu.r 4.cache.gum.r 4.cgit.gum.r 4.git.gum.r 4.dcpp.gum.r 4.dcpp.nextgum.r 4.graph.makefu.r 4.logs.makefu.r 4.netdata.makefu.r 4.nextgum.r 4.o.gum.r 4.search.makefu.r 4.stats.makefu.r 4.torrent.gum.r 4.tracker.makefu.r 4.wiki.gum.r 4.wiki.makefu.r 4.warrior.gum.r 4.rss.makefu.r 4.sick.makefu.r 4.dl.gum.r 4.dl.makefu.r
+42:0:e644:238d:3e46:c884:6ec5:16c gum.r blog.gum.r blog.makefu.r cache.gum.r cgit.gum.r git.gum.r dcpp.gum.r dcpp.nextgum.r graph.makefu.r logs.makefu.r netdata.makefu.r nextgum.r o.gum.r search.makefu.r stats.makefu.r torrent.gum.r tracker.makefu.r wiki.gum.r wiki.makefu.r warrior.gum.r rss.makefu.r sick.makefu.r dl.gum.r dl.makefu.r
+42:0:e644:238d:3e46:c884:6ec5:16c 6.gum.r 6.blog.gum.r 6.blog.makefu.r 6.cache.gum.r 6.cgit.gum.r 6.git.gum.r 6.dcpp.gum.r 6.dcpp.nextgum.r 6.graph.makefu.r 6.logs.makefu.r 6.netdata.makefu.r 6.nextgum.r 6.o.gum.r 6.search.makefu.r 6.stats.makefu.r 6.torrent.gum.r 6.tracker.makefu.r 6.wiki.gum.r 6.wiki.makefu.r 6.warrior.gum.r 6.rss.makefu.r 6.sick.makefu.r 6.dl.gum.r 6.dl.makefu.r
 10.243.226.216 hasegateway.r
 10.243.226.216 4.hasegateway.r
 42:0:e644:9099:4f8:b9aa:3856:4e86 hasegateway.r
@@ -318,6 +350,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.54.54 4.hydrogen.r
 42:0:3c46:7e83:e7f9:b03:1036:3d69 hydrogen.r
 42:0:3c46:7e83:e7f9:b03:1036:3d69 6.hydrogen.r
+42:0:3c46:41e3:b54a:9512:7a4b:573f ian.r
+42:0:3c46:41e3:b54a:9512:7a4b:573f 6.ian.r
 10.243.133.114 icarus.r
 10.243.133.114 4.icarus.r
 42:0:ce16::1205 icarus.r
@@ -326,12 +360,18 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.0.25 4.ignavia.r
 42:0:ce16::16a2 ignavia.r
 42:0:ce16::16a2 6.ignavia.r
+10.243.10.242 ioka.r ioka.feliks.r
+10.243.10.242 4.ioka.r 4.ioka.feliks.r
+42:0:3c46:f9bd:6a88:9f68:abf3:e13 ioka.r ioka.feliks.r
+42:0:3c46:f9bd:6a88:9f68:abf3:e13 6.ioka.r 6.ioka.feliks.r
+42:0:3c46:b965:c30d:8b13:bcc7:59e8 irene.r
+42:0:3c46:b965:c30d:8b13:bcc7:59e8 6.irene.r
 10.243.10.244 iti.r ltd.feliks.r
 10.243.10.244 4.iti.r 4.ltd.feliks.r
 42:0:3c46:bd54:30b:b799:a9a7:68c8 iti.r ltd.feliks.r
 42:0:3c46:bd54:30b:b799:a9a7:68c8 6.iti.r 6.ltd.feliks.r
-42:0:3c46:43ea:3161:1159:e7e6:ff78 jack.r stable-confusion.r vicuna.r
-42:0:3c46:43ea:3161:1159:e7e6:ff78 6.jack.r 6.stable-confusion.r 6.vicuna.r
+42:0:3c46:43ea:3161:1159:e7e6:ff78 jack.r
+42:0:3c46:43ea:3161:1159:e7e6:ff78 6.jack.r
 42:0:3c46:d295:dc35:5ec7:5a2d:c4a1 jackson.r
 42:0:3c46:d295:dc35:5ec7:5a2d:c4a1 6.jackson.r
 10.243.5.6 jongepad.r
@@ -392,12 +432,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:ce16::113 6.massulus.r
 42:0:3c46:6745:adf4:a844:26c4:bf91 matchbox.r
 42:0:3c46:6745:adf4:a844:26c4:bf91 6.matchbox.r
-10.243.29.200 maurice.r
-10.243.29.200 4.maurice.r
-42:0:3c46:eea1:4d78:e62d:899a:4d7b maurice.r
-42:0:3c46:eea1:4d78:e62d:899a:4d7b 6.maurice.r
-42:0:3c46:8c2d:cc63:72e:d4eb:334d mauricehome.r
-42:0:3c46:8c2d:cc63:72e:d4eb:334d 6.mauricehome.r
 42:0:3c46:a85d:33c6:14ca:3cf7:8827 mickey.r
 42:0:3c46:a85d:33c6:14ca:3cf7:8827 6.mickey.r
 42:0:eac6:5e21:e83c:94e5:7917:6dd2 mokemoke.ynnel.r
@@ -420,14 +454,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:4a6f::4264 6.mystacocarida.crustacea.r
 42:0:3c46:362d:a9aa:4996:c78e:839a nardole.r
 42:0:3c46:362d:a9aa:4996:c78e:839a 6.nardole.r
-10.243.0.99 neoprism.r cache.neoprism.r
-10.243.0.99 4.neoprism.r 4.cache.neoprism.r
-42:0:ce16::99 neoprism.r cache.neoprism.r
-42:0:ce16::99 6.neoprism.r 6.cache.neoprism.r
-10.243.0.5 news.r brockman.r go.r rss.r
-10.243.0.5 4.news.r 4.brockman.r 4.go.r 4.rss.r
-42:0:ca48:c2c2:19fb:a0e9:95b9:794f news.r brockman.r go.r rss.r
-42:0:ca48:c2c2:19fb:a0e9:95b9:794f 6.news.r 6.brockman.r 6.go.r 6.rss.r
+10.243.0.99 neoprism.r cache.neoprism.r go.r
+10.243.0.99 4.neoprism.r 4.cache.neoprism.r 4.go.r
+42:0:ce16::99 neoprism.r cache.neoprism.r go.r
+42:0:ce16::99 6.neoprism.r 6.cache.neoprism.r 6.go.r
 10.243.113.223 ni.r cgit.ni.r krebs.ni.r search.ni.r
 10.243.113.223 4.ni.r 4.cgit.ni.r 4.krebs.ni.r 4.search.ni.r
 42:0:a46e:c68b:4db0:3a27:7cfb:9ef4 ni.r cgit.ni.r krebs.ni.r search.ni.r
@@ -520,8 +550,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:8809:48df:e952:9e30:78ff:ebc7 6.reagenzglas.r
 42:0:3c46:f7cf:5f5a:8ed8:f139:be6d river.r
 42:0:3c46:f7cf:5f5a:8ed8:f139:be6d 6.river.r
-42:0:3c46:e1a5:350a:770c:ec9:f353 rock.r
-42:0:3c46:e1a5:350a:770c:ec9:f353 6.rock.r
 42:0:3c46:a5a1:618d:663a:f0f1:ec88 rose.r
 42:0:3c46:a5a1:618d:663a:f0f1:ec88 6.rose.r
 10.243.122.122 rtjure.r
@@ -536,6 +564,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.20.18 4.spinner.rtunreal.r
 42:0:3c46:7109:4c9a:3c86:73e0:a786 spinner.rtunreal.r
 42:0:3c46:7109:4c9a:3c86:73e0:a786 6.spinner.rtunreal.r
+10.243.20.24 worker.rtunreal.r
+10.243.20.24 4.worker.rtunreal.r
+42:0:3c46:984c:8136:5e94:e2a0:f6e2 worker.rtunreal.r
+42:0:3c46:984c:8136:5e94:e2a0:f6e2 6.worker.rtunreal.r
 10.243.13.42 ru.r
 10.243.13.42 4.ru.r
 42:0:a46e:1270:ed5a:d332:c106:437 ru.r
@@ -578,8 +610,6 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.142.104 4.sokrateslaptop.r
 42:0:3c46:d31e:64a7:4a62:a9b0:118 sokrateslaptop.r
 42:0:3c46:d31e:64a7:4a62:a9b0:118 6.sokrateslaptop.r
-42:0:3c46:c79d:8db5:9feb:4d21:7f26 sol.r
-42:0:3c46:c79d:8db5:9feb:4d21:7f26 6.sol.r
 10.243.227.163 studio.r
 10.243.227.163 4.studio.r
 42:0:e644:c049:da0d:aaba:4b15:6961 studio.r
@@ -600,6 +630,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.42.65 4.tantulocarida.crustacea.r
 42:0:4a6f::4265 tantulocarida.crustacea.r
 42:0:4a6f::4265 6.tantulocarida.crustacea.r
+42:0:3c46:9ccb:9e81:1280:7eac:63b2 tegan.r
+42:0:3c46:9ccb:9e81:1280:7eac:63b2 6.tegan.r
 10.243.42.66 thecostraca.crustacea.r
 10.243.42.66 4.thecostraca.crustacea.r
 42:0:4a6f::4266 thecostraca.crustacea.r
@@ -664,6 +696,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.0.91 4.x.r
 42:0:e644:162:2d71:1642:b726:b044 x.r
 42:0:e644:162:2d71:1642:b726:b044 6.x.r
+42:0:3c46:6e0b:a95d:c4e8:99ac:156e xavier.r
+42:0:3c46:6e0b:a95d:c4e8:99ac:156e 6.xavier.r
 10.243.1.3 xerxes.r
 10.243.1.3 4.xerxes.r
 42:0:ce16::3 xerxes.r
@@ -674,10 +708,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:0:a46e:c3c:9c2f:1386:90fc:a489 6.xu.r 6.cgit.xu.r
 42:0:3c46:9b18:d5e7:d945:ccf8:829e yasmin.r
 42:0:3c46:9b18:d5e7:d945:ccf8:829e 6.yasmin.r
-10.243.0.14 yellow.r jelly.r flix.r radar.r sonar.r transmission.r
-10.243.0.14 4.yellow.r 4.jelly.r 4.flix.r 4.radar.r 4.sonar.r 4.transmission.r
-42:0:ce16::3110 yellow.r jelly.r flix.r radar.r sonar.r transmission.r
-42:0:ce16::3110 6.yellow.r 6.jelly.r 6.flix.r 6.radar.r 6.sonar.r 6.transmission.r
+10.243.0.14 yellow.r jelly.r flix.r radar.r sonar.r jellyseer.r transmission.r
+10.243.0.14 4.yellow.r 4.jelly.r 4.flix.r 4.radar.r 4.sonar.r 4.jellyseer.r 4.transmission.r
+42:0:ce16::3110 yellow.r jelly.r flix.r radar.r sonar.r jellyseer.r transmission.r
+42:0:ce16::3110 6.yellow.r 6.jelly.r 6.flix.r 6.radar.r 6.sonar.r 6.jellyseer.r 6.transmission.r
 10.243.2.34 zaatar.r zaatar.kmein.r grocy.kmein.r moodle.kmein.r radio.kmein.r home.kmein.r
 10.243.2.34 4.zaatar.r 4.zaatar.kmein.r 4.grocy.kmein.r 4.moodle.kmein.r 4.radio.kmein.r 4.home.kmein.r
 42:0:3c46:156e:10b6:3bd6:6e82:b2cd zaatar.r zaatar.kmein.r grocy.kmein.r moodle.kmein.r radio.kmein.r home.kmein.r
@@ -706,6 +740,8 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 42:1:ce16::17 6.coaxmetal.w
 42:1:ce16::daed daedalus.w
 42:1:ce16::daed 6.daedalus.w
+10.244.10.108 domi.w
+10.244.10.108 4.domi.w
 10.244.1.17 domsen-pixel.w
 10.244.1.17 4.domsen-pixel.w
 42:1:ce16::d0 domsen-pixel.w

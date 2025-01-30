@@ -40,7 +40,13 @@
     "allowedIPs": [
       "42:1:ce16::daed"
     ],
-    "publicKey": "ZVTTWbJfe8Oq6E6QW1qgXU91FnkuKDGJO3MF3I3gDFI="
+    "publicKey": "1/ZN/YvIBpWJGIwf0EE5NpxnQVCsde8f5WR3LExRW0M="
+  },
+  "domi": {
+    "allowedIPs": [
+      "10.244.10.108"
+    ],
+    "publicKey": "Yy1pvM0lEwaXuOwBoFGNYhHeyYEKuR/rovE0/myWyCI="
   },
   "domsen-pixel": {
     "allowedIPs": [
@@ -246,7 +252,7 @@
       "10.244.1.4",
       "42:1:ce16::50da"
     ],
-    "publicKey": "0rI/I8FYQ3Pba7fQ9oyvtP4a54GWsPa+3zAiGIuyV30="
+    "publicKey": "J1RTYvWmWZrLe+IqOrmy+wYxGyc2j6sUjIGgM1No2AQ="
   },
   "skynet": {
     "allowedIPs": [
