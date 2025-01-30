@@ -2,7 +2,6 @@
 let
   stockholmMirrors = {
     tv = "https://cgit.krebsco.de/stockholm"; # ni.r
-    lassulus = "https://cgit.lassul.us/stockholm"; # prism.r
     mic92 = "https://git.thalheim.io/Mic92/stockholm";
     makefu = "https://cgit.euer.krebsco.de/makefu/stockholm"; # gum.r
     # kmein = "https://github.com/kmein/stockholm";
