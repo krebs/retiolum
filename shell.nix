@@ -4,7 +4,7 @@ let
     tv = "https://cgit.krebsco.de/stockholm"; # ni.r
     mic92 = "https://git.thalheim.io/Mic92/stockholm";
     makefu = "https://cgit.euer.krebsco.de/makefu/stockholm"; # gum.r
-    # kmein = "https://github.com/kmein/stockholm";
+    krebs = "https://github.com/krebs/stockholm";
   };
 in
 pkgs.mkShell {
