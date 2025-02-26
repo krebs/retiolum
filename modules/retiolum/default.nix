@@ -58,10 +58,7 @@ in {
       '';
     };
 
-    networking.extraHosts = if (cfg.ipv4 == null) then
-        builtins.readFile ../../etc.hosts-v6only
-      else
-        builtins.readFile ../../etc.hosts;
+    networking.extraHosts = builtins.readFile ../../etc.hosts;
 
     environment.systemPackages = [
       config.services.tinc.networks.${netname}.package
