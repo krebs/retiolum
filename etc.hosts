@@ -240,6 +240,10 @@ fe80::9400:1ff:fe24:33f4 6.gum.i
 10.243.42.63 4.crustacea.r
 42:0:4a6f::4263 crustacea.r
 42:0:4a6f::4263 6.crustacea.r
+10.243.42.70 cyclida.crustacea.r
+10.243.42.70 4.cyclida.crustacea.r
+42:0:4a6f::4270 cyclida.crustacea.r
+42:0:4a6f::4270 6.cyclida.crustacea.r
 10.243.133.115 daedalus.r
 10.243.133.115 4.daedalus.r
 42:0:ce16::daed daedalus.r
